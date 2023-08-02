@@ -1,0 +1,4489 @@
+id,name_genres,id_genres
+10003,'Thriller' 'Action' 'Romance' 'Science Fiction' 'Adventure',"'53,28,10749,878,12'"
+100042,'Comedy','35'
+10005,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+10007,'Horror' 'Thriller',"'27,53'"
+10009,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+10010,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+10014,'Horror','27'
+100183,'Action' 'Horror',"'28,27'"
+10019,'Fantasy' 'Comedy' 'Romance',"'14,35,10749'"
+10020,'Romance' 'Family' 'Animation' 'Fantasy' 'Music',"'10749,10751,16,14,10402'"
+10028,'Romance' 'Music' 'Family',"'10749,10402,10751'"
+10032,'Comedy','35'
+10035,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+10036,'Comedy','35'
+10040,'Action' 'Comedy',"'28,35'"
+100402,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+10044,'Action' 'Comedy',"'28,35'"
+10045,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+100450,'',''
+100493,'Horror','27'
+10053,'Horror' 'Thriller',"'27,53'"
+10054,'Action' 'Comedy' 'Family' 'Adventure',"'28,35,10751,12'"
+10061,'Action' 'Adventure' 'Science Fiction' 'Thriller',"'28,12,878,53'"
+10065,'Horror' 'Thriller' 'Drama',"'27,53,18'"
+10068,'Drama' 'Romance',"'18,10749'"
+10070,'Action' 'Comedy' 'Horror',"'28,35,27'"
+10072,'Horror' 'Thriller',"'27,53'"
+10089,'Comedy' 'Horror',"'35,27'"
+100973,'Drama' 'Thriller',"'18,53'"
+10105,'Action' 'Adventure' 'Drama' 'History' 'War',"'28,12,18,36,10752'"
+10127,'Comedy' 'Horror' 'Science Fiction' 'Thriller',"'35,27,878,53'"
+10128,'Crime' 'Science Fiction' 'Thriller',"'80,878,53'"
+101299,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+10131,'Horror' 'Thriller',"'27,53'"
+10134,'Action' 'Science Fiction',"'28,878'"
+10135,'Action' 'Thriller',"'28,53'"
+10137,'Animation' 'Fantasy' 'Family' 'Comedy',"'16,14,10751,35'"
+10138,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+10140,'Adventure' 'Family' 'Fantasy',"'12,10751,14'"
+10144,'Animation' 'Family',"'16,10751'"
+10147,'Drama' 'Comedy' 'Crime',"'18,35,80'"
+10149,'Comedy' 'Drama',"'35,18'"
+10152,'Comedy','35'
+101538,'Animation' 'Family',"'16,10751'"
+10157,'Comedy' 'Crime',"'35,80'"
+10160,'Horror' 'Thriller',"'27,53'"
+10163,'Horror' 'Thriller' 'Science Fiction',"'27,53,878'"
+101652,'Science Fiction','878'
+101660,'Drama' 'Science Fiction' 'Action' 'Adventure',"'18,878,28,12'"
+10167,'Crime' 'Action' 'Thriller',"'80,28,53'"
+10172,'Comedy' 'Family' 'Drama',"'35,10751,18'"
+10188,'Adventure' 'Comedy' 'Drama' 'Family',"'12,35,18,10751'"
+10191,'Fantasy' 'Adventure' 'Animation' 'Family',"'14,12,16,10751'"
+10192,'Comedy' 'Adventure' 'Fantasy' 'Animation' 'Family',"'35,12,14,16,10751'"
+10193,'Animation' 'Family' 'Comedy',"'16,10751,35'"
+10195,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+10208,'Fantasy' 'Comedy' 'Science Fiction' 'Family',"'14,35,878,10751'"
+10213,'Western' 'Horror' 'Thriller',"'37,27,53'"
+10214,'Fantasy' 'Comedy' 'Family' 'Adventure',"'14,35,10751,12'"
+10216,'Science Fiction' 'Action' 'Horror',"'878,28,27'"
+10222,'Action' 'Thriller',"'28,53'"
+102234,'Action' 'Crime',"'28,80'"
+10225,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+10228,'Animation','16'
+102382,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+10239,'Drama' 'Romance',"'18,10749'"
+10241,'Comedy' 'Foreign',"'35,10769'"
+10246,'Comedy','35'
+10257,'Adventure' 'Action' 'Comedy' 'Science Fiction',"'12,28,35,878'"
+10260,'Comedy','35'
+10275,'Action','28'
+10281,'Horror' 'Thriller',"'27,53'"
+10283,'Horror' 'Thriller',"'27,53'"
+10285,'Fantasy' 'Horror' 'Thriller',"'14,27,53'"
+102899,'Science Fiction' 'Action' 'Adventure',"'878,28,12'"
+10292,'Horror' 'Thriller',"'27,53'"
+10294,'Horror' 'Thriller',"'27,53'"
+10303,'Action' 'Adventure' 'Comedy' 'Romance',"'28,12,35,10749'"
+10304,'Adventure' 'Horror' 'Action' 'Science Fiction',"'12,27,28,878'"
+10306,'Horror' 'Thriller',"'27,53'"
+103122,'Comedy','35'
+10320,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+10327,'Comedy','35'
+10328,'Comedy' 'Drama' 'Science Fiction',"'35,18,878'"
+10331,'Horror','27'
+10340,'Family' 'Animation',"'10751,16'"
+10344,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+10345,'Action' 'Comedy' 'Crime',"'28,35,80'"
+10351,'Horror','27'
+10353,'Comedy' 'Fantasy',"'35,14'"
+10361,'Drama' 'Horror',"'18,27'"
+10366,'Action' 'Science Fiction',"'28,878'"
+103686,'Drama','18'
+10372,'Adventure','12'
+103751,'',''
+10380,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+10389,'Horror','27'
+10402,'Comedy','35'
+10408,'Comedy','35'
+10414,'Comedy' 'Family',"'35,10751'"
+10426,'Comedy','35'
+10437,'Comedy' 'Family' 'Fantasy' 'Drama',"'35,10751,14,18'"
+10438,'Family' 'Comedy',"'10751,35'"
+104413,'Comedy','35'
+104606,'Comedy' 'Action',"'35,28'"
+10469,'Comedy' 'Mystery' 'Thriller',"'35,9648,53'"
+10470,'Animation' 'Comedy',"'16,35'"
+10471,'Comedy','35'
+10473,'Action' 'Adventure' 'Comedy' 'Fantasy',"'28,12,35,14'"
+10481,'Comedy' 'Family',"'35,10751'"
+10482,'Comedy','35'
+10483,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+10488,'Adventure' 'Comedy' 'Family' 'Fantasy',"'12,35,10751,14'"
+10495,'Family' 'Adventure',"'10751,12'"
+10496,'Horror' 'Thriller',"'27,53'"
+105,'Adventure' 'Comedy' 'Science Fiction' 'Family',"'12,35,878,10751'"
+105073,'Mystery','9648'
+105077,'Science Fiction' 'Action' 'Adventure' 'Drama',"'878,28,12,18'"
+1051,'Action' 'Crime' 'Thriller',"'28,80,53'"
+10516,'Comedy' 'Science Fiction',"'35,878'"
+105210,'Drama' 'Comedy' 'Science Fiction',"'18,35,878'"
+105231,'Animation' 'Action',"'16,28'"
+10527,'Family' 'Animation',"'10751,16'"
+10528,'Action' 'Adventure' 'Crime' 'Mystery',"'28,12,80,9648'"
+10530,'Adventure' 'Animation' 'Drama' 'Family',"'12,16,18,10751'"
+10545,'Drama' 'Animation' 'Family',"'18,16,10751'"
+10546,'Action' 'Fantasy' 'Thriller',"'28,14,53'"
+10547,'Action' 'Mystery' 'Science Fiction' 'Thriller',"'28,9648,878,53'"
+105528,'Drama' 'Family',"'18,10751'"
+10557,'Comedy','35'
+10560,'Drama' 'Music',"'18,10402'"
+105680,'Comedy' 'Romance',"'35,10749'"
+10570,'Comedy','35'
+10575,'Drama' 'Thriller' 'Romance' 'Crime',"'18,53,10749,80'"
+10576,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+10577,'Thriller' 'Horror',"'53,27'"
+10578,'Horror','27'
+10579,'Horror','27'
+10580,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+10585,'Horror' 'Thriller',"'27,53'"
+10587,'Comedy' 'Crime',"'35,80'"
+10594,'Thriller','53'
+105965,'Comedy' 'Family',"'35,10751'"
+106,'Science Fiction' 'Action' 'Adventure' 'Thriller',"'878,28,12,53'"
+10603,'Adventure' 'Comedy' 'Family' 'Romance',"'12,35,10751,10749'"
+10606,'Science Fiction','878'
+10611,'Comedy' 'Drama',"'35,18'"
+10617,'Action' 'Drama',"'28,18'"
+10618,'Action' 'Comedy',"'28,35'"
+10619,'Action','28'
+10620,'Action' 'Western',"'28,37'"
+10625,'Comedy','35'
+10634,'Comedy','35'
+10640,'Action' 'Adventure' 'Science Fiction' 'Thriller',"'28,12,878,53'"
+10643,'Adventure' 'Horror' 'Action' 'Science Fiction',"'12,27,28,878'"
+10645,'Comedy','35'
+10648,'Action' 'Crime' 'Thriller',"'28,80,53'"
+10649,'Action' 'Crime' 'Thriller',"'28,80,53'"
+10650,'Action' 'Crime' 'Thriller',"'28,80,53'"
+10651,'Action' 'Crime' 'Thriller',"'28,80,53'"
+106622,'Drama' 'Crime' 'Romance' 'Foreign',"'18,80,10749,10769'"
+106623,'',''
+10664,'Thriller' 'Horror',"'53,27'"
+10671,'Action' 'Drama' 'Thriller',"'28,18,53'"
+10673,'Crime' 'Drama',"'80,18'"
+10674,'Animation' 'Family' 'Adventure',"'16,10751,12'"
+106747,'Action' 'Crime' 'Thriller',"'28,80,53'"
+10676,'Horror' 'Mystery' 'Science Fiction',"'27,9648,878'"
+10677,'Drama' 'Romance',"'18,10749'"
+10679,'Action' 'Comedy' 'Science Fiction',"'28,35,878'"
+10680,'Action' 'Comedy' 'Drama' 'Family',"'28,35,18,10751'"
+10692,'Crime' 'Drama' 'Horror' 'Thriller',"'80,18,27,53'"
+10693,'Animation' 'Music' 'Family' 'Adventure' 'Fantasy',"'16,10402,10751,12,14'"
+10704,'Action' 'Science Fiction',"'28,878'"
+10706,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+10708,'Comedy' 'Family',"'35,10751'"
+107096,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+10711,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+10726,'Horror' 'Thriller',"'27,53'"
+10730,'Adventure' 'Drama',"'12,18'"
+10748,'Comedy' 'Family' 'Science Fiction',"'35,10751,878'"
+10751,'Action' 'Comedy' 'Crime' 'Thriller',"'28,35,80,53'"
+10753,'Action' 'Crime' 'Thriller',"'28,80,53'"
+10762,'Action' 'Adventure' 'Comedy' 'Thriller',"'28,12,35,53'"
+10764,'Adventure' 'Action' 'Thriller' 'Crime',"'12,28,53,80'"
+10766,'Action' 'Drama' 'Horror' 'Thriller',"'28,18,27,53'"
+10768,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+10770,'Comedy' 'Science Fiction',"'35,878'"
+10772,'Action' 'Western',"'28,37'"
+10775,'Drama' 'Action' 'Thriller' 'Crime' 'Mystery',"'18,28,53,80,9648'"
+10781,'Horror','27'
+10787,'Horror' 'Science Fiction',"'27,878'"
+107916,'Drama' 'Comedy',"'18,35'"
+107966,'Comedy' 'Action' 'Adventure',"'35,28,12'"
+10797,'Animation' 'Comedy',"'16,35'"
+108,'Drama' 'Music' 'Mystery',"'18,10402,9648'"
+10802,'Drama','18'
+10805,'Drama' 'Action' 'Music' 'Romance',"'18,28,10402,10749'"
+10808,'Comedy' 'Family' 'Romance' 'Fantasy',"'35,10751,10749,14'"
+10823,'Drama' 'Fantasy' 'Horror' 'Thriller',"'18,14,27,53'"
+10824,'Horror','27'
+108266,'Adventure' 'Western',"'12,37'"
+108267,'Action' 'Adventure' 'Western',"'28,12,37'"
+10829,'Action' 'Comedy' 'Horror' 'Science Fiction' 'Thriller',"'28,35,27,878,53'"
+10839,'Drama' 'Action' 'History' 'War',"'18,28,36,10752'"
+10841,'Drama' 'History',"'18,36'"
+108432,'Crime' 'Drama' 'Mystery',"'80,18,9648'"
+10845,'Comedy' 'Horror',"'35,27'"
+10855,'Action' 'Drama' 'Thriller',"'28,18,53'"
+10859,'Action' 'Comedy' 'Romance',"'28,35,10749'"
+10865,'Animation' 'Family' 'Adventure' 'Science Fiction',"'16,10751,12,878'"
+10866,'Mystery' 'Thriller' 'Drama',"'9648,53,18'"
+10869,'Romance' 'Comedy' 'Family' 'Fantasy',"'10749,35,10751,14'"
+10874,'Action' 'Comedy' 'Music' 'Family' 'Adventure',"'28,35,10402,10751,12'"
+108794,'Action' 'Adventure' 'History',"'28,12,36'"
+10891,'Action' 'Comedy' 'Horror' 'Western',"'28,35,27,37'"
+10898,'Family' 'Animation',"'10751,16'"
+109,'Comedy' 'Drama' 'Mystery',"'35,18,9648'"
+10906,'Horror','27'
+109080,'Animation' 'Action',"'16,28'"
+1091,'Horror' 'Mystery' 'Science Fiction',"'27,9648,878'"
+10911,'Action' 'Adventure' 'Drama' 'War',"'28,12,18,10752'"
+10915,'Comedy' 'Western',"'35,37'"
+10916,'Action' 'Drama' 'Science Fiction' 'Adventure',"'28,18,878,12'"
+10921,'Action' 'Drama' 'Science Fiction' 'Adventure',"'28,18,878,12'"
+10923,'Action','28'
+10925,'Comedy' 'Horror',"'35,27'"
+10929,'Horror','27'
+10939,'Comedy','35'
+10940,'Action' 'Drama' 'Science Fiction' 'Adventure',"'28,18,878,12'"
+10941,'Action' 'Drama' 'Science Fiction' 'Adventure',"'28,18,878,12'"
+109418,'Comedy','35'
+10942,'Science Fiction' 'Action' 'Adventure',"'878,28,12'"
+109439,'Comedy','35'
+109443,'Comedy','35'
+109445,'Animation' 'Adventure' 'Family',"'16,12,10751'"
+109451,'Animation' 'Family' 'Comedy',"'16,10751,35'"
+10947,'Comedy' 'Drama' 'Family' 'Music' 'TV Movie',"'35,18,10751,10402,10770'"
+10948,'Adventure' 'Animation' 'Drama' 'Family',"'12,16,18,10751'"
+10956,'Mystery' 'Adventure' 'Comedy' 'Romance' 'Drama',"'9648,12,35,10749,18'"
+109572,'Action' 'Animation' 'Comedy' 'TV Movie',"'28,16,35,10770'"
+109689,'Drama' 'Romance',"'18,10749'"
+10973,'Adventure' 'Horror' 'Science Fiction',"'12,27,878'"
+10974,'Adventure' 'Action' 'Comedy',"'12,28,35'"
+10975,'Action' 'Adventure' 'Crime' 'Thriller',"'28,12,80,53'"
+10982,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+10987,'Horror' 'Thriller',"'27,53'"
+109907,'Thriller' 'Foreign',"'53,10769'"
+10991,'Adventure' 'Fantasy' 'Animation' 'Action' 'Family' 'Adventure' 'Fantasy' 'Animation' 'Action' 'Family',"'12,14,16,28,10751,12,14,16,28,10751'"
+10992,'Comedy' 'Family',"'35,10751'"
+10996,'Family' 'Adventure' 'Animation' 'Comedy',"'10751,12,16,35'"
+11,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+110,'Drama' 'Mystery' 'Romance',"'18,9648,10749'"
+11006,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+11007,'Comedy','35'
+11009,'Drama' 'Music',"'18,10402'"
+11011,'Comedy' 'Family',"'35,10751'"
+110115,'Drama','18'
+110148,'Drama' 'Thriller' 'Crime' 'Mystery',"'18,53,80,9648'"
+11024,'Mystery' 'Fantasy' 'Adventure' 'Comedy',"'9648,14,12,35'"
+11026,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+1103,'Science Fiction' 'Action',"'878,28'"
+11037,'Action' 'Thriller' 'War',"'28,53,10752'"
+11039,'Comedy' 'Science Fiction',"'35,878'"
+110390,'Drama' 'Comedy',"'18,35'"
+11047,'Family' 'Animation' 'Adventure' 'Comedy',"'10751,16,12,35'"
+11048,'Action' 'Comedy' 'Crime' 'Drama',"'28,35,80,18'"
+11053,'Action' 'Comedy' 'Thriller' 'Drama',"'28,35,53,18'"
+11055,'Action' 'Comedy' 'Crime' 'Drama',"'28,35,80,18'"
+110552,'Action','28'
+110588,'Horror' 'Comedy' 'Science Fiction',"'27,35,878'"
+11059,'Horror' 'Action' 'Thriller',"'27,28,53'"
+11067,'Comedy','35'
+11069,'Horror' 'Action' 'Comedy' 'Science Fiction',"'27,28,35,878'"
+11077,'Comedy','35'
+11084,'Comedy','35'
+11119,'Science Fiction' 'Action',"'878,28'"
+11127,'Adventure' 'Science Fiction' 'Action',"'12,878,28'"
+11130,'Comedy' 'Drama' 'Family' 'Romance',"'35,18,10751,10749'"
+11133,'Horror' 'Thriller',"'27,53'"
+11134,'Action' 'Crime' 'Thriller',"'28,80,53'"
+11135,'Adventure' 'Animation' 'Crime' 'Family' 'Fantasy',"'12,16,80,10751,14'"
+11137,'Comedy' 'Romance',"'35,10749'"
+111440,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+111480,'Action' 'Crime',"'28,80'"
+11153,'Comedy' 'Adventure' 'Romance',"'35,12,10749'"
+11158,'Adventure' 'Comedy' 'Family' 'Science Fiction',"'12,35,10751,878'"
+11160,'Action' 'Comedy' 'Crime' 'Drama',"'28,35,80,18'"
+11164,'Action' 'Comedy' 'Drama' 'Family',"'28,35,18,10751'"
+11175,'Comedy' 'Western',"'35,37'"
+11176,'Adventure' 'Comedy' 'Family',"'12,35,10751'"
+11178,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+11179,'Comedy','35'
+11183,'Comedy','35'
+11186,'Drama' 'Horror',"'18,27'"
+11187,'Thriller' 'Horror' 'Action',"'53,27,28'"
+111913,'Documentary' 'Foreign',"'99,10769'"
+112058,'Comedy','35'
+11211,'Comedy','35'
+11224,'Family' 'Fantasy' 'Animation' 'Romance',"'10751,14,16,10749'"
+11229,'Comedy' 'Drama' 'Thriller',"'35,18,53'"
+11230,'Action' 'Comedy',"'28,35'"
+11231,'Adventure','12'
+11236,'Drama' 'Family' 'Fantasy',"'18,10751,14'"
+11237,'Adventure' 'Action' 'Horror' 'Science Fiction' 'Thriller',"'12,28,27,878,53'"
+11238,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+11243,'Adventure' 'Fantasy' 'Animation' 'Comedy' 'Science Fiction' 'Family',"'12,14,16,35,878,10751'"
+11246,'Horror' 'Thriller' 'Mystery',"'27,53,9648'"
+11247,'Comedy','35'
+11249,'Drama' 'Horror' 'Comedy',"'18,27,35'"
+11253,'Adventure' 'Fantasy' 'Science Fiction',"'12,14,878'"
+11281,'Horror' 'Thriller',"'27,53'"
+11282,'Comedy' 'Adventure',"'35,12'"
+11283,'Fantasy' 'Comedy' 'Family',"'14,35,10751'"
+11284,'Horror' 'Thriller' 'Comedy',"'27,53,35'"
+11285,'Comedy' 'Drama' 'Science Fiction',"'35,18,878'"
+11286,'Comedy','35'
+112912,'Documentary' 'War' 'History',"'99,10752,36'"
+11298,'Drama' 'Horror',"'18,27'"
+113082,'Action' 'Adventure' 'Animation' 'Fantasy' 'Horror',"'28,12,16,14,27'"
+11310,'Action' 'Comedy' 'Drama' 'Western',"'28,35,18,37'"
+11314,'Documentary' 'Music',"'99,10402'"
+11315,'Action' 'Thriller' 'Crime' 'Drama',"'28,53,80,18'"
+113154,'Science Fiction' 'Foreign',"'878,10769'"
+11317,'Comedy' 'Drama' 'Family' 'Romance',"'35,18,10751,10749'"
+11319,'Fantasy' 'Family' 'Animation' 'Adventure',"'14,10751,16,12'"
+113209,'Science Fiction','878'
+113210,'Science Fiction','878'
+113215,'Science Fiction','878'
+113219,'Science Fiction','878'
+11328,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+11330,'Action' 'Thriller' 'Crime',"'28,53,80'"
+113332,'Comedy' 'History' 'Foreign' 'War',"'35,36,10769,10752'"
+11342,'Adventure' 'Comedy' 'Fantasy' 'Horror',"'12,35,14,27'"
+11351,'Horror' 'Thriller',"'27,53'"
+11356,'Comedy','35'
+11357,'Horror' 'Thriller',"'27,53'"
+11358,'Adventure' 'Drama' 'Action' 'Thriller',"'12,18,28,53'"
+113582,'Action' 'Adventure' 'Comedy' 'Crime' 'Thriller',"'28,12,35,80,53'"
+113594,'Adventure' 'Animation',"'12,16'"
+11361,'Horror' 'Thriller',"'27,53'"
+11377,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+11389,'Family' 'Comedy' 'Crime',"'10751,35,80'"
+11390,'Family' 'Comedy' 'Crime',"'10751,35,80'"
+11391,'Family' 'Comedy' 'Crime',"'10751,35,80'"
+11392,'Family' 'Comedy' 'Crime',"'10751,35,80'"
+11395,'Fantasy' 'Drama' 'Comedy' 'Family',"'14,18,35,10751'"
+11398,'Crime' 'Action' 'Adventure',"'80,28,12'"
+11402,'Comedy','35'
+11406,'Comedy','35'
+11411,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+11415,'Comedy' 'Horror',"'35,27'"
+114150,'Comedy' 'Music' 'Romance',"'35,10402,10749'"
+11418,'Adventure' 'Comedy' 'Romance',"'12,35,10749'"
+11419,'Comedy','35'
+11425,'Adventure' 'Comedy' 'Family' 'Science Fiction' 'Action',"'12,35,10751,878,28'"
+11429,'Comedy' 'Horror' 'Science Fiction',"'35,27,878'"
+11430,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+114370,'Action' 'Animation',"'28,16'"
+114371,'Animation' 'Action',"'16,28'"
+114372,'Action' 'Animation',"'28,16'"
+11442,'Horror' 'Thriller',"'27,53'"
+114444,'',''
+114478,'Animation' 'Action' 'Science Fiction',"'16,28,878'"
+11449,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+11451,'Comedy' 'Family' 'Adventure' 'Fantasy' 'Romance',"'35,10751,12,14,10749'"
+11452,'Comedy' 'Romance',"'35,10749'"
+11453,'Comedy','35'
+11454,'Crime' 'Horror' 'Thriller',"'80,27,53'"
+11455,'Comedy','35'
+11470,'Horror' 'Science Fiction',"'27,878'"
+11471,'Action' 'Crime' 'Drama',"'28,80,18'"
+11475,'Comedy','35'
+11478,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+11495,'Fantasy' 'Drama' 'Horror' 'Action' 'Thriller',"'14,18,27,28,53'"
+11497,'Drama' 'Animation' 'Family' 'Comedy' 'Fantasy',"'18,16,10751,35,14'"
+11506,'Drama' 'Romance',"'18,10749'"
+11508,'Comedy' 'Family' 'Fantasy' 'Thriller' 'TV Movie',"'35,10751,14,53,10770'"
+11520,'Comedy' 'Family' 'Romance',"'35,10751,10749'"
+115223,'Animation' 'Family' 'Adventure',"'16,10751,12'"
+11525,'Action' 'Science Fiction',"'28,878'"
+11528,'Comedy' 'Family',"'35,10751'"
+115290,'Drama' 'Adventure' 'Romance',"'18,12,10749'"
+11531,'Mystery' 'Thriller' 'Horror',"'9648,53,27'"
+11544,'Animation' 'Family',"'16,10751'"
+11546,'Comedy' 'Crime',"'35,80'"
+11547,'Horror','27'
+115547,'Thriller' 'Crime',"'53,80'"
+11564,'Action' 'Drama' 'Horror' 'Crime' 'Thriller',"'28,18,27,80,53'"
+11565,'Comedy' 'Crime',"'35,80'"
+11568,'Music' 'Action' 'Comedy' 'Crime',"'10402,28,35,80'"
+11569,'Horror' 'Thriller' 'War',"'27,53,10752'"
+115706,'Action' 'Comedy',"'28,35'"
+11573,'Comedy' 'Crime',"'35,80'"
+11578,'Comedy','35'
+11586,'Horror' 'Thriller' 'Fantasy',"'27,53,14'"
+11587,'Thriller' 'Horror' 'Mystery',"'53,27,9648'"
+115873,'Comedy','35'
+11590,'Drama' 'Comedy',"'18,35'"
+11595,'Thriller' 'Action' 'Comedy' 'Crime' 'Drama',"'53,28,35,80,18'"
+11596,'Horror' 'Thriller' 'Mystery' 'Fantasy',"'27,53,9648,14'"
+11601,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+11602,'Drama','18'
+11612,'Crime' 'Action' 'Comedy',"'80,28,35'"
+116160,'Comedy','35'
+116167,'Documentary','99'
+116185,'Action','28'
+116190,'Comedy','35'
+11625,'Family' 'Animation' 'Adventure' 'Comedy',"'10751,16,12,35'"
+11626,'Family','10751'
+11630,'Comedy' 'Family',"'35,10751'"
+11631,'Comedy' 'Romance',"'35,10749'"
+116312,'Comedy','35'
+11633,'Animation' 'Action' 'Science Fiction',"'16,28,878'"
+11636,'Action' 'Thriller' 'Crime' 'Drama',"'28,53,80,18'"
+11637,'Adventure' 'Comedy' 'Family' 'Romance',"'12,35,10751,10749'"
+11647,'Drama' 'Action' 'Thriller' 'Crime',"'18,28,53,80'"
+11663,'Comedy' 'Drama' 'Music',"'35,18,10402'"
+11667,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+11674,'Comedy' 'Family',"'35,10751'"
+11675,'Horror' 'Thriller',"'27,53'"
+116776,'Action' 'Animation',"'28,16'"
+11679,'Action' 'Adventure' 'Crime' 'Drama' 'Mystery' 'Thriller',"'28,12,80,18,9648,53'"
+11683,'Horror','27'
+11684,'Comedy','35'
+11687,'Fantasy' 'Comedy' 'Science Fiction',"'14,35,878'"
+11688,'Adventure' 'Animation' 'Comedy' 'Family' 'Fantasy',"'12,16,35,10751,14'"
+11690,'Action','28'
+11704,'Fantasy' 'Animation' 'Drama' 'Family',"'14,16,18,10751'"
+117258,'Horror' 'TV Movie',"'27,10770'"
+117263,'Action' 'Thriller',"'28,53'"
+11752,'Comedy' 'Drama',"'35,18'"
+117629,'Drama' 'Romance',"'18,10749'"
+117691,'Action' 'Thriller' 'Crime',"'28,53,80'"
+11795,'Science Fiction','878'
+11797,'Horror','27'
+11798,'Drama' 'Crime',"'18,80'"
+11802,'Animation' 'Family',"'16,10751'"
+11804,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+11806,'Comedy' 'Family',"'35,10751'"
+11808,'Thriller' 'Crime' 'Action',"'53,80,28'"
+11811,'Comedy' 'Horror' 'Thriller',"'35,27,53'"
+11815,'Drama' 'Horror' 'Science Fiction',"'18,27,878'"
+11822,'Drama' 'Horror',"'18,27'"
+11824,'Comedy' 'Fantasy' 'Romance',"'35,14,10749'"
+11825,'Comedy' 'Crime',"'35,80'"
+11827,'Animation' 'Science Fiction',"'16,878'"
+118340,'Action' 'Science Fiction' 'Adventure',"'28,878,12'"
+11836,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+11838,'Horror','27'
+118406,'Fantasy' 'Animation' 'Action' 'Adventure',"'14,16,28,12'"
+11841,'Action' 'Adventure',"'28,12'"
+118412,'Animation' 'Action' 'Fantasy',"'16,28,14'"
+11843,'Mystery' 'Comedy' 'Crime',"'9648,35,80'"
+118439,'Western','37'
+11844,'Comedy' 'Drama',"'35,18'"
+11846,'Comedy' 'Romance',"'35,10749'"
+11849,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+118513,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+11862,'Comedy','35'
+11868,'Horror','27'
+11873,'Drama','18'
+11874,'Action' 'Comedy' 'Western',"'28,35,37'"
+118751,'Thriller' 'Drama',"'53,18'"
+11887,'Comedy' 'Drama' 'Family' 'Music' 'Romance',"'35,18,10751,10402,10749'"
+11895,'Comedy' 'Crime',"'35,80'"
+11899,'Romance' 'Comedy' 'Family',"'10749,35,10751'"
+11906,'Horror','27'
+11908,'Comedy' 'Horror',"'35,27'"
+11910,'Drama' 'Fantasy',"'18,14'"
+11913,'Comedy','35'
+11915,'Comedy','35'
+11917,'Horror' 'Thriller' 'Crime',"'27,53,80'"
+11932,'Horror' 'Comedy',"'27,35'"
+11937,'Action' 'Comedy',"'28,35'"
+11940,'Action' 'Adventure' 'Family' 'Fantasy' 'Science Fiction',"'28,12,10751,14,878'"
+11945,'Comedy' 'Family',"'35,10751'"
+119450,'Science Fiction' 'Action' 'Drama' 'Thriller',"'878,28,18,53'"
+11946,'Comedy' 'Family',"'35,10751'"
+11950,'Action' 'Comedy',"'28,35'"
+11955,'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'"
+11966,'Comedy' 'Family' 'Science Fiction' 'Drama',"'35,10751,878,18'"
+11967,'Crime' 'Action' 'Adventure' 'Drama' 'Western',"'80,28,12,18,37'"
+11968,'Action' 'Thriller' 'Adventure' 'Crime',"'28,53,12,80'"
+11972,'Comedy','35'
+11977,'Comedy','35'
+11979,'Drama' 'Fantasy' 'Horror',"'18,14,27'"
+11980,'Fantasy' 'Horror' 'Thriller',"'14,27,53'"
+11982,'Romance' 'Comedy' 'Family',"'10749,35,10751'"
+119892,'Action' 'Adventure' 'Family',"'28,12,10751'"
+119893,'Family' 'Drama',"'10751,18'"
+12,'Animation' 'Family',"'16,10751'"
+120,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+120143,'Action','28'
+120386,'Romance' 'Drama',"'10749,18'"
+120475,'Action' 'Animation' 'Adventure',"'28,16,12'"
+12076,'Comedy','35'
+12088,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+12089,'Comedy' 'Mystery',"'35,9648'"
+12094,'Action' 'Comedy' 'Documentary',"'28,35,99'"
+12095,'Crime' 'Action' 'Horror' 'Thriller',"'80,28,27,53'"
+12096,'Action' 'Comedy' 'Crime' 'Mystery' 'Family',"'28,35,80,9648,10751'"
+12097,'Adventure' 'Family',"'12,10751'"
+121,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+12107,'Fantasy' 'Comedy' 'Romance' 'Science Fiction',"'14,35,10749,878'"
+12118,'Comedy' 'Crime',"'35,80'"
+12127,'Adventure' 'Family',"'12,10751'"
+12129,'Fantasy' 'Comedy' 'Family' 'Adventure',"'14,35,10751,12'"
+12139,'Family' 'Comedy',"'10751,35'"
+12140,'Animation' 'Drama' 'Science Fiction',"'16,18,878'"
+12142,'Action' 'Fantasy' 'Horror' 'Thriller',"'28,14,27,53'"
+12144,'Animation' 'Adventure' 'Family',"'16,12,10751'"
+12154,'Family' 'Comedy' 'Drama',"'10751,35,18'"
+12155,'Family' 'Fantasy' 'Adventure',"'10751,14,12'"
+121823,'Action' 'Drama',"'28,18'"
+121828,'Action','28'
+122,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+12207,'Action' 'Comedy',"'28,35'"
+12208,'Adventure' 'Action' 'Comedy',"'12,28,35'"
+12211,'Action' 'Fantasy' 'Science Fiction',"'28,14,878'"
+12212,'Horror','27'
+12223,'Horror' 'Mystery' 'Science Fiction',"'27,9648,878'"
+12227,'Action' 'Adventure' 'Drama' 'Family',"'28,12,18,10751'"
+122293,'Adventure' 'Science Fiction' 'Thriller' 'Mystery',"'12,878,53,9648'"
+12230,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+12236,'Action' 'Comedy',"'28,35'"
+12237,'Documentary' 'Horror',"'99,27'"
+12242,'Animation' 'Comedy' 'Family' 'Action',"'16,35,10751,28'"
+12262,'Horror','27'
+12268,'Comedy' 'Mystery',"'35,9648'"
+12279,'Action' 'Adventure' 'Comedy' 'Family' 'Science Fiction',"'28,12,35,10751,878'"
+122857,'Thriller' 'Action' 'Science Fiction' 'Horror' 'Mystery',"'53,28,878,27,9648'"
+12289,'Adventure' 'Drama' 'Action',"'12,18,28'"
+122917,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+123,'Fantasy' 'Drama' 'Animation' 'Adventure',"'14,18,16,12'"
+123025,'Action' 'Animation',"'28,16'"
+12309,'Comedy','35'
+12310,'Action' 'Adventure' 'Comedy' 'Drama',"'28,12,35,18'"
+123867,'Animation' 'Comedy' 'Family' 'Foreign',"'16,35,10751,10769'"
+12437,'Fantasy' 'Action' 'Adventure' 'Science Fiction' 'Thriller',"'14,28,12,878,53'"
+12444,'Adventure' 'Fantasy' 'Family',"'12,14,10751'"
+12445,'Family' 'Fantasy' 'Adventure',"'10751,14,12'"
+124471,'Drama' 'Fantasy',"'18,14'"
+12448,'Adventure' 'Animation' 'Family' 'Romance',"'12,16,10751,10749'"
+1246,'Drama','18'
+12476,'Action' 'Horror' 'Science Fiction' 'Thriller',"'28,27,878,53'"
+1248,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+12485,'Fantasy' 'Horror',"'14,27'"
+12496,'Action' 'Drama' 'Romance',"'28,18,10749'"
+1250,'Thriller' 'Action' 'Fantasy' 'Horror',"'53,28,14,27'"
+12500,'Action' 'Adventure',"'28,12'"
+1251,'Action' 'Adventure' 'Drama' 'War',"'28,12,18,10752'"
+12525,'Comedy' 'Horror' 'Science Fiction' 'Thriller',"'35,27,878,53'"
+125271,'Foreign' 'Comedy',"'10769,35'"
+12529,'Comedy' 'Western',"'35,37'"
+12536,'Crime' 'Comedy' 'Family',"'80,35,10751'"
+125395,'Comedy' 'Crime',"'35,80'"
+12540,'Comedy','35'
+125504,'Comedy','35'
+125509,'Horror' 'Thriller',"'27,53'"
+125510,'Adventure' 'Animation' 'Comedy' 'Fantasy',"'12,16,35,14'"
+125513,'Adventure' 'Animation' 'Comedy' 'Fantasy',"'12,16,35,14'"
+125521,'Adventure' 'Animation' 'Comedy' 'Fantasy',"'12,16,35,14'"
+12561,'Action' 'Adventure' 'Horror' 'Science Fiction',"'28,12,27,878'"
+12583,'Drama' 'Horror',"'18,27'"
+12593,'Animation' 'Comedy' 'Drama',"'16,35,18'"
+12594,'Fantasy' 'Horror',"'14,27'"
+12597,'Crime' 'Horror' 'Thriller' 'Mystery',"'80,27,53,9648'"
+12599,'Adventure' 'Fantasy' 'Animation' 'Science Fiction' 'Family',"'12,14,16,878,10751'"
+12600,'Adventure' 'Fantasy' 'Animation' 'Science Fiction' 'Family' 'Adventure' 'Fantasy' 'Animation' 'Science Fiction' 'Family',"'12,14,16,878,10751,12,14,16,878,10751'"
+12606,'Comedy','35'
+12613,'Animation' 'Action',"'16,28'"
+12625,'Action' 'Adventure' 'Drama' 'Western',"'28,12,18,37'"
+12636,'Action' 'Foreign' 'Horror' 'Science Fiction',"'28,10769,27,878'"
+12639,'Western','37'
+1266,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+12662,'Horror' 'Thriller',"'27,53'"
+12664,'Comedy' 'Drama',"'35,18'"
+1268,'Family' 'Comedy',"'10751,35'"
+12683,'Action' 'Fantasy' 'Horror',"'28,14,27'"
+12685,'Action' 'Adventure' 'Fantasy' 'Horror',"'28,12,14,27'"
+126889,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+1269,'Comedy' 'Crime',"'35,80'"
+12695,'Comedy','35'
+126963,'Animation' 'Action',"'16,28'"
+12697,'Animation' 'Family',"'16,10751'"
+12699,'Horror' 'Thriller',"'27,53'"
+12700,'Horror' 'Thriller',"'27,53'"
+12702,'Comedy' 'Horror' 'Science Fiction' 'Thriller',"'35,27,878,53'"
+12705,'Action' 'Comedy',"'28,35'"
+1271,'Action' 'Adventure' 'War',"'28,12,10752'"
+12716,'Adventure' 'Drama',"'12,18'"
+12717,'Adventure' 'Comedy' 'Drama' 'Romance',"'12,35,18,10749'"
+12721,'Action','28'
+127329,'Action' 'Drama',"'28,18'"
+127380,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+127533,'Action' 'Drama' 'History',"'28,18,36'"
+127544,'Action' 'Animation' 'Science Fiction',"'28,16,878'"
+127585,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+12764,'Action' 'Adventure' 'War',"'28,12,10752'"
+12795,'Comedy' 'Romance',"'35,10749'"
+1281,'Comedy','35'
+12819,'Family' 'Animation',"'10751,16'"
+1283,'Comedy' 'Crime',"'35,80'"
+1284,'Comedy' 'Crime',"'35,80'"
+1285,'Comedy' 'Crime',"'35,80'"
+128841,'Horror' 'Thriller',"'27,53'"
+128854,'Family' 'Adventure' 'Action' 'Drama',"'10751,12,28,18'"
+12889,'Animation' 'Comedy' 'Science Fiction' 'Fantasy',"'16,35,878,14'"
+12914,'Adventure' 'Science Fiction',"'12,878'"
+129237,'Drama','18'
+129417,'Drama','18'
+129689,'',''
+129734,'Drama','18'
+129745,'',''
+129830,'Comedy' 'Mystery',"'35,9648'"
+13001,'Adventure' 'Science Fiction',"'12,878'"
+13015,'Documentary' 'Comedy' 'TV Movie',"'99,35,10770'"
+13016,'Documentary' 'History',"'99,36'"
+13017,'Animation' 'Drama' 'Family',"'16,18,10751'"
+13025,'Horror' 'Action' 'Science Fiction',"'27,28,878'"
+13054,'Action' 'Adventure' 'Crime' 'Drama' 'Thriller',"'28,12,80,18,53'"
+13058,'Crime' 'Drama',"'80,18'"
+13127,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+131631,'Science Fiction' 'Adventure' 'Thriller',"'878,12,53'"
+131634,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+13179,'Animation' 'Family' 'Adventure' 'Fantasy',"'16,10751,12,14'"
+13180,'Documentary' 'History' 'War',"'99,36,10752'"
+13185,'Drama','18'
+13186,'Horror' 'Thriller',"'27,53'"
+13190,'Animation' 'Horror' 'Science Fiction' 'Thriller',"'16,27,878,53'"
+13204,'TV Movie' 'Fantasy' 'Animation' 'Horror' 'Action' 'Thriller' 'Science Fiction',"'10770,14,16,27,28,53,878'"
+13205,'Animation' 'Drama' 'Family',"'16,18,10751'"
+13207,'Horror','27'
+13225,'Fantasy' 'Animation' 'Science Fiction' 'Family',"'14,16,878,10751'"
+132344,'Romance' 'Drama',"'10749,18'"
+13246,'Animation' 'Family',"'16,10751'"
+13253,'Animation' 'Comedy' 'Science Fiction',"'16,35,878'"
+132601,'Animation' 'Family',"'16,10751'"
+13274,'Action' 'Adventure' 'Animation',"'28,12,16'"
+132759,'Comedy' 'Drama',"'35,18'"
+13282,'Action' 'Comedy' 'Science Fiction',"'28,35,878'"
+13284,'Animation' 'Family',"'16,10751'"
+13285,'Animation' 'Family' 'Adventure' 'Fantasy',"'16,10751,12,14'"
+13293,'Action' 'Thriller',"'28,53'"
+133121,'Animation','16'
+13313,'Animation' 'Family',"'16,10751'"
+13335,'Comedy' 'Adventure',"'35,12'"
+133459,'Comedy' 'Family',"'35,10751'"
+13348,'Documentary','99'
+133558,'Drama','18'
+13358,'Comedy' 'Family',"'35,10751'"
+13360,'Action' 'Fantasy' 'Science Fiction',"'28,14,878'"
+13363,'Science Fiction' 'Drama',"'878,18'"
+13365,'Documentary','99'
+133716,'',''
+13378,'Animation' 'Family',"'16,10751'"
+13382,'Animation' 'Family',"'16,10751'"
+13387,'Action' 'Adventure' 'Thriller' 'Crime',"'28,12,53,80'"
+133879,'Action' 'Crime' 'Thriller',"'28,80,53'"
+13396,'Action' 'Adventure' 'Animation' 'Family' 'Fantasy',"'28,12,16,10751,14'"
+134053,'',''
+13409,'Action' 'Adventure' 'Crime' 'Drama',"'28,12,80,18'"
+13417,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+13430,'Comedy' 'Drama',"'35,18'"
+134366,'Horror','27'
+134371,'Drama' 'Science Fiction' 'Mystery',"'18,878,9648'"
+134375,'Comedy' 'Crime' 'Family',"'35,80,10751'"
+13448,'Thriller' 'Mystery',"'53,9648'"
+134597,'Horror' 'Thriller',"'27,53'"
+134632,'Animation' 'Family',"'16,10751'"
+13475,'Science Fiction' 'Action' 'Adventure',"'878,28,12'"
+134756,'Horror','27'
+13486,'Fantasy' 'Action' 'Adventure',"'14,28,12'"
+13489,'Crime' 'Drama' 'Horror' 'Thriller',"'80,18,27,53'"
+13491,'Action' 'Adventure' 'Drama' 'Romance',"'28,12,18,10749'"
+13515,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+13522,'Action' 'Adventure' 'Drama' 'History',"'28,12,18,36'"
+135307,'Comedy','35'
+135309,'Horror' 'Science Fiction',"'27,878'"
+135397,'Action' 'Adventure' 'Science Fiction' 'Thriller',"'28,12,878,53'"
+13541,'Comedy' 'Fantasy' 'TV Movie',"'35,14,10770'"
+13552,'Action' 'Comedy' 'Crime' 'Drama',"'28,35,80,18'"
+13559,'Drama' 'Horror' 'Science Fiction',"'18,27,878'"
+13564,'Horror' 'Thriller',"'27,53'"
+135659,'Action' 'Crime' 'Thriller',"'28,80,53'"
+13567,'Horror','27'
+135858,'Adventure' 'Fantasy',"'12,14'"
+1359,'Thriller' 'Drama' 'Crime',"'53,18,80'"
+136071,'Action' 'Crime' 'Thriller',"'28,80,53'"
+1361,'Animation' 'Family' 'Fantasy',"'16,10751,14'"
+13612,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+1362,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+13632,'Action' 'Adventure',"'28,12'"
+13635,'Drama' 'Action' 'Thriller' 'Crime',"'18,28,53,80'"
+13643,'Comedy','35'
+13648,'Animation' 'Horror' 'Action' 'Science Fiction',"'16,27,28,878'"
+13649,'Comedy' 'Drama' 'Family' 'Music',"'35,18,10751,10402'"
+13654,'Animation' 'Family',"'16,10751'"
+13655,'Comedy' 'Drama' 'Family' 'Music' 'TV Movie',"'35,18,10751,10402,10770'"
+136585,'Comedy' 'Horror' 'Science Fiction',"'35,27,878'"
+1366,'Drama','18'
+13665,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+13666,'Horror' 'Drama',"'27,18'"
+1367,'Drama','18'
+13675,'Family' 'Animation' 'TV Movie',"'10751,16,10770'"
+13676,'Family' 'Animation',"'10751,16'"
+13679,'Adventure' 'Animation' 'Family' 'Fantasy',"'12,16,10751,14'"
+1368,'Action' 'Adventure' 'Thriller' 'War',"'28,12,53,10752'"
+13683,'Animation' 'Family',"'16,10751'"
+1369,'Action' 'Adventure' 'Thriller' 'War',"'28,12,53,10752'"
+13690,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+1370,'Action' 'Adventure' 'Thriller' 'War',"'28,12,53,10752'"
+137094,'Action' 'Drama' 'Thriller',"'28,18,53'"
+1371,'Drama','18'
+137106,'Adventure' 'Animation' 'Comedy' 'Family' 'Fantasy',"'12,16,35,10751,14'"
+137116,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+13721,'Crime' 'Action',"'80,28'"
+13734,'Comedy' 'Romance',"'35,10749'"
+1374,'Drama','18'
+137400,'Comedy' 'Action',"'35,28'"
+137409,'Thriller' 'Action',"'53,28'"
+137475,'Family' 'Comedy' 'Romance',"'10751,35,10749'"
+1375,'Drama','18'
+137533,'Horror' 'Thriller' 'TV Movie' 'Science Fiction',"'27,53,10770,878'"
+13761,'Adventure' 'Animation' 'Romance' 'Family',"'12,16,10749,10751'"
+13767,'Comedy' 'Family' 'Adventure',"'35,10751,12'"
+137801,'Comedy','35'
+1379,'Crime' 'Drama',"'80,18'"
+13797,'Action' 'Comedy' 'Horror',"'28,35,27'"
+138,'Horror','27'
+13804,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+138103,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+138115,'Action' 'Crime' 'Thriller',"'28,80,53'"
+138118,'Action' 'Crime' 'Thriller',"'28,80,53'"
+13812,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+138372,'Comedy' 'Mystery' 'Thriller',"'35,9648,53'"
+13861,'Comedy','35'
+138705,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+138832,'Comedy' 'Crime',"'35,80'"
+138843,'Horror' 'Thriller',"'27,53'"
+13888,'Adventure','12'
+13899,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+139038,'Comedy' 'Horror',"'35,27'"
+13931,'Animation' 'Family',"'16,10751'"
+139367,'Action' 'Thriller',"'28,53'"
+139374,'Comedy','35'
+139380,'Comedy' 'Family',"'35,10751'"
+13939,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+139455,'Comedy' 'Horror' 'Thriller' 'Mystery',"'35,27,53,9648'"
+13955,'Comedy','35'
+13965,'Adventure' 'Drama' 'Action' 'Western' 'Family',"'12,18,28,37,10751'"
+139659,'Horror','27'
+13981,'Animation' 'Action' 'Thriller' 'Science Fiction',"'16,28,53,878'"
+13984,'Comedy' 'Music',"'35,10402'"
+13988,'Action' 'Thriller',"'28,53'"
+14003,'Action' 'Adventure' 'Animation' 'Drama',"'28,12,16,18'"
+140054,'',''
+140161,'Science Fiction','878'
+14021,'Horror' 'Thriller',"'27,53'"
+14028,'War' 'Action' 'Thriller',"'10752,28,53'"
+14029,'Horror','27'
+140300,'Action' 'Adventure' 'Animation' 'Comedy' 'Family',"'28,12,16,35,10751'"
+14035,'Comedy','35'
+140441,'Horror','27'
+140485,'',''
+14052,'Comedy','35'
+14053,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+14059,'Family','10751'
+1406,'Action' 'Adventure' 'Comedy' 'Drama' 'Western',"'28,12,35,18,37'"
+140607,'Action' 'Adventure' 'Science Fiction' 'Fantasy',"'28,12,878,14'"
+14087,'Animation' 'Drama' 'War',"'16,18,10752'"
+14088,'Animation' 'Drama' 'War',"'16,18,10752'"
+14092,'Action' 'Animation' 'Science Fiction',"'28,16,878'"
+141,'Fantasy' 'Drama' 'Mystery',"'14,18,9648'"
+141052,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+141055,'Comedy','35'
+141063,'',''
+141102,'Animation','16'
+14114,'Drama','18'
+141267,'Action' 'Crime' 'Thriller',"'28,80,53'"
+14128,'Family' 'Animation' 'Romance' 'Fantasy',"'10751,16,10749,14'"
+14136,'Comedy' 'Family' 'Fantasy',"'35,10751,14'"
+14140,'Romance' 'Comedy' 'Family' 'Action' 'Adventure',"'10749,35,10751,28,12'"
+14144,'Comedy' 'Family',"'35,10751'"
+14154,'Science Fiction' 'Drama' 'Thriller',"'878,18,53'"
+14158,'Comedy' 'Documentary',"'35,99'"
+141614,'Animation' 'Family' 'Adventure' 'Comedy',"'16,10751,12,35'"
+14194,'Drama' 'Action' 'Thriller' 'Crime',"'18,28,53,80'"
+142061,'Action' 'Animation',"'28,16'"
+14207,'Thriller' 'Adventure' 'Action' 'Comedy' 'Drama' 'Fantasy' 'Romance',"'53,12,28,35,18,14,10749'"
+14208,'Fantasy' 'Action' 'Adventure',"'14,28,12'"
+14212,'Drama' 'Horror' 'Science Fiction',"'18,27,878'"
+142308,'Family','10751'
+14240,'Thriller' 'Action' 'Horror',"'53,28,27'"
+14245,'Action','28'
+14247,'Drama' 'Action' 'Thriller',"'18,28,53'"
+14277,'Documentary','99'
+1428,'Action','28'
+14306,'Comedy' 'Family',"'35,10751'"
+14310,'Crime' 'Drama' 'Action',"'80,18,28'"
+14348,'Comedy' 'Documentary',"'35,99'"
+14373,'Action' 'Crime' 'Thriller',"'28,80,53'"
+14387,'Action' 'Comedy',"'28,35'"
+14394,'Action' 'Adventure' 'Crime' 'Drama',"'28,12,80,18'"
+14400,'Adventure' 'Drama' 'Action' 'Thriller',"'12,18,28,53'"
+14405,'Adventure' 'Comedy' 'Family',"'12,35,10751'"
+144288,'Animation' 'Action' 'Fantasy',"'16,28,14'"
+14433,'Action' 'Drama' 'History' 'War',"'28,18,36,10752'"
+14435,'Mystery' 'Horror',"'9648,27'"
+14444,'Animation' 'Family',"'16,10751'"
+14447,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+14451,'Horror' 'Comedy',"'27,35'"
+14457,'Horror' 'Mystery',"'27,9648'"
+14463,'Documentary' 'History',"'99,36'"
+144852,'Comedy','35'
+145,'Drama' 'Romance',"'18,10749'"
+14503,'Comedy','35'
+1452,'Adventure' 'Fantasy' 'Action' 'Science Fiction',"'12,14,28,878'"
+145220,'Comedy' 'Adventure' 'Crime' 'Family',"'35,12,80,10751'"
+145221,'Thriller' 'Drama' 'Science Fiction',"'53,18,878'"
+14546,'Comedy','35'
+14560,'Action' 'Adventure' 'Comedy' 'Family',"'28,12,35,10751'"
+14564,'Horror','27'
+14571,'Action' 'Animation' 'Science Fiction',"'28,16,878'"
+14572,'Animation' 'Science Fiction' 'Action',"'16,878,28'"
+14588,'Comedy' 'Crime' 'Mystery',"'35,80,9648'"
+14589,'Comedy' 'Drama',"'35,18'"
+14590,'Comedy' 'Mystery' 'Romance' 'Thriller',"'35,9648,10749,53'"
+14594,'Comedy' 'Mystery' 'Thriller',"'35,9648,53'"
+14595,'Comedy' 'Crime' 'Drama' 'Mystery' 'Thriller',"'35,80,18,9648,53'"
+146,'Adventure' 'Drama' 'Action' 'Romance',"'12,18,28,10749'"
+146030,'Comedy' 'Drama',"'35,18'"
+146045,'Comedy','35'
+146047,'Action' 'Drama',"'28,18'"
+14609,'Action' 'Animation' 'Adventure' 'Science Fiction',"'28,16,12,878'"
+14611,'Adventure' 'Animation' 'Action' 'Science Fiction',"'12,16,28,878'"
+14620,'Drama' 'Science Fiction' 'Thriller',"'18,878,53'"
+146203,'Horror' 'Thriller',"'27,53'"
+146216,'Action' 'Comedy' 'Crime' 'Thriller',"'28,35,80,53'"
+14624,'Romance' 'Drama' 'Family',"'10749,18,10751'"
+14628,'Comedy' 'Crime' 'Mystery',"'35,80,9648'"
+146301,'Horror' 'Thriller',"'27,53'"
+146304,'Comedy','35'
+14631,'Drama','18'
+14636,'Action' 'Thriller',"'28,53'"
+14676,'Action' 'Adventure' 'Drama' 'Western',"'28,12,18,37'"
+14681,'Comedy','35'
+14683,'Animation' 'Comedy',"'16,35'"
+14695,'Drama' 'Thriller',"'18,53'"
+147,'Drama','18'
+14711,'Animation','16'
+147276,'Comedy','35'
+14728,'Fantasy' 'Action' 'Adventure' 'Comedy',"'14,28,12,35'"
+147405,'Action' 'Comedy',"'28,35'"
+14749,'Comedy' 'Adventure' 'Drama' 'Family',"'35,12,18,10751'"
+14756,'Drama' 'Action' 'History',"'18,28,36'"
+14761,'Action' 'Documentary',"'28,99'"
+14774,'Comedy','35'
+14787,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+14821,'Adventure' 'Fantasy' 'Science Fiction' 'Family',"'12,14,878,10751'"
+14822,'Adventure' 'Fantasy' 'Science Fiction' 'Family',"'12,14,878,10751'"
+14829,'Animation' 'Drama' 'Fantasy',"'16,18,14'"
+1483,'Fantasy' 'Horror',"'14,27'"
+148314,'',''
+14853,'Action' 'Horror' 'Science Fiction',"'28,27,878'"
+148536,'',''
+14863,'Action' 'Horror' 'Thriller',"'28,27,53'"
+14869,'Adventure' 'Action' 'Thriller' 'Science Fiction',"'12,28,53,878'"
+1487,'Fantasy' 'Action' 'Science Fiction',"'14,28,878'"
+14872,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+14873,'Family' 'Animation' 'Adventure',"'10751,16,12'"
+14906,'Animation' 'Family',"'16,10751'"
+14908,'Action' 'Comedy' 'Romance',"'28,35,10749'"
+149085,'Action' 'Adventure',"'28,12'"
+14913,'Horror' 'Thriller',"'27,53'"
+14919,'Action' 'Adventure' 'Animation' 'Family',"'28,12,16,10751'"
+1493,'Comedy' 'Crime' 'Action',"'35,80,28'"
+14943,'Action','28'
+14962,'Comedy' 'Science Fiction',"'35,878'"
+1497,'Science Fiction' 'Adventure' 'Action' 'Comedy' 'Family',"'878,12,28,35,10751'"
+149763,'Comedy' 'Romance',"'35,10749'"
+149793,'Mystery' 'Adventure',"'9648,12'"
+1498,'Science Fiction' 'Action' 'Adventure' 'Comedy' 'Family',"'878,28,12,35,10751'"
+1499,'Action' 'Adventure' 'Comedy' 'Family' 'Fantasy' 'Science Fiction',"'28,12,35,10751,14,878'"
+149910,'Family','10751'
+149957,'Adventure','12'
+149961,'Action' 'Adventure' 'Drama' 'Foreign',"'28,12,18,10769'"
+150,'Thriller' 'Action' 'Comedy' 'Crime' 'Drama',"'53,28,35,80,18'"
+150010,'Adventure' 'Comedy',"'12,35'"
+150202,'Horror' 'Drama' 'Thriller',"'27,18,53'"
+150208,'',''
+150213,'Animation','16'
+15026,'Action' 'Fantasy' 'Science Fiction',"'28,14,878'"
+15049,'Action' 'Comedy' 'Crime',"'28,35,80'"
+15060,'Animation' 'Comedy',"'16,35'"
+15066,'Crime' 'Adventure' 'Action',"'80,12,28'"
+15070,'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'"
+15077,'Drama' 'Crime',"'18,80'"
+15088,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+150897,'Drama','18'
+15092,'Action' 'Thriller' 'Crime',"'28,53,80'"
+15105,'Comedy','35'
+15120,'Action' 'Comedy' 'Crime',"'28,35,80'"
+15135,'Horror' 'Action' 'Comedy',"'27,28,35'"
+15137,'Animation' 'Science Fiction' 'Action' 'Drama',"'16,878,28,18'"
+15142,'Fantasy' 'Comedy' 'Science Fiction' 'Romance',"'14,35,878,10749'"
+15152,'Crime' 'Action' 'Adventure' 'Comedy',"'80,28,12,35'"
+15157,'Music','10402'
+15158,'Action' 'Horror' 'Science Fiction' 'Thriller',"'28,27,878,53'"
+15159,'Comedy' 'Mystery',"'35,9648'"
+15171,'Animation' 'Drama' 'Family',"'16,18,10751'"
+151933,'Western' 'Action' 'Fantasy' 'Horror',"'37,28,14,27'"
+151960,'Animation' 'Family' 'Adventure' 'Comedy',"'16,10751,12,35'"
+152,'Science Fiction' 'Adventure' 'Mystery',"'878,12,9648'"
+152042,'Thriller' 'Animation' 'Fantasy',"'53,16,14'"
+152044,'Thriller' 'Animation' 'Fantasy',"'53,16,14'"
+15206,'Horror','27'
+152100,'Comedy','35'
+15212,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+15227,'Adventure' 'Animation' 'Science Fiction',"'12,16,878'"
+15239,'Science Fiction' 'Action' 'Comedy' 'Horror',"'878,28,35,27'"
+15247,'Thriller','53'
+15255,'Action' 'Crime' 'Thriller',"'28,80,53'"
+15259,'Music','10402'
+15261,'Comedy','35'
+15262,'Horror','27'
+152625,'Comedy','35'
+15268,'Action' 'Adventure' 'Science Fiction' 'Thriller',"'28,12,878,53'"
+15289,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+152912,'Fantasy' 'Family',"'14,10751'"
+15323,'Documentary','99'
+15324,'Documentary','99'
+15338,'Comedy' 'Family',"'35,10751'"
+15347,'Family' 'Adventure' 'Drama',"'10751,12,18'"
+15357,'Action' 'Thriller' 'Crime',"'28,53,80'"
+15362,'Action' 'Thriller' 'Crime' 'Drama',"'28,53,80,18'"
+15371,'Adventure' 'Animation' 'Comedy',"'12,16,35'"
+15379,'Action' 'Adventure' 'Thriller' 'War',"'28,12,53,10752'"
+15384,'War' 'Action' 'Drama' 'History' 'Thriller',"'10752,28,18,36,53'"
+154,'Action' 'Adventure' 'Science Fiction' 'Thriller',"'28,12,878,53'"
+15400,'Animation' 'Family' 'Comedy',"'16,10751,35'"
+15417,'Action' 'Adventure' 'Comedy' 'Romance',"'28,12,35,10749'"
+154207,'',''
+15434,'Horror','27'
+15440,'Drama' 'Horror' 'Mystery' 'Thriller',"'18,27,9648,53'"
+154441,'Comedy','35'
+15449,'Comedy','35'
+154501,'Animation','16'
+1547,'Horror' 'Comedy',"'27,35'"
+15472,'Drama' 'Thriller' 'Crime' 'Mystery',"'18,53,80,9648'"
+154727,'Animation' 'Science Fiction',"'16,878'"
+154738,'Animation' 'Science Fiction',"'16,878'"
+15482,'Comedy' 'Horror' 'Science Fiction',"'35,27,878'"
+154922,'Animation','16'
+15493,'Science Fiction' 'Action' 'Comedy',"'878,28,35'"
+15495,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+155,'Drama' 'Action' 'Crime' 'Thriller',"'18,28,80,53'"
+155017,'',''
+15515,'Action' 'Adventure' 'Family' 'Fantasy',"'28,12,10751,14'"
+1555,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+15567,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+15582,'Comedy' 'Fantasy' 'Family',"'35,14,10751'"
+15588,'Crime' 'Action' 'Comedy' 'Adventure',"'80,28,35,12'"
+15590,'Comedy' 'Family' 'Romance',"'35,10751,10749'"
+15602,'Romance' 'Comedy',"'10749,35'"
+15618,'Science Fiction' 'Action',"'878,28'"
+1562,'Horror' 'Thriller' 'Science Fiction',"'27,53,878'"
+156388,'',''
+156389,'',''
+15641,'Horror' 'Thriller',"'27,53'"
+15653,'Animation' 'Family' 'Comedy',"'16,10751,35'"
+15657,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+156603,'Comedy','35'
+156717,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+15674,'TV Movie' 'Fantasy' 'Comedy' 'Science Fiction' 'Family',"'10770,14,35,878,10751'"
+15681,'Comedy','35'
+157,'Science Fiction' 'Action' 'Adventure' 'Thriller',"'878,28,12,53'"
+15706,'Comedy','35'
+1571,'Action' 'Thriller',"'28,53'"
+15718,'Animation' 'Family',"'16,10751'"
+1572,'Action' 'Thriller',"'28,53'"
+15724,'Action' 'Horror' 'Fantasy' 'Comedy',"'28,27,14,35'"
+157293,'Drama' 'Music',"'18,10402'"
+1573,'Action' 'Thriller',"'28,53'"
+157350,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+15739,'Comedy' 'Drama' 'Family' 'Music',"'35,18,10751,10402'"
+15740,'Drama' 'Family',"'18,10751'"
+157424,'Horror','27'
+15759,'Drama' 'Family',"'18,10751'"
+1576,'Horror' 'Action' 'Science Fiction',"'27,28,878'"
+15766,'Action' 'Fantasy' 'Science Fiction',"'28,14,878'"
+15767,'Action' 'Adventure' 'Science Fiction' 'Fantasy' 'Thriller',"'28,12,878,14,53'"
+1577,'Horror' 'Action' 'Science Fiction',"'27,28,878'"
+157829,'Drama','18'
+15789,'Romance' 'Animation' 'Family' 'Comedy' 'Adventure',"'10749,16,10751,35,12'"
+158015,'Science Fiction' 'Horror' 'Thriller',"'878,27,53'"
+15802,'Drama','18'
+15805,'Animation' 'Action' 'Crime',"'16,28,80'"
+15809,'Crime' 'Drama',"'80,18'"
+15824,'Drama','18'
+1583,'Comedy','35'
+15830,'Drama','18'
+15840,'Drama','18'
+15849,'Horror','27'
+158519,'Thriller' 'Horror',"'53,27'"
+1588,'Comedy','35'
+158848,'Romance' 'Drama',"'10749,18'"
+15895,'Action' 'Fantasy',"'28,14'"
+15898,'Family' 'Animation',"'10751,16'"
+15900,'Horror' 'Documentary',"'27,99'"
+15901,'Horror' 'Documentary',"'27,99'"
+15902,'Horror' 'Documentary',"'27,99'"
+15904,'',''
+159117,'Horror' 'Thriller',"'27,53'"
+1593,'Action' 'Adventure' 'Comedy' 'Family' 'Fantasy',"'28,12,35,10751,14'"
+1594,'Comedy' 'Crime',"'35,80'"
+159403,'Action' 'Foreign' 'Drama' 'History',"'28,10769,18,36'"
+15943,'Comedy' 'Family',"'35,10751'"
+15944,'Comedy' 'Family',"'35,10751'"
+159447,'Comedy' 'Drama',"'35,18'"
+15947,'Animation' 'Family' 'Music',"'16,10751,10402'"
+15969,'Family' 'Adventure' 'Animation' 'Romance',"'10751,12,16,10749'"
+1597,'Comedy' 'Romance',"'35,10749'"
+159704,'Adventure' 'Family' 'Fantasy' 'Romance',"'12,10751,14,10749'"
+15973,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+15974,'Family' 'Comedy',"'10751,35'"
+159824,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+159849,'Documentary' 'Documentary',"'99,99'"
+15997,'Animation' 'Family' 'Adventure',"'16,10751,12'"
+15999,'Action' 'Adventure' 'Animation' 'Fantasy' 'Horror' 'Mystery' 'Science Fiction',"'28,12,16,14,27,9648,878'"
+16,'Drama' 'Crime' 'Music',"'18,80,10402'"
+16003,'Thriller' 'Crime' 'Mystery',"'53,80,9648'"
+16007,'Fantasy' 'Mystery' 'Thriller',"'14,9648,53'"
+160162,'Crime' 'Drama',"'80,18'"
+16026,'Comedy','35'
+160399,'',''
+16049,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+16068,'Science Fiction' 'Adventure' 'Action',"'878,12,28'"
+16085,'Drama' 'Comedy' 'Music' 'Romance',"'18,35,10402,10749'"
+16094,'Comedy' 'Drama',"'35,18'"
+16096,'Comedy','35'
+16097,'Comedy','35'
+161,'Thriller' 'Crime',"'53,80'"
+16113,'Action' 'Thriller',"'28,53'"
+16119,'Animation' 'Romance' 'Family' 'Fantasy',"'16,10749,10751,14'"
+16130,'Comedy','35'
+16139,'Horror' 'Action' 'Science Fiction',"'27,28,878'"
+16140,'Fantasy' 'Thriller' 'Mystery',"'14,53,9648'"
+16143,'Action','28'
+16146,'Horror' 'Science Fiction',"'27,878'"
+1615,'Comedy','35'
+161545,'Comedy','35'
+1616,'Comedy','35'
+16162,'Drama' 'Comedy',"'18,35'"
+1620,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+162006,'Action' 'Drama',"'28,18'"
+16225,'Action' 'Adventure' 'Animation' 'Fantasy' 'Science Fiction',"'28,12,16,14,878'"
+16234,'Animation' 'Family',"'16,10751'"
+16235,'Horror','27'
+16246,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+16250,'Drama' 'Romance' 'TV Movie' 'Western',"'18,10749,10770,37'"
+16257,'Action' 'Animation',"'28,16'"
+16258,'Science Fiction' 'Thriller' 'Drama' 'Crime',"'878,53,18,80'"
+16268,'Action' 'Science Fiction' 'Adventure',"'28,878,12'"
+16269,'Action' 'Comedy' 'Drama',"'28,35,18'"
+16281,'Horror' 'Comedy' 'Fantasy',"'27,35,14'"
+162865,'Documentary' 'War',"'99,10752'"
+16288,'Horror','27'
+16290,'Comedy' 'Documentary' 'Action',"'35,99,28'"
+163,'Thriller' 'Crime',"'53,80'"
+16304,'Horror' 'Science Fiction',"'27,878'"
+16314,'Action' 'Adventure' 'Comedy' 'Family',"'28,12,35,10751'"
+16318,'Comedy' 'Drama',"'35,18'"
+16337,'Horror','27'
+1634,'Family' 'Adventure',"'10751,12'"
+16340,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+16346,'Drama' 'Family',"'18,10751'"
+16353,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+1637,'Action' 'Adventure' 'Crime',"'28,12,80'"
+16378,'Comedy','35'
+16387,'Science Fiction','878'
+1639,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+16395,'Horror' 'Thriller',"'27,53'"
+1642,'Crime' 'Drama' 'Mystery' 'Thriller' 'Action',"'80,18,9648,53,28'"
+16437,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+164372,'Animation' 'Fantasy',"'16,14'"
+164377,'Action' 'Horror' 'Science Fiction',"'28,27,878'"
+16441,'Action' 'Fantasy',"'28,14'"
+16452,'Comedy' 'Documentary',"'35,99'"
+16456,'Action' 'Horror' 'Thriller',"'28,27,53'"
+16460,'Family' 'Animation' 'Comedy',"'10751,16,35'"
+164753,'Documentary','99'
+1648,'Adventure' 'Comedy' 'Science Fiction',"'12,35,878'"
+1649,'Adventure' 'Comedy' 'Family' 'Fantasy' 'Science Fiction',"'12,35,10751,14,878'"
+164990,'Mystery','9648'
+165,'Adventure' 'Comedy' 'Family' 'Science Fiction',"'12,35,10751,878'"
+1652,'Comedy' 'Crime',"'35,80'"
+1654,'Action' 'Adventure' 'War',"'28,12,10752'"
+165432,'',''
+1656,'Action' 'Adventure',"'28,12'"
+16562,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+166,'Drama' 'Romance' 'Comedy',"'18,10749,35'"
+166426,'Adventure' 'Action' 'Fantasy' 'Comedy',"'12,28,14,35'"
+16652,'Animation','16'
+166747,'Animation' 'Family',"'16,10751'"
+16686,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+1669,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+16690,'Adventure' 'Fantasy' 'Animation' 'Family',"'12,14,16,10751'"
+166904,'Comedy','35'
+16692,'Adventure' 'Action' 'Drama',"'12,28,18'"
+16693,'Adventure' 'Action',"'12,28'"
+167032,'Horror' 'Thriller',"'27,53'"
+167313,'Fantasy' 'Animation',"'14,16'"
+167575,'Horror' 'Thriller' 'Comedy' 'Action',"'27,53,35,28'"
+16763,'Crime' 'Thriller',"'80,53'"
+167666,'Animation' 'Family' 'Fantasy',"'16,10751,14'"
+16768,'Comedy' 'Documentary',"'35,99'"
+16774,'TV Movie' 'Fantasy' 'Animation' 'Action' 'Thriller' 'Science Fiction',"'10770,14,16,28,53,878'"
+1678,'Thriller' 'Horror' 'Science Fiction',"'53,27,878'"
+16780,'Horror' 'Comedy' 'Thriller',"'27,35,53'"
+1679,'Action' 'Science Fiction' 'Horror',"'28,878,27'"
+168,'Science Fiction' 'Adventure',"'878,12'"
+1680,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+168056,'Crime' 'Mystery',"'80,9648'"
+168057,'Crime' 'Thriller' 'Mystery',"'80,53,9648'"
+16808,'Animation' 'Family',"'16,10751'"
+1682,'Fantasy' 'Science Fiction' 'Action' 'Adventure',"'14,878,28,12'"
+16820,'Adventure' 'Action' 'Comedy' 'Thriller',"'12,28,35,53'"
+168259,'Action','28'
+16846,'Comedy' 'Horror',"'35,27'"
+1685,'Adventure' 'Science Fiction' 'Mystery',"'12,878,9648'"
+168530,'Action' 'Comedy',"'28,35'"
+1687,'Action' 'Science Fiction',"'28,878'"
+168705,'Action' 'Adventure' 'Fantasy' 'Horror',"'28,12,14,27'"
+16874,'Comedy','35'
+1688,'Action' 'Science Fiction',"'28,878'"
+16884,'Comedy','35'
+16889,'Comedy','35'
+169,'Science Fiction' 'Action' 'Thriller',"'878,28,53'"
+1690,'Horror','27'
+16900,'Documentary','99'
+16907,'Comedy' 'Action' 'Animation' 'Adventure',"'35,28,16,12'"
+1691,'Horror','27'
+16911,'Action' 'Fantasy' 'Science Fiction' 'Thriller',"'28,14,878,53'"
+16931,'Action','28'
+1694,'Science Fiction' 'Comedy' 'Horror',"'878,35,27'"
+1696,'Drama' 'Horror' 'Crime',"'18,27,80'"
+16962,'Animation' 'Family' 'Fantasy' 'Romance',"'16,10751,14,10749'"
+1698,'Horror' 'Thriller',"'27,53'"
+16985,'Comedy','35'
+170,'Horror' 'Thriller' 'Science Fiction',"'27,53,878'"
+17028,'Comedy' 'Romance',"'35,10749'"
+17038,'Horror' 'Science Fiction',"'27,878'"
+17041,'Comedy' 'Documentary',"'35,99'"
+17047,'Comedy','35'
+1705,'Action' 'Science Fiction',"'28,878'"
+170522,'Animation' 'Comedy' 'Adventure',"'16,35,12'"
+170657,'Action' 'Fantasy' 'Adventure' 'Comedy',"'28,14,12,35'"
+17074,'Action' 'Animation',"'28,16'"
+170759,'Comedy','35'
+17099,'Foreign' 'Action' 'Drama',"'10769,28,18'"
+171,'Comedy','35'
+17101,'Action' 'Animation' 'Adventure' 'Drama',"'28,16,12,18'"
+17102,'Horror','27'
+17124,'Crime' 'Drama' 'Mystery',"'80,18,9648'"
+17128,'History' 'Action' 'Drama' 'Foreign',"'36,28,18,10769'"
+17129,'Action' 'Drama' 'Foreign',"'28,18,10769'"
+17134,'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'"
+171346,'Crime' 'Comedy',"'80,35'"
+171581,'Action','28'
+17165,'Action' 'Animation' 'Adventure',"'28,16,12'"
+17169,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+17172,'Comedy','35'
+172,'Science Fiction' 'Action' 'Adventure' 'Thriller',"'878,28,12,53'"
+17202,'Comedy' 'Drama',"'35,18'"
+17204,'Documentary' 'Drama',"'99,18'"
+17205,'Crime' 'Action' 'Drama',"'80,28,18'"
+17208,'Documentary','99'
+172385,'Animation' 'Adventure' 'Comedy' 'Family',"'16,12,35,10751'"
+172386,'Family' 'Adventure',"'10751,12'"
+1726,'Action' 'Science Fiction' 'Adventure',"'28,878,12'"
+17264,'Adventure' 'Family',"'12,10751'"
+17276,'Comedy','35'
+172817,'Thriller' 'Drama' 'Action' 'Crime',"'53,18,28,80'"
+17285,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+17337,'Family' 'Animation',"'10751,16'"
+17339,'Action' 'Adventure' 'War' 'Thriller',"'28,12,10752,53'"
+1734,'Adventure' 'Action' 'Fantasy',"'12,28,14'"
+17346,'Documentary','99'
+1735,'Adventure' 'Action' 'Fantasy',"'12,28,14'"
+17350,'Comedy','35'
+17386,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+173897,'Action' 'Horror' 'Science Fiction',"'28,27,878'"
+174,'Science Fiction' 'Action' 'Adventure' 'Thriller',"'878,28,12,53'"
+174195,'Comedy','35'
+174322,'Documentary','99'
+17433,'Action' 'Animation',"'28,16'"
+17455,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+17456,'Action' 'Horror' 'Western',"'28,27,37'"
+17457,'Action' 'Comedy' 'Horror',"'28,35,27'"
+17464,'Drama' 'Music',"'18,10402'"
+17478,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+17481,'Crime' 'Mystery' 'Thriller',"'80,9648,53'"
+17501,'Action' 'Drama' 'Thriller',"'28,18,53'"
+175112,'Animation' 'Family',"'16,10751'"
+17532,'Thriller' 'Crime' 'Science Fiction' 'Mystery',"'53,80,878,9648'"
+175774,'Science Fiction' 'Fantasy' 'Adventure' 'Family',"'878,14,12,10751'"
+176,'Horror' 'Mystery' 'Crime',"'27,9648,80'"
+17604,'Romance' 'Fantasy' 'Adventure',"'10749,14,12'"
+17614,'War' 'Drama' 'Romance',"'10752,18,10749'"
+17618,'Thriller' 'Horror',"'53,27'"
+17629,'Action' 'Thriller',"'28,53'"
+17644,'Family','10751'
+17653,'Adventure' 'Action' 'Comedy',"'12,28,35'"
+17663,'Drama' 'Family',"'18,10751'"
+17692,'Thriller' 'Horror',"'53,27'"
+17695,'Comedy','35'
+176983,'Action' 'Animation' 'Adventure',"'28,16,12'"
+1771,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+177234,'Comedy','35'
+177271,'Animation' 'Adventure' 'Family',"'16,12,10751'"
+177677,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+17780,'Comedy','35'
+177888,'Family' 'Music' 'TV Movie',"'10751,10402,10770'"
+17792,'Fantasy' 'Horror' 'Mystery',"'14,27,9648'"
+17804,'Comedy' 'Western',"'35,37'"
+17808,'Fantasy' 'Action' 'Drama' 'Thriller',"'14,28,18,53'"
+17810,'Action' 'Drama',"'28,18'"
+17811,'Adventure' 'Action' 'Comedy' 'Foreign',"'12,28,35,10769'"
+178569,'Comedy','35'
+178682,'Adventure' 'Comedy' 'Drama',"'12,35,18'"
+17897,'Action' 'Adventure' 'Drama' 'Fantasy',"'28,12,18,14'"
+17911,'Horror' 'Science Fiction',"'27,878'"
+17918,'Horror' 'Science Fiction',"'27,878'"
+17922,'Crime' 'Animation' 'Action',"'80,16,28'"
+17960,'Drama','18'
+17965,'Comedy' 'Horror',"'35,27'"
+179690,'Comedy','35'
+17984,'Comedy' 'Family' 'Science Fiction',"'35,10751,878'"
+17991,'Science Fiction' 'Horror' 'Drama' 'Thriller',"'878,27,18,53'"
+17994,'Horror','27'
+18009,'Comedy' 'Horror',"'35,27'"
+18011,'Horror','27'
+18015,'Horror','27'
+180299,'Action' 'Crime' 'Thriller',"'28,80,53'"
+1803,'Action' 'Thriller' 'Crime',"'28,53,80'"
+180371,'Comedy','35'
+18051,'Action' 'Science Fiction',"'28,878'"
+18061,'Adventure' 'Drama' 'History' 'War',"'12,18,36,10752'"
+18070,'Action','28'
+180819,'Comedy','35'
+18086,'Comedy' 'Horror',"'35,27'"
+180863,'Crime' 'Drama',"'80,18'"
+180894,'Action' 'Crime' 'Thriller',"'28,80,53'"
+1811,'Science Fiction' 'Drama' 'Comedy',"'878,18,35'"
+18111,'Comedy' 'Horror' 'Science Fiction',"'35,27,878'"
+18113,'Comedy','35'
+18120,'Comedy','35'
+18122,'Action' 'Fantasy' 'Science Fiction',"'28,14,878'"
+181533,'Adventure' 'Comedy' 'Fantasy' 'Family',"'12,35,14,10751'"
+18167,'Drama' 'Romance',"'18,10749'"
+18182,'Drama' 'Family',"'18,10751'"
+18198,'Animation' 'Fantasy' 'Family',"'16,14,10751'"
+182030,'Action' 'Foreign',"'28,10769'"
+182131,'Action' 'Animation' 'Comedy' 'Fantasy',"'28,16,35,14'"
+18220,'Drama' 'Romance' 'Thriller',"'18,10749,53'"
+182219,'Comedy','35'
+18222,'Thriller' 'Romance',"'53,10749'"
+18223,'Thriller' 'TV Movie' 'Drama',"'53,10770,18'"
+18224,'Action' 'Adventure' 'Animation' 'Family' 'Fantasy',"'28,12,16,10751,14'"
+18232,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+18239,'Adventure' 'Fantasy' 'Drama' 'Romance',"'12,14,18,10749'"
+18248,'Action' 'Thriller',"'28,53'"
+18250,'Comedy' 'Horror',"'35,27'"
+1826,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+18269,'Romance' 'Animation' 'Family' 'Adventure',"'10749,16,10751,12'"
+182873,'Action' 'Drama',"'28,18'"
+18289,'Horror' 'Science Fiction',"'27,878'"
+182950,'Crime' 'Comedy',"'80,35'"
+183011,'Fantasy' 'Science Fiction' 'Animation' 'Action' 'Adventure',"'14,878,16,28,12'"
+18305,'Action' 'Crime' 'Thriller',"'28,80,53'"
+183073,'',''
+18311,'Crime' 'Drama' 'Romance',"'80,18,10749'"
+18334,'Horror','27'
+18360,'Adventure' 'Fantasy' 'Action' 'Comedy' 'Family',"'12,14,28,35,10751'"
+184098,'Comedy' 'Romance',"'35,10749'"
+184328,'Comedy','35'
+184345,'Comedy' 'Horror',"'35,27'"
+18441,'Horror' 'Thriller',"'27,53'"
+18442,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+18443,'Horror' 'Science Fiction',"'27,878'"
+1845,'Comedy' 'Romance',"'35,10749'"
+18450,'Western' 'Comedy' 'Action' 'Adventure',"'37,35,28,12'"
+18477,'Horror','27'
+18489,'Documentary','99'
+18491,'Animation' 'Drama' 'Science Fiction',"'16,18,878'"
+18498,'Comedy' 'Horror' 'Fantasy',"'35,27,14'"
+18500,'Comedy' 'Family',"'35,10751'"
+18509,'Comedy','35'
+18510,'Action' 'Drama',"'28,18'"
+18511,'Drama' 'Adventure' 'Action',"'18,12,28'"
+185110,'Thriller' 'Drama',"'53,18'"
+18519,'Adventure','12'
+185273,'Comedy','35'
+185289,'Comedy','35'
+185341,'Thriller' 'Horror',"'53,27'"
+18543,'Comedy','35'
+18560,'Fantasy' 'Animation' 'Comedy',"'14,16,35'"
+18575,'Action','28'
+1858,'Adventure' 'Science Fiction' 'Action',"'12,878,28'"
+18616,'Horror' 'Thriller',"'27,53'"
+18624,'Action' 'Adventure' 'Drama',"'28,12,18'"
+186268,'Comedy','35'
+18627,'Science Fiction','878'
+1865,'Adventure' 'Action' 'Fantasy',"'12,28,14'"
+18660,'Comedy' 'Family',"'35,10751'"
+18672,'Action' 'Fantasy',"'28,14'"
+186775,'Comedy','35'
+187,'Action' 'Thriller' 'Crime',"'28,53,80'"
+1870,'Comedy' 'Crime' 'Adventure' 'Fantasy',"'35,80,12,14'"
+187017,'Crime' 'Comedy' 'Action',"'80,35,28'"
+18705,'Action' 'Thriller' 'Mystery',"'28,53,9648'"
+18706,'Action' 'Adventure' 'Crime' 'Drama' 'Mystery' 'Thriller',"'28,12,80,18,9648,53'"
+18707,'Action' 'Comedy',"'28,35'"
+1871,'Comedy' 'Crime' 'Adventure' 'Fantasy',"'35,80,12,14'"
+18741,'Action','28'
+18747,'Crime' 'Drama',"'80,18'"
+1875,'Comedy' 'Crime' 'Adventure' 'Fantasy',"'35,80,12,14'"
+187516,'Comedy','35'
+18759,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+18781,'Thriller' 'Horror',"'53,27'"
+18785,'Comedy','35'
+18817,'Adventure' 'Fantasy' 'Drama' 'Action' 'Science Fiction',"'12,14,18,28,878'"
+18823,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+18825,'Comedy','35'
+188357,'Action' 'Adventure',"'28,12'"
+18839,'Science Fiction' 'Animation' 'Action' 'Crime',"'878,16,28,80'"
+1884,'Adventure' 'Family' 'Fantasy' 'Science Fiction' 'TV Movie',"'12,10751,14,878,10770'"
+18841,'Comedy' 'Horror' 'Science Fiction',"'35,27,878'"
+18843,'Comedy' 'Family' 'Fantasy',"'35,10751,14'"
+188489,'Action' 'Comedy' 'Horror' 'Science Fiction',"'28,35,27,878'"
+1885,'Drama','18'
+18874,'Animation' 'Action' 'Thriller' 'Crime' 'Science Fiction',"'16,28,53,80,878'"
+18885,'Adventure' 'Action' 'Comedy' 'Family',"'12,28,35,10751'"
+188927,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+189,'Crime' 'Thriller',"'80,53'"
+18901,'Animation' 'Family' 'Adventure' 'Comedy',"'16,10751,12,35'"
+1891,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+1892,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+18920,'Comedy','35'
+18928,'Action' 'Western',"'28,37'"
+1893,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+18935,'Comedy' 'Family',"'35,10751'"
+1894,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+18943,'Comedy' 'Family',"'35,10751'"
+18948,'Animation' 'Family',"'16,10751'"
+1895,'Science Fiction' 'Adventure' 'Action',"'878,12,28'"
+18983,'Science Fiction' 'Horror',"'878,27'"
+18990,'Horror','27'
+18992,'Action' 'Adventure' 'Drama' 'Family',"'28,12,18,10751'"
+18994,'Drama' 'Adventure' 'Action',"'18,12,28'"
+18998,'Action' 'Adventure' 'Science Fiction' 'Thriller',"'28,12,878,53'"
+19002,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+19004,'Animation' 'Adventure' 'Family',"'16,12,10751'"
+19042,'Romance' 'Animation' 'Family' 'Adventure' 'Fantasy',"'10749,16,10751,12,14'"
+19050,'Comedy' 'Family',"'35,10751'"
+19066,'Horror','27'
+19086,'Action' 'Adventure',"'28,12'"
+19099,'Comedy' 'Romance',"'35,10749'"
+19128,'Mystery' 'Crime' 'Thriller',"'9648,80,53'"
+19139,'Drama','18'
+19142,'Horror' 'Science Fiction',"'27,878'"
+19154,'Action' 'Adventure' 'Science Fiction' 'Thriller',"'28,12,878,53'"
+19164,'Family' 'Animation' 'Adventure',"'10751,16,12'"
+19165,'Family' 'Animation' 'Adventure',"'10751,16,12'"
+19174,'Action' 'Comedy' 'Crime',"'28,35,80'"
+19181,'Comedy','35'
+19186,'Comedy' 'Family',"'35,10751'"
+191975,'Family','10751'
+192371,'Comedy','35'
+1924,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+19252,'Comedy','35'
+19254,'Comedy','35'
+192558,'Drama' 'Romance',"'18,10749'"
+192577,'Animation' 'Science Fiction',"'16,878'"
+19273,'Comedy' 'Family' 'Fantasy',"'35,10751,14'"
+19274,'Comedy' 'Action',"'35,28'"
+19286,'Comedy' 'Fantasy' 'Horror',"'35,14,27'"
+19287,'Comedy' 'Fantasy' 'Horror' 'Science Fiction',"'35,14,27,878'"
+19288,'Horror' 'Comedy',"'27,35'"
+192911,'Animation' 'Fantasy',"'16,14'"
+19293,'Comedy','35'
+19297,'Comedy','35'
+193,'Science Fiction' 'Action' 'Adventure' 'Thriller',"'878,28,12,53'"
+1930,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+19300,'Comedy','35'
+19307,'Comedy','35'
+1931,'Drama' 'Music',"'18,10402'"
+19325,'Action' 'Adventure' 'Animation' 'Family' 'Science Fiction',"'28,12,16,10751,878'"
+19333,'Action' 'Science Fiction' 'Fantasy',"'28,878,14'"
+19336,'Foreign' 'Science Fiction',"'10769,878'"
+193435,'Comedy','35'
+193439,'Comedy' 'Action',"'35,28'"
+193459,'Comedy','35'
+193460,'Comedy','35'
+193502,'Romance' 'Action' 'Fantasy',"'10749,28,14'"
+193603,'Thriller' 'Horror',"'53,27'"
+193726,'Horror','27'
+19405,'Science Fiction' 'Animation' 'Comedy' 'Family',"'878,16,35,10751'"
+19430,'War' 'Drama',"'10752,18'"
+1948,'Action' 'Thriller' 'Crime',"'28,53,80'"
+19493,'Action' 'Drama' 'Adventure' 'War',"'28,18,12,10752'"
+195065,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+19508,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+1951,'Drama','18'
+195269,'Action' 'Adventure',"'28,12'"
+1954,'Science Fiction' 'Thriller',"'878,53'"
+19543,'Action' 'Horror' 'Science Fiction',"'28,27,878'"
+19545,'Romance' 'Science Fiction' 'Action' 'Adventure',"'10749,878,28,12'"
+195522,'History' 'Drama',"'36,18'"
+195589,'Comedy','35'
+195757,'Drama' 'Romance',"'18,10749'"
+19580,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+19593,'Action' 'Drama' 'Science Fiction',"'28,18,878'"
+196,'Adventure' 'Comedy' 'Family' 'Science Fiction',"'12,35,10751,878'"
+196024,'Thriller' 'Mystery' 'Crime',"'53,9648,80'"
+196032,'Crime' 'Thriller' 'Drama',"'80,53,18'"
+19625,'Comedy','35'
+196254,'Fantasy' 'Animation' 'Family',"'14,16,10751'"
+19658,'Drama' 'Action' 'Thriller' 'Crime',"'18,28,53,80'"
+19670,'Comedy' 'Family',"'35,10751'"
+196750,'Action' 'Animation' 'Crime' 'Science Fiction',"'28,16,80,878'"
+19698,'Comedy','35'
+1970,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+19725,'Comedy','35'
+197467,'Action' 'TV Movie' 'Science Fiction',"'28,10770,878'"
+197481,'Action' 'Drama' 'Science Fiction' 'TV Movie',"'28,18,878,10770'"
+1975,'Horror' 'Thriller',"'27,53'"
+19762,'Comedy' 'Family' 'Romance',"'35,10751,10749'"
+19766,'Action' 'Adventure' 'Comedy' 'Family',"'28,12,35,10751'"
+1977,'Mystery' 'Horror' 'Thriller',"'9648,27,53'"
+1979,'Adventure' 'Fantasy' 'Action' 'Thriller',"'12,14,28,53'"
+19792,'TV Movie' 'Horror' 'Science Fiction' 'Thriller',"'10770,27,878,53'"
+19812,'Comedy' 'Family',"'35,10751'"
+19824,'Comedy','35'
+198436,'Comedy' 'Adventure' 'Family',"'35,12,10751'"
+198663,'Action' 'Mystery' 'Science Fiction' 'Thriller',"'28,9648,878,53'"
+1987,'Horror' 'Crime' 'Drama',"'27,80,18'"
+198951,'Animation' 'Comedy' 'Adventure',"'16,35,12'"
+199,'Science Fiction' 'Action' 'Adventure' 'Thriller',"'878,28,12,53'"
+1991,'Action' 'Thriller',"'28,53'"
+19912,'Horror' 'Mystery',"'27,9648'"
+1992,'Horror' 'Action' 'Thriller',"'27,28,53'"
+19933,'Fantasy' 'Adventure' 'Animation' 'Comedy' 'Family' 'Music',"'14,12,16,35,10751,10402'"
+199374,'Comedy' 'Family' 'Adventure',"'35,10751,12'"
+1995,'Adventure' 'Fantasy' 'Action' 'Thriller',"'12,14,28,53'"
+19951,'Horror','27'
+199534,'Horror' 'Thriller',"'27,53'"
+1996,'Action' 'Adventure' 'Fantasy' 'Thriller',"'28,12,14,53'"
+199661,'Romance' 'Comedy',"'10749,35'"
+199687,'',''
+1997-08-20,'Carousel Productions' 'Vision View Entertainment' 'Telescene Film Group Productions',"'11176,11602,29812'"
+19975,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+199753,'Animation' 'Family',"'16,10751'"
+199933,'Drama' 'Science Fiction' 'Mystery',"'18,878,9648'"
+19995,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+200,'Science Fiction' 'Action' 'Adventure' 'Thriller',"'878,28,12,53'"
+20004,'Science Fiction','878'
+20036,'Comedy' 'Romance',"'35,10749'"
+20044,'Horror' 'Action' 'Thriller' 'Foreign',"'27,28,53,10769'"
+2005,'Music' 'Comedy',"'10402,35'"
+200580,'Comedy' 'Drama',"'35,18'"
+200645,'Drama','18'
+20069,'Comedy' 'Drama',"'35,18'"
+20075,'Comedy','35'
+201,'Science Fiction' 'Action' 'Adventure' 'Thriller',"'878,28,12,53'"
+201018,'Drama','18'
+20106,'Comedy','35'
+2012-09-29,'Aniplex' 'GoHands' 'BROSTA TV' 'Mardock Scramble Production Committee' 'Sentai Filmworks',"'2883,7759,7760,7761,33751'"
+201386,'Comedy','35'
+2014-01-01,'Odyssey Media' 'Pulser Productions' 'Rogue State' 'The Cartel',"'17161,18012,18013,23822'"
+201414,'',''
+201676,'Animation' 'Comedy' 'Family' 'Fantasy' 'Music',"'16,35,10751,14,10402'"
+20183,'Animation' 'Family' 'Fantasy',"'16,10751,14'"
+2019,'Action' 'Adventure' 'Crime' 'Thriller',"'28,12,80,53'"
+20197,'Action' 'Comedy',"'28,35'"
+20294,'Drama' 'Action' 'Comedy' 'Romance',"'18,28,35,10749'"
+203217,'Comedy','35'
+20329,'Fantasy' 'Action' 'Thriller' 'Science Fiction' 'Mystery',"'14,28,53,878,9648'"
+20352,'Animation' 'Family',"'16,10751'"
+20359,'Comedy' 'Foreign',"'35,10769'"
+20377,'Animation' 'Family',"'16,10751'"
+20378,'Animation' 'Comedy' 'Family' 'Fantasy',"'16,35,10751,14'"
+2038,'Action' 'Thriller',"'28,53'"
+20381,'Action' 'Thriller',"'28,53'"
+203835,'Thriller' 'Horror',"'53,27'"
+20408,'Adventure' 'Thriller' 'Crime' 'Mystery',"'12,53,80,9648'"
+20413,'Comedy','35'
+20417,'Drama' 'Thriller' 'Crime' 'Mystery',"'18,53,80,9648'"
+2043,'Crime' 'Mystery' 'Thriller' 'Action',"'80,9648,53,28'"
+204342,'Action' 'Comedy',"'28,35'"
+204349,'Horror' 'Thriller',"'27,53'"
+20435,'TV Movie' 'Action' 'Thriller',"'10770,28,53'"
+20441,'Horror','27'
+204435,'Action' 'Science Fiction',"'28,878'"
+20455,'Fantasy' 'Animation' 'Science Fiction' 'Family',"'14,16,878,10751'"
+204582,'Family','10751'
+204668,'Adventure','12'
+204712,'Family' 'Animation',"'10751,16'"
+20473,'Comedy' 'Family' 'Science Fiction',"'35,10751,878'"
+20478,'Romance' 'Drama',"'10749,18'"
+204912,'',''
+20526,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+20527,'Drama' 'Foreign' 'Romance',"'18,10769,10749'"
+205321,'TV Movie' 'Horror',"'10770,27'"
+20551,'Comedy' 'Drama' 'Family',"'35,18,10751'"
+20553,'Documentary' 'Foreign',"'99,10769'"
+20561,'Documentary' 'Foreign',"'99,10769'"
+20562,'Documentary' 'Foreign',"'99,10769'"
+20565,'Documentary' 'Foreign',"'99,10769'"
+20567,'Action' 'Crime',"'28,80'"
+20583,'TV Movie' 'Action' 'Drama' 'Romance',"'10770,28,18,10749'"
+2059,'Adventure' 'Action' 'Thriller' 'Mystery',"'12,28,53,9648'"
+2061,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+206145,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+20618,'Comedy','35'
+206408,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+20641,'TV Movie' 'Drama' 'Romance',"'10770,18,10749'"
+20648,'Comedy' 'Romance',"'35,10749'"
+206647,'Action' 'Adventure' 'Crime',"'28,12,80'"
+206789,'Comedy','35'
+20679,'Comedy' 'Documentary' 'TV Movie',"'35,99,10770'"
+2069,'Comedy' 'Crime',"'35,80'"
+20694,'Animation' 'Family',"'16,10751'"
+20731,'Foreign' 'Thriller',"'10769,53'"
+207323,'Crime' 'Animation' 'Comedy',"'80,16,35'"
+20737,'Comedy' 'Family' 'Drama',"'35,10751,18'"
+207454,'Mystery' 'Crime' 'Thriller',"'9648,80,53'"
+207475,'Horror','27'
+20755,'Comedy' 'Drama' 'Family',"'35,18,10751'"
+20756,'Animation' 'Family',"'16,10751'"
+20760,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+20762,'Action' 'Thriller',"'28,53'"
+207680,'Comedy' 'Horror',"'35,27'"
+207703,'Crime' 'Comedy' 'Action' 'Adventure',"'80,35,28,12'"
+207768,'Thriller' 'Horror' 'Crime',"'53,27,80'"
+20787,'Science Fiction','878'
+207932,'Thriller','53'
+2080,'Adventure' 'Action' 'Thriller' 'Science Fiction',"'12,28,53,878'"
+208134,'Comedy','35'
+2082,'Horror','27'
+208478,'Documentary' 'Drama',"'99,18'"
+20850,'Thriller' 'Horror' 'War',"'53,27,10752'"
+208763,'Thriller' 'Adventure' 'Mystery' 'Fantasy',"'53,12,9648,14'"
+20882,'Comedy','35'
+20883,'Comedy','35'
+20884,'Comedy','35'
+209049,'Drama' 'Romance' 'Comedy',"'18,10749,35'"
+209112,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+20914,'Comedy','35'
+209232,'Comedy' 'Crime',"'35,80'"
+20947,'Science Fiction' 'Family' 'Adventure' 'Comedy',"'878,10751,12,35'"
+20949,'Science Fiction' 'Family' 'Adventure' 'Comedy',"'878,10751,12,35'"
+20963,'Comedy','35'
+20968,'Crime' 'Action' 'Drama',"'80,28,18'"
+20986,'Action' 'Adventure' 'Animation' 'Comedy',"'28,12,16,35'"
+20992,'Action' 'Crime' 'Thriller',"'28,80,53'"
+20993,'Drama' 'Thriller',"'18,53'"
+21,'Documentary','99'
+21029,'Comedy','35'
+21032,'Family' 'Animation' 'Adventure',"'10751,16,12'"
+21036,'Animation' 'Family' 'Comedy',"'16,10751,35'"
+21040,'Action' 'Thriller',"'28,53'"
+21041,'Action' 'Thriller',"'28,53'"
+2105,'Comedy' 'Romance',"'35,10749'"
+21072,'Action' 'Thriller',"'28,53'"
+2109,'Action' 'Comedy' 'Crime' 'Thriller',"'28,35,80,53'"
+21135,'Romance' 'Drama',"'10749,18'"
+21137,'Documentary' 'Music',"'99,10402'"
+21138,'Adventure' 'Drama' 'Action' 'Comedy' 'Science Fiction' 'Family',"'12,18,28,35,878,10751'"
+2114,'Adventure' 'Action' 'Animation' 'Fantasy' 'Science Fiction' 'Thriller',"'12,28,16,14,878,53'"
+21142,'Action' 'Adventure' 'Drama',"'28,12,18'"
+211672,'Family' 'Animation' 'Adventure' 'Comedy',"'10751,16,12,35'"
+211711,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+211798,'Animation' 'Comedy',"'16,35'"
+212156,'Animation' 'Science Fiction',"'16,878'"
+212162,'Mystery' 'Animation' 'Fantasy',"'9648,16,14'"
+212168,'Action' 'Animation' 'Science Fiction' 'Thriller',"'28,16,878,53'"
+2122,'Comedy' 'Thriller' 'Crime',"'35,53,80'"
+21240,'Comedy','35'
+212470,'Family' 'Fantasy' 'Music' 'Animation',"'10751,14,10402,16'"
+21250,'Adventure' 'Animation' 'Drama' 'Family',"'12,16,18,10751'"
+21251,'Comedy','35'
+21299,'Action' 'Adventure' 'Family',"'28,12,10751'"
+212996,'Action' 'Crime' 'Drama' 'Foreign',"'28,80,18,10769'"
+21301,'Comedy' 'Drama',"'35,18'"
+21316,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+21348,'Fantasy' 'Adventure' 'Animation' 'Family',"'14,12,16,10751'"
+213755,'Action' 'Fantasy' 'Mystery',"'28,14,9648'"
+21379,'Action' 'Family' 'Animation',"'28,10751,16'"
+2139,'Action' 'Adventure' 'Drama',"'28,12,18'"
+213927,'Action','28'
+214,'Horror' 'Thriller' 'Crime',"'27,53,80'"
+21407,'Horror' 'Thriller',"'27,53'"
+21410,'Action' 'Drama',"'28,18'"
+214264,'Fantasy' 'Comedy' 'Romance',"'14,35,10749'"
+21435,'Comedy','35'
+214464,'Horror','27'
+21452,'Crime' 'Thriller',"'80,53'"
+214597,'Horror' 'Comedy',"'27,35'"
+21461,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+21467,'Crime' 'Thriller' 'Comedy',"'80,53,35'"
+21474,'Comedy','35'
+214756,'Comedy','35'
+21481,'Comedy' 'Drama' 'Family' 'Fantasy' 'TV Movie',"'35,18,10751,14,10770'"
+215,'Horror','27'
+21518,'Comedy' 'Drama' 'Family',"'35,18,10751'"
+21519,'Action' 'Comedy',"'28,35'"
+21521,'Action' 'Comedy',"'28,35'"
+215405,'Action' 'Family' 'Comedy',"'28,10751,35'"
+215407,'Documentary','99'
+216015,'Drama' 'Romance' 'Thriller',"'18,10749,53'"
+216016,'Horror','27'
+21614,'Comedy','35'
+21636,'Drama' 'Western',"'18,37'"
+21661,'Comedy' 'Family',"'35,10751'"
+21671,'Comedy' 'Documentary',"'35,99'"
+21683,'Adventure' 'Fantasy' 'Animation' 'Action' 'Science Fiction' 'Family',"'12,14,16,28,878,10751'"
+216983,'Animation','16'
+217,'Adventure' 'Action',"'12,28'"
+21707,'Action' 'Comedy',"'28,35'"
+21708,'Action' 'Comedy',"'28,35'"
+21721,'Drama' 'Music',"'18,10402'"
+21752,'Comedy','35'
+21769,'Thriller' 'Action' 'Animation' 'Science Fiction' 'Adventure',"'53,28,16,878,12'"
+21779,'Action' 'Comedy' 'Thriller',"'28,35,53'"
+21780,'Music' 'Family',"'10402,10751'"
+21786,'Drama' 'Horror' 'Mystery' 'Thriller',"'18,27,9648,53'"
+217923,'Action' 'Crime' 'Fantasy' 'Adventure',"'28,80,14,12'"
+217993,'Animation','16'
+218,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+21811,'Comedy','35'
+2182,'Comedy' 'Horror' 'Science Fiction',"'35,27,878'"
+21832,'Mystery' 'Animation' 'Science Fiction' 'Action',"'9648,16,878,28'"
+21882,'Drama' 'Crime' 'Action',"'18,80,28'"
+218836,'Animation' 'Comedy' 'Adventure' 'Family',"'16,35,12,10751'"
+21925,'Documentary' 'Drama' 'Music' 'Thriller',"'99,18,10402,53'"
+21930,'Action' 'Horror' 'Science Fiction',"'28,27,878'"
+2195,'Drama' 'Action' 'Thriller',"'18,28,53'"
+219572,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+21972,'Comedy' 'Drama' 'Family' 'Fantasy',"'35,18,10751,14'"
+22,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+2202,'Adventure' 'Drama' 'Family',"'12,18,10751'"
+220436,'Documentary','99'
+22049,'Fantasy' 'Science Fiction',"'14,878'"
+220504,'',''
+220714,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+22137,'Horror' 'Mystery',"'27,9648'"
+22140,'Horror' 'Mystery',"'27,9648'"
+221731,'Action' 'Adventure' 'Drama',"'28,12,18'"
+221732,'Action' 'Adventure' 'Drama',"'28,12,18'"
+221791,'Mystery','9648'
+22182,'Comedy','35'
+22192,'Crime' 'Comedy',"'80,35'"
+22240,'Action' 'Comedy',"'28,35'"
+22257,'Crime' 'Comedy',"'80,35'"
+22259,'Action' 'Adventure' 'Animation' 'Family' 'Science Fiction',"'28,12,16,10751,878'"
+222832,'Horror','27'
+22328,'Comedy' 'Family' 'Western',"'35,10751,37'"
+224,'Drama' 'History',"'18,36'"
+22435,'Comedy','35'
+22440,'Drama' 'Fantasy' 'Horror',"'18,14,27'"
+22488,'TV Movie' 'Action' 'Drama' 'Family',"'10770,28,18,10751'"
+225,'Drama' 'History',"'18,36'"
+22537,'Action' 'Animation' 'Adventure' 'Fantasy',"'28,16,12,14'"
+22555,'TV Movie' 'Drama' 'Thriller' 'Crime' 'Mystery',"'10770,18,53,80,9648'"
+22572,'Action' 'Comedy' 'Horror' 'Science Fiction',"'28,35,27,878'"
+22582,'Animation' 'Family',"'16,10751'"
+22586,'Animation','16'
+22599,'Action' 'Comedy' 'Foreign',"'28,35,10769'"
+226140,'Horror','27'
+2262,'Crime' 'Drama',"'80,18'"
+22620,'Mystery' 'Animation' 'Comedy' 'Fantasy',"'9648,16,35,14'"
+22623,'Comedy','35'
+2264,'Romance' 'Drama',"'10749,18'"
+2269,'Fantasy' 'Horror',"'14,27'"
+22701,'Action' 'Foreign' 'Science Fiction',"'28,10769,878'"
+227159,'Comedy','35'
+227257,'Family' 'Animation' 'Fantasy',"'10751,16,14'"
+227348,'Horror' 'Thriller',"'27,53'"
+227425,'Animation' 'Adventure' 'Comedy',"'16,12,35'"
+227679,'Action' 'Adventure' 'Animation' 'Family',"'28,12,16,10751'"
+227735,'Family' 'Drama',"'10751,18'"
+227783,'Animation' 'Comedy' 'Family' 'Adventure',"'16,35,10751,12'"
+227932,'Comedy','35'
+22794,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+22804,'Horror' 'Mystery',"'27,9648'"
+228165,'Animation' 'Adventure' 'Comedy' 'Family',"'16,12,35,10751'"
+228202,'Comedy','35'
+22821,'Action' 'Thriller' 'Crime',"'28,53,80'"
+228358,'Mystery' 'Horror' 'Thriller',"'9648,27,53'"
+22843,'Animation' 'Science Fiction' 'Action' 'Drama',"'16,878,28,18'"
+228432,'Drama' 'Thriller',"'18,53'"
+22855,'Animation' 'Action' 'Adventure',"'16,28,12'"
+22899,'Fantasy' 'Action' 'Horror' 'Science Fiction' 'Adventure',"'14,28,27,878,12'"
+229,'Horror' 'Science Fiction',"'27,878'"
+229007,'Crime' 'Mystery',"'80,9648'"
+2292,'Comedy','35'
+22937,'Adventure' 'Comedy',"'12,35'"
+2295,'Comedy','35'
+22965,'Comedy' 'Crime' 'Mystery' 'Thriller',"'35,80,9648,53'"
+22974,'Comedy','35'
+229974,'Comedy','35'
+230182,'Action' 'Comedy',"'28,35'"
+23023,'Comedy' 'Family' 'Fantasy',"'35,10751,14'"
+23048,'Science Fiction' 'Comedy' 'Adventure',"'878,35,12'"
+23069,'Adventure' 'Family' 'Romance',"'12,10751,10749'"
+231001,'Horror','27'
+23101,'Comedy' 'Fantasy' 'Romance',"'35,14,10749'"
+23104,'Horror','27'
+231082,'Horror' 'Comedy',"'27,35'"
+23116,'Documentary','99'
+2312,'Adventure' 'Fantasy' 'Action' 'Drama',"'12,14,28,18'"
+23150,'Crime' 'Animation' 'Action',"'80,16,28'"
+23151,'Crime' 'Animation' 'Action',"'80,16,28'"
+23153,'Crime' 'Animation' 'Action',"'80,16,28'"
+23154,'Animation','16'
+23155,'Action' 'Animation' 'Drama' 'Mystery' 'Thriller',"'28,16,18,9648,53'"
+231617,'Comedy' 'Drama' 'Romance' 'TV Movie',"'35,18,10749,10770'"
+23166,'Animation','16'
+23167,'Animation','16'
+231811,'Crime' 'Mystery',"'80,9648'"
+231812,'Crime' 'Mystery',"'80,9648'"
+23220,'Horror','27'
+23280,'Comedy' 'Crime' 'Mystery',"'35,80,9648'"
+23289,'Comedy','35'
+2330,'Action' 'Comedy' 'Crime',"'28,35,80'"
+233063,'Comedy','35'
+2331,'History' 'Drama',"'36,18'"
+2332,'Action' 'Comedy' 'Crime',"'28,35,80'"
+23336,'Documentary' 'History' 'War',"'99,36,10752'"
+23338,'Action' 'Adventure' 'Comedy' 'Drama',"'28,12,35,18'"
+2334,'Action' 'Comedy',"'28,35'"
+233487,'Action','28'
+2335,'Action' 'Comedy',"'28,35'"
+233639,'Adventure' 'Family',"'12,10751'"
+23398,'Comedy' 'Family' 'Animation' 'Fantasy' 'Music',"'35,10751,16,14,10402'"
+23437,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+23452,'Action' 'Adventure' 'Animation' 'Comedy',"'28,12,16,35'"
+23479,'Comedy' 'Family',"'35,10751'"
+23483,'Action' 'Crime',"'28,80'"
+23504,'Animation','16'
+23508,'Horror','27'
+23521,'Fantasy' 'Science Fiction' 'Family',"'14,878,10751'"
+23535,'Science Fiction' 'Thriller',"'878,53'"
+2362,'Action' 'Adventure' 'Drama' 'Horror' 'Science Fiction' 'Thriller' 'Western',"'28,12,18,27,878,53,37'"
+23626,'Comedy' 'Documentary',"'35,99'"
+23631,'Action' 'Comedy' 'Thriller',"'28,35,53'"
+236399,'Drama' 'Mystery' 'Thriller' 'TV Movie',"'18,9648,53,10770'"
+236417,'Family' 'Comedy' 'Romance',"'10751,35,10749'"
+23654,'Comedy','35'
+236737,'Comedy' 'Romance',"'35,10749'"
+23676,'Documentary' 'Drama',"'99,18'"
+23728,'Adventure' 'Comedy' 'Fantasy' 'Science Fiction',"'12,35,14,878'"
+23730,'Horror' 'Science Fiction',"'27,878'"
+23767,'Action' 'Romance' 'Thriller',"'28,10749,53'"
+237672,'Action' 'Drama',"'28,18'"
+238,'Drama' 'Crime',"'18,80'"
+23823,'Horror' 'Thriller',"'27,53'"
+23827,'Horror' 'Mystery',"'27,9648'"
+23832,'Adventure' 'Comedy',"'12,35'"
+238636,'Horror' 'Thriller',"'27,53'"
+238869,'Comedy','35'
+23903,'Animation' 'Family',"'16,10751'"
+23919,'Comedy','35'
+23943,'Comedy','35'
+2395,'Fantasy' 'Adventure' 'Comedy' 'Family',"'14,12,35,10751'"
+23951,'Documentary','99'
+23964,'Comedy','35'
+23985,'Drama','18'
+23986,'Drama','18'
+24,'Action' 'Crime',"'28,80'"
+240,'Drama' 'Crime',"'18,80'"
+24020,'TV Movie' 'Family' 'Drama',"'10770,10751,18'"
+24021,'Adventure' 'Fantasy' 'Drama' 'Romance',"'12,14,18,10749'"
+24023,'Action' 'Thriller',"'28,53'"
+24024,'Action' 'Thriller',"'28,53'"
+24025,'Crime' 'Action' 'Thriller',"'80,28,53'"
+24026,'Action' 'Thriller',"'28,53'"
+24032,'Fantasy' 'Comedy',"'14,35'"
+240341,'Action' 'Animation' 'Science Fiction',"'28,16,878'"
+24038,'Horror','27'
+24047,'Science Fiction','878'
+24057,'Fantasy' 'Animation',"'14,16'"
+24102,'Adventure' 'Fantasy' 'Animation' 'Science Fiction' 'Family',"'12,14,16,878,10751'"
+241259,'Family' 'Fantasy',"'10751,14'"
+24126,'Fantasy' 'Horror' 'Science Fiction',"'14,27,878'"
+24130,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+24140,'Drama' 'History',"'18,36'"
+24150,'Horror','27'
+24161,'Comedy','35'
+241842,'Horror' 'Action' 'Comedy',"'27,28,35'"
+241868,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+241968,'Drama' 'Comedy',"'18,35'"
+242,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+24200,'Comedy' 'Thriller',"'35,53'"
+242022,'Comedy','35'
+242088,'Comedy' 'Drama',"'35,18'"
+24230,'Science Fiction' 'Thriller',"'878,53'"
+24236,'Comedy' 'Family',"'35,10751'"
+242512,'Horror','27'
+24253,'Drama' 'Action' 'Thriller' 'Crime' 'Mystery',"'18,28,53,80,9648'"
+24257,'Documentary','99'
+24259,'Thriller','53'
+24266,'Family' 'Drama' 'Action' 'Western' 'Romance',"'10751,18,28,37,10749'"
+24331,'Horror' 'Science Fiction' 'Action',"'27,878,28'"
+24348,'Documentary' 'Drama' 'Music',"'99,18,10402'"
+243683,'Romance' 'Drama' 'Music',"'10749,18,10402'"
+24382,'Crime' 'Comedy',"'80,35'"
+243938,'Comedy','35'
+244,'Action' 'Adventure' 'Drama' 'Horror',"'28,12,18,27'"
+24402,'Drama' 'Romance',"'18,10749'"
+24428,'Science Fiction' 'Action' 'Adventure',"'878,28,12'"
+24444,'Adventure' 'Action' 'Drama',"'12,28,18'"
+24476,'Comedy','35'
+24477,'Comedy' 'Family',"'35,10751'"
+2454,'Adventure' 'Family' 'Fantasy',"'12,10751,14'"
+24554,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+24556,'Fantasy' 'Animation' 'Science Fiction' 'Family',"'14,16,878,10751'"
+24568,'Comedy','35'
+24569,'Adventure' 'Comedy' 'History' 'Romance',"'12,35,36,10749'"
+24570,'Romance' 'Comedy',"'10749,35'"
+24571,'Comedy','35'
+24580,'Horror' 'Science Fiction',"'27,878'"
+245891,'Action' 'Thriller',"'28,53'"
+2459,'Comedy','35'
+2463,'Drama' 'Action' 'Thriller' 'Crime',"'18,28,53,80'"
+24631,'Comedy','35'
+246320,'Comedy','35'
+24646,'Comedy','35'
+24647,'Comedy','35'
+24654,'Documentary' 'Drama',"'99,18'"
+246594,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+246655,'Science Fiction','878'
+24674,'Thriller' 'Horror',"'53,27'"
+24686,'Comedy' 'Romance',"'35,10749'"
+24696,'Animation' 'Comedy',"'16,35'"
+24712,'Action' 'Thriller',"'28,53'"
+24713,'Action' 'Thriller',"'28,53'"
+24752,'Action' 'Animation' 'Adventure',"'28,16,12'"
+24756,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+24769,'Action','28'
+24789,'Fantasy' 'Horror',"'14,27'"
+24791,'Documentary' 'Foreign',"'99,10769'"
+24794,'Comedy' 'Family',"'35,10751'"
+248223,'Adventure' 'Fantasy',"'12,14'"
+24830,'Action' 'Comedy' 'Thriller',"'28,35,53'"
+24831,'Horror','27'
+24833,'Adventure','12'
+24837,'Horror','27'
+248504,'Thriller' 'Horror' 'Science Fiction',"'53,27,878'"
+2487,'Action' 'Drama' 'Thriller',"'28,18,53'"
+248705,'Comedy','35'
+24873,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+248747,'Comedy','35'
+248781,'Horror','27'
+24883,'Drama' 'Family',"'18,10751'"
+24889,'Drama' 'Thriller',"'18,53'"
+249070,'Action' 'Crime' 'Thriller',"'28,80,53'"
+24924,'Horror','27'
+24925,'Comedy' 'Horror',"'35,27'"
+24929,'Comedy' 'Horror',"'35,27'"
+24935,'Comedy' 'Horror',"'35,27'"
+24939,'Comedy' 'Horror',"'35,27'"
+249397,'Drama' 'Mystery',"'18,9648'"
+249660,'Drama','18'
+24993,'Action' 'Adventure',"'28,12'"
+25,'Drama' 'War',"'18,10752'"
+250,'Action' 'Comedy' 'Crime',"'28,35,80'"
+25005,'Drama' 'Thriller' 'Music',"'18,53,10402'"
+25006,'Action' 'Crime' 'Drama',"'28,80,18'"
+2501,'Action' 'Drama' 'Mystery' 'Thriller',"'28,18,9648,53'"
+25018,'Horror' 'Thriller',"'27,53'"
+2502,'Action' 'Drama' 'Thriller',"'28,18,53'"
+2503,'Action' 'Drama' 'Mystery' 'Thriller',"'28,18,9648,53'"
+250388,'Action' 'Crime' 'Thriller',"'28,80,53'"
+250546,'Horror','27'
+25059,'Adventure' 'Comedy' 'Drama' 'Family',"'12,35,18,10751'"
+25087,'Action' 'Thriller',"'28,53'"
+250895,'Animation' 'Adventure' 'Family',"'16,12,10751'"
+25114,'Science Fiction' 'Adventure' 'Mystery',"'878,12,9648'"
+25148,'Action' 'Drama' 'Mystery' 'Thriller',"'28,18,9648,53'"
+251519,'Animation' 'Action' 'Adventure',"'16,28,12'"
+25155,'Drama' 'Horror' 'Mystery' 'Thriller',"'18,27,9648,53'"
+25160,'TV Movie' 'Comedy' 'Documentary',"'10770,35,99'"
+25161,'Documentary' 'Comedy' 'TV Movie',"'99,35,10770'"
+25164,'Comedy','35'
+25180,'Drama' 'Family',"'18,10751'"
+25182,'Drama' 'Action' 'Western' 'Family',"'18,28,37,10751'"
+25188,'Drama','18'
+252034,'Comedy','35'
+252360,'Action' 'Adventure' 'Drama' 'Fantasy',"'28,12,18,14'"
+252385,'',''
+25239,'Horror' 'Thriller',"'27,53'"
+25251,'Crime' 'Drama',"'80,18'"
+252520,'Animation','16'
+252916,'Comedy' 'Crime',"'35,80'"
+253,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+253192,'Comedy','35'
+253232,'Comedy','35'
+253451,'Action' 'Drama',"'28,18'"
+25361,'Adventure' 'Family' 'Science Fiction' 'Animation',"'12,10751,878,16'"
+25391,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+254201,'Crime' 'Thriller',"'80,53'"
+25423,'Action' 'Drama' 'Thriller',"'28,18,53'"
+254470,'Comedy' 'Music',"'35,10402'"
+25473,'Action' 'Crime' 'Drama',"'28,80,18'"
+254736,'Drama','18'
+25475,'Animation' 'Family' 'Adventure' 'Fantasy',"'16,10751,12,14'"
+254869,'Action' 'Comedy',"'28,35'"
+255,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+25508,'Thriller' 'Drama' 'Horror',"'53,18,27'"
+25516,'Drama' 'Action' 'Science Fiction' 'Romance' 'Foreign',"'18,28,878,10749,10769'"
+255268,'Action','28'
+25528,'Action' 'Thriller',"'28,53'"
+25536,'Crime' 'Drama' 'Action',"'80,18,28'"
+25539,'Action' 'Adventure' 'Comedy' 'Crime',"'28,12,35,80'"
+255476,'Family','10751'
+25556,'Animation' 'Family',"'16,10751'"
+255746,'Comedy','35'
+25587,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+256,'Drama','18'
+25602,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+256040,'Action' 'Adventure' 'History' 'War',"'28,12,36,10752'"
+25606,'Comedy','35'
+25678,'Action' 'Adventure' 'Drama',"'28,12,18'"
+25682,'Action' 'Adventure' 'Drama',"'28,12,18'"
+25684,'Action' 'Thriller',"'28,53'"
+256961,'Action' 'Comedy' 'Family',"'28,35,10751'"
+25716,'Action' 'Comedy' 'Thriller',"'28,35,53'"
+257343,'Comedy','35'
+25741,'Animation' 'Family' 'Adventure' 'Drama' 'Fantasy',"'16,10751,12,18,14'"
+25745,'Action' 'Comedy' 'Thriller' 'Foreign',"'28,35,53,10769'"
+257451,'Comedy','35'
+25748,'Horror','27'
+25749,'Thriller' 'Horror',"'53,27'"
+25750,'Horror','27'
+25751,'Horror' 'Thriller',"'27,53'"
+25752,'Horror' 'Mystery',"'27,9648'"
+25753,'Horror','27'
+25754,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+25778,'Action' 'Drama' 'Family' 'Thriller',"'28,18,10751,53'"
+25786,'Drama' 'Family',"'18,10751'"
+257932,'Adventure' 'Family' 'Fantasy' 'Animation',"'12,10751,14,16'"
+258,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+258096,'Animation' 'Family' 'Adventure' 'Comedy',"'16,10751,12,35'"
+258251,'Action' 'Adventure',"'28,12'"
+25833,'Comedy','35'
+25834,'Science Fiction' 'Horror',"'878,27'"
+25843,'Fantasy' 'Animation' 'Science Fiction' 'Foreign' 'Action' 'Adventure',"'14,16,878,10769,28,12'"
+258509,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+259,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+259072,'Horror','27'
+259074,'Thriller','53'
+25913,'Family' 'Animation' 'Adventure',"'10751,16,12'"
+259233,'Horror','27'
+259316,'Adventure' 'Family' 'Fantasy',"'12,10751,14'"
+25934,'Drama','18'
+25936,'Comedy','35'
+25961,'Adventure' 'Animation' 'Family' 'Fantasy',"'12,16,10751,14'"
+259634,'',''
+259693,'Horror','27'
+26005,'Crime' 'Drama' 'Romance',"'80,18,10749'"
+260063,'Action' 'War' 'Drama',"'28,10752,18'"
+260202,'Thriller' 'Drama' 'Action' 'Mystery',"'53,18,28,9648'"
+260234,'Family' 'Animation' 'Fantasy',"'10751,16,14'"
+26028,'Music','10402'
+260310,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+260339,'Action' 'Drama' 'Crime',"'28,18,80'"
+260346,'Thriller' 'Action',"'53,28'"
+26042,'Fantasy' 'Horror',"'14,27'"
+26044,'Comedy' 'Romance',"'35,10749'"
+2605,'Comedy' 'Family' 'Science Fiction',"'35,10751,878'"
+260514,'Family' 'Comedy' 'Animation' 'Adventure',"'10751,35,16,12'"
+26114,'TV Movie' 'Drama' 'Thriller' 'Crime',"'10770,18,53,80'"
+26123,'Comedy','35'
+261538,'Comedy','35'
+26181,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+2619,'Comedy' 'Fantasy' 'Romance',"'35,14,10749'"
+26190,'Comedy','35'
+26200,'Action' 'Comedy' 'Crime' 'Mystery',"'28,35,80,9648'"
+262137,'Crime' 'Thriller' 'Action' 'Mystery',"'80,53,28,9648'"
+262227,'Comedy' 'Family' 'Action' 'Drama' 'Romance',"'35,10751,28,18,10749'"
+26230,'Comedy' 'Horror' 'Science Fiction',"'35,27,878'"
+26235,'Adventure' 'Comedy' 'Fantasy',"'12,35,14'"
+262500,'Adventure' 'Science Fiction' 'Thriller',"'12,878,53'"
+262504,'Adventure' 'Science Fiction',"'12,878'"
+262551,'Comedy','35'
+26263,'Thriller' 'Action' 'Adventure' 'Crime',"'53,28,12,80'"
+26264,'Adventure' 'Comedy' 'Family',"'12,35,10751'"
+26268,'Action' 'Drama' 'Thriller' 'Crime' 'Mystery',"'28,18,53,80,9648'"
+26278,'Horror' 'Science Fiction',"'27,878'"
+262848,'Science Fiction' 'Fantasy' 'Horror',"'878,14,27'"
+26285,'Comedy','35'
+263115,'Action' 'Drama' 'Science Fiction',"'28,18,878'"
+26329,'Comedy','35'
+263341,'Action' 'Adventure' 'Drama',"'28,12,18'"
+26340,'Action' 'Adventure',"'28,12'"
+26357,'Adventure','12'
+26386,'Comedy' 'Family',"'35,10751'"
+263945,'Animation' 'Family',"'16,10751'"
+26398,'Adventure' 'Fantasy' 'Science Fiction',"'12,14,878'"
+264085,'Comedy' 'Drama' 'Horror' 'Fantasy',"'35,18,27,14'"
+264264,'Drama','18'
+26452,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+26461,'Comedy','35'
+2648,'Action','28'
+26480,'Action' 'Horror',"'28,27'"
+26483,'Comedy','35'
+26484,'Comedy' 'Music',"'35,10402'"
+26497,'Animation' 'Family' 'Fantasy',"'16,10751,14'"
+264999,'Comedy' 'Drama' 'Music',"'35,18,10402'"
+26505,'Adventure' 'Fantasy' 'Animation' 'Family',"'12,14,16,10751'"
+26515,'Fantasy' 'Horror',"'14,27'"
+26539,'Animation','16'
+26554,'Horror' 'Comedy' 'Science Fiction',"'27,35,878'"
+26566,'Action' 'Comedy',"'28,35'"
+265712,'Fantasy' 'Animation' 'Family',"'14,16,10751'"
+26573,'Comedy' 'Science Fiction',"'35,878'"
+26581,'Science Fiction' 'Adventure',"'878,12'"
+2662,'Horror','27'
+2665,'Comedy','35'
+26655,'Comedy' 'Drama' 'Family',"'35,18,10751'"
+2667,'Horror' 'Mystery',"'27,9648'"
+26693,'Horror','27'
+267048,'Thriller' 'Action' 'Crime',"'53,28,80'"
+2671,'Horror' 'Thriller',"'27,53'"
+26728,'Comedy' 'Animation' 'Family',"'35,16,10751'"
+267333,'Mystery','9648'
+267336,'Mystery','9648'
+26736,'Adventure' 'Comedy' 'Drama' 'Family' 'Fantasy',"'12,35,18,10751,14'"
+26743,'Comedy','35'
+26769,'Action' 'Documentary',"'28,99'"
+267793,'TV Movie' 'Romance' 'Drama' 'Thriller',"'10770,10749,18,53'"
+267806,'Horror' 'Thriller',"'27,53'"
+267860,'Action' 'Crime' 'Thriller',"'28,80,53'"
+267872,'Documentary','99'
+268,'Fantasy' 'Action',"'14,28'"
+26809,'Animation' 'Fantasy' 'Family',"'16,14,10751'"
+268238,'Drama' 'Comedy',"'18,35'"
+26830,'Action' 'Crime' 'Foreign' 'Thriller',"'28,80,10769,53'"
+26845,'Action' 'Adventure',"'28,12'"
+26847,'TV Movie' 'Comedy' 'Family',"'10770,35,10751'"
+26877,'Action' 'Crime' 'Romance',"'28,80,10749'"
+26879,'Comedy' 'Music' 'Romance',"'35,10402,10749'"
+26881,'Action' 'Drama' 'Adventure',"'28,18,12'"
+26883,'Adventure' 'Fantasy' 'Drama' 'Action' 'Science Fiction',"'12,14,18,28,878'"
+26912,'Horror' 'Science Fiction',"'27,878'"
+26914,'Horror','27'
+26945,'Fantasy' 'Animation' 'Adventure',"'14,16,12'"
+26947,'Adventure' 'Science Fiction' 'Action',"'12,878,28'"
+26953,'Horror','27'
+26954,'Horror','27'
+26956,'Horror','27'
+26957,'Horror','27'
+26958,'Horror','27'
+26959,'Horror','27'
+26960,'Horror','27'
+26961,'Horror' 'Fantasy' 'Science Fiction',"'27,14,878'"
+26962,'Horror','27'
+269650,'Animation' 'Science Fiction' 'Action',"'16,878,28'"
+2698,'Fantasy' 'Comedy' 'Family',"'14,35,10751'"
+270045,'Crime','80'
+270047,'Crime','80'
+2701,'Drama','18'
+27010,'Action' 'Science Fiction',"'28,878'"
+27042,'Animation' 'Comedy' 'Science Fiction',"'16,35,878'"
+27046,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+27076,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+270842,'Romance' 'Drama',"'10749,18'"
+27085,'Adventure' 'Fantasy' 'Science Fiction',"'12,14,878'"
+270946,'Family' 'Animation' 'Adventure' 'Comedy',"'10751,16,12,35'"
+271110,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+27117,'Drama' 'Mystery' 'Thriller',"'18,9648,53'"
+27118,'Mystery' 'Thriller',"'9648,53'"
+272,'Action' 'Crime' 'Drama',"'28,80,18'"
+27214,'Horror' 'Thriller',"'27,53'"
+2722,'Romance' 'Drama',"'10749,18'"
+272878,'Adventure' 'Drama' 'Family',"'12,18,10751'"
+27296,'Fantasy' 'Horror' 'Comedy',"'14,27,35'"
+27310,'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'"
+27318,'Fantasy' 'Horror' 'Comedy',"'14,27,35'"
+27320,'Horror','27'
+2734,'Drama' 'History',"'18,36'"
+27352,'Action' 'War',"'28,10752'"
+273621,'Action' 'Comedy',"'28,35'"
+273641,'Comedy','35'
+27370,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+27376,'Comedy','35'
+274,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+27414,'Thriller' 'Horror',"'53,27'"
+274167,'Comedy','35'
+274415,'Family' 'Adventure' 'Comedy',"'10751,12,35'"
+27472,'Adventure' 'Comedy',"'12,35'"
+27475,'Comedy' 'Horror',"'35,27'"
+27503,'Drama' 'Horror' 'Romance',"'18,27,10749'"
+275060,'Drama','18'
+27548,'Horror','27'
+27549,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+27561,'Comedy' 'Crime',"'35,80'"
+27578,'Thriller' 'Adventure' 'Action',"'53,12,28'"
+2758,'Comedy' 'Family' 'Fantasy',"'35,10751,14'"
+27582,'Action' 'Thriller' 'Crime',"'28,53,80'"
+27591,'Adventure' 'Fantasy' 'Science Fiction',"'12,14,878'"
+27598,'Family','10751'
+27599,'Family','10751'
+27600,'Comedy' 'Family',"'35,10751'"
+27601,'Comedy' 'Horror',"'35,27'"
+27621,'Comedy' 'Drama' 'Family' 'Music' 'TV Movie',"'35,18,10751,10402,10770'"
+2764,'',''
+276401,'Romance' 'Drama',"'10749,18'"
+27646,'Horror','27'
+27651,'Horror','27'
+27653,'Adventure' 'Fantasy' 'Animation' 'Science Fiction' 'Mystery' 'Family',"'12,14,16,878,9648,10751'"
+277,'Fantasy' 'Action' 'Thriller',"'14,28,53'"
+2770,'Comedy' 'Romance',"'35,10749'"
+27712,'Horror','27'
+277217,'Adventure' 'Action' 'Comedy' 'Family',"'12,28,35,10751'"
+277368,'Family' 'Comedy',"'10751,35'"
+27764,'Horror' 'Comedy',"'27,35'"
+27767,'Horror' 'Comedy',"'27,35'"
+27769,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+27770,'Horror','27'
+27771,'Horror','27'
+27793,'Fantasy','14'
+277967,'Comedy' 'Crime' 'Thriller',"'35,80,53'"
+27813,'Comedy' 'Horror',"'35,27'"
+27815,'Horror','27'
+278154,'Adventure' 'Animation' 'Family' 'Comedy',"'12,16,10751,35'"
+27816,'Horror','27'
+278468,'Animation','16'
+27847,'Action' 'Science Fiction',"'28,878'"
+278475,'Romance' 'Comedy',"'10749,35'"
+27850,'Adventure' 'Comedy' 'Family' 'Fantasy' 'Horror' 'TV Movie',"'12,35,10751,14,27,10770'"
+278604,'Animation' 'Comedy' 'Science Fiction',"'16,35,878'"
+2787,'Thriller' 'Science Fiction' 'Action',"'53,878,28'"
+2789,'Action' 'Science Fiction',"'28,878'"
+278924,'Action' 'Crime' 'Thriller',"'28,80,53'"
+2791,'Action' 'Animation' 'Science Fiction' 'Thriller',"'28,16,878,53'"
+279229,'Adventure' 'Family' 'Fantasy',"'12,10751,14'"
+279254,'Action' 'Animation' 'Science Fiction',"'28,16,878'"
+27932,'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'"
+27970,'Fantasy' 'Horror' 'Drama',"'14,27,18'"
+27996,'Comedy' 'Family' 'Fantasy',"'35,10751,14'"
+27997,'Comedy' 'Music',"'35,10402'"
+280,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+280092,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+28031,'Romance' 'Drama',"'10749,18'"
+28039,'Action' 'Drama' 'History' 'War',"'28,18,36,10752'"
+28044,'Crime' 'Drama' 'Mystery' 'Thriller',"'80,18,9648,53'"
+28067,'Horror','27'
+28071,'Horror','27'
+28090,'Horror' 'Thriller' 'Action',"'27,53,28'"
+28118,'Animation' 'Family',"'16,10751'"
+281338,'Drama' 'Science Fiction' 'War',"'18,878,10752'"
+28148,'Horror' 'Action',"'27,28'"
+281506,'Family' 'Drama',"'10751,18'"
+28153,'Horror','27'
+28155,'Horror','27'
+28165,'Comedy' 'Horror' 'Action',"'35,27,28'"
+28169,'Comedy' 'Horror' 'Action' 'Science Fiction',"'35,27,28,878'"
+282069,'Science Fiction' 'Horror',"'878,27'"
+282070,'Science Fiction' 'Horror',"'878,27'"
+28209,'Drama' 'Romance',"'18,10749'"
+28213,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+28218,'Action' 'Adventure' 'Comedy' 'Fantasy',"'28,12,35,14'"
+282346,'Thriller' 'Drama' 'Romance',"'53,18,10749'"
+28260,'Comedy' 'Science Fiction' 'Romance' 'Horror',"'35,878,10749,27'"
+28302,'Fantasy' 'Animation' 'Family',"'14,16,10751'"
+28324,'Adventure' 'Horror',"'12,27'"
+28325,'Drama' 'Horror' 'Romance',"'18,27,10749'"
+283445,'Horror','27'
+283536,'Drama','18'
+283995,'Action' 'Adventure' 'Comedy' 'Science Fiction',"'28,12,35,878'"
+284053,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+28406,'Horror','27'
+28421,'Drama' 'Horror' 'Mystery' 'Science Fiction' 'Thriller',"'18,27,9648,878,53'"
+28423,'Romance' 'Science Fiction' 'Comedy',"'10749,878,35'"
+284246,'Documentary','99'
+28425,'Horror' 'Science Fiction',"'27,878'"
+28426,'Adventure' 'Comedy' 'Romance' 'Science Fiction' 'War',"'12,35,10749,878,10752'"
+284279,'Action' 'Comedy',"'28,35'"
+28436,'Drama' 'Fantasy',"'18,14'"
+28460,'Animation' 'Action' 'Comedy',"'16,28,35'"
+284711,'Horror' 'Science Fiction' 'TV Movie',"'27,878,10770'"
+285,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+28510,'Adventure' 'Action' 'Science Fiction' 'Thriller',"'12,28,878,53'"
+28538,'Science Fiction','878'
+285423,'War' 'Action',"'10752,28'"
+28574,'Action' 'Thriller',"'28,53'"
+285803,'Drama' 'Action',"'18,28'"
+28597,'Comedy','35'
+28601,'Comedy' 'Fantasy',"'35,14'"
+28605,'Comedy' 'Horror',"'35,27'"
+28609,'Animation','16'
+28635,'Thriller' 'Horror',"'53,27'"
+286548,'Action','28'
+28656,'Drama' 'Horror',"'18,27'"
+28668,'Thriller' 'Mystery',"'53,9648'"
+28670,'',''
+28677,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+28682,'Romance' 'Drama',"'10749,18'"
+28697,'Action' 'Animation',"'28,16'"
+287233,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+287281,'Comedy' 'Fantasy',"'35,14'"
+28733,'Horror','27'
+28737,'Action' 'Adventure',"'28,12'"
+28739,'Horror','27'
+28746,'Horror' 'Thriller',"'27,53'"
+28751,'Horror','27'
+287590,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+287948,'Thriller' 'Action' 'Crime',"'53,28,80'"
+28801,'Horror','27'
+28808,'Animation' 'Thriller',"'16,53'"
+288158,'Thriller' 'Horror' 'Drama',"'53,27,18'"
+28855,'Horror','27'
+28904,'Comedy' 'Family',"'35,10751'"
+28912,'Science Fiction','878'
+28920,'Comedy' 'Science Fiction',"'35,878'"
+289239,'Family' 'Fantasy' 'Horror',"'10751,14,27'"
+28938,'Comedy','35'
+289728,'Comedy' 'Family',"'35,10751'"
+2899,'Family' 'Fantasy' 'Comedy' 'Adventure',"'10751,14,35,12'"
+28994,'Drama' 'Family',"'18,10751'"
+290043,'Crime','80'
+29021,'Comedy','35'
+29054,'Comedy' 'Action' 'Adventure' 'Science Fiction',"'35,28,12,878'"
+29055,'Action' 'Science Fiction',"'28,878'"
+290595,'Action' 'Adventure' 'Drama',"'28,12,18'"
+29064,'Horror' 'Thriller',"'27,53'"
+2907,'Horror' 'Comedy' 'Fantasy',"'27,35,14'"
+290727,'Animation','16'
+290729,'Thriller' 'Action',"'53,28'"
+290865,'Drama' 'Crime',"'18,80'"
+29095,'Horror' 'Comedy',"'27,35'"
+291155,'Documentary','99'
+291805,'Action' 'Adventure' 'Comedy' 'Crime' 'Mystery' 'Thriller',"'28,12,35,80,9648,53'"
+292014,'Fantasy' 'Family' 'Animation' 'Adventure',"'14,10751,16,12'"
+292177,'Family' 'Animation' 'Music',"'10751,16,10402'"
+29224,'Comedy','35'
+29228,'Comedy' 'Family',"'35,10751'"
+29229,'Fantasy' 'Drama' 'Thriller',"'14,18,53'"
+29239,'Drama' 'Fantasy' 'Horror' 'Mystery' 'Thriller',"'18,14,27,9648,53'"
+29242,'Horror','27'
+29243,'Horror','27'
+29251,'Documentary','99'
+2926,'Action' 'Adventure' 'Comedy' 'Drama',"'28,12,35,18'"
+292893,'Western','37'
+29293,'TV Movie' 'Horror',"'10770,27'"
+29328,'Crime' 'Horror' 'Mystery' 'Thriller',"'80,27,9648,53'"
+293572,'Thriller' 'Horror',"'53,27'"
+29361,'Mystery' 'Action',"'9648,28'"
+293660,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+293771,'Horror' 'Science Fiction',"'27,878'"
+294161,'Family' 'Fantasy' 'Adventure',"'10751,14,12'"
+294254,'Action','28'
+29426,'Horror' 'Science Fiction',"'27,878'"
+29445,'Horror' 'Drama',"'27,18'"
+294544,'Documentary','99'
+29455,'Drama','18'
+294562,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+294682,'Drama','18'
+294690,'War' 'Action' 'Drama',"'10752,28,18'"
+29484,'Mystery' 'Thriller' 'Crime' 'Drama',"'9648,53,80,18'"
+29487,'Thriller','53'
+29490,'Drama' 'Thriller',"'18,53'"
+295049,'Comedy','35'
+295273,'Action' 'Drama' 'Romance',"'28,18,10749'"
+29564,'Action' 'Comedy' 'Crime' 'Thriller',"'28,35,80,53'"
+295830,'Horror' 'Fantasy' 'Drama' 'Action' 'Science Fiction',"'27,14,18,28,878'"
+295887,'Action' 'Adventure' 'Family',"'28,12,10751'"
+296,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+296099,'Comedy','35'
+29670,'Action' 'Comedy' 'Crime',"'28,35,80'"
+29723,'Action' 'Drama' 'Thriller',"'28,18,53'"
+297270,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+297291,'Action' 'Fantasy' 'Adventure',"'28,14,12'"
+297298,'Comedy','35'
+29742,'Adventure' 'Comedy' 'Family' 'Science Fiction' 'TV Movie',"'12,35,10751,878,10770'"
+29748,'Horror','27'
+297556,'Science Fiction' 'Action' 'Animation' 'Adventure',"'878,28,16,12'"
+297762,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+29778,'Horror','27'
+2978,'Comedy' 'Fantasy',"'35,14'"
+29794,'Thriller' 'Horror',"'53,27'"
+298,'Crime' 'Thriller',"'80,53'"
+29801,'Action','28'
+29812,'Action' 'Mystery' 'Thriller',"'28,9648,53'"
+29829,'Mystery' 'Crime',"'9648,80'"
+29903,'Adventure' 'Fantasy' 'Action' 'Science Fiction',"'12,14,28,878'"
+29904,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+29912,'Drama','18'
+29920,'Drama' 'Thriller' 'Crime',"'18,53,80'"
+29941,'Fantasy' 'Drama' 'Family',"'14,18,10751'"
+299579,'TV Movie' 'Fantasy' 'Family',"'10770,14,10751'"
+30,'Animation' 'Science Fiction',"'16,878'"
+300424,'Action' 'Adventure' 'Animation' 'Family',"'28,12,16,10751'"
+30059,'Animation' 'Fantasy',"'16,14'"
+300665,'Horror','27'
+300803,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+30091,'Action','28'
+30143,'Action' 'Adventure' 'Animation' 'Comedy' 'Crime',"'28,12,16,35,80'"
+30146,'Animation' 'Adventure' 'Drama',"'16,12,18'"
+30149,'Comedy','35'
+30155,'Horror' 'Thriller',"'27,53'"
+30178,'Fantasy' 'Animation' 'Comedy' 'Science Fiction' 'Family',"'14,16,35,878,10751'"
+302349,'Action' 'Comedy' 'Fantasy' 'Science Fiction',"'28,35,14,878'"
+30245,'Comedy','35'
+302508,'Fantasy' 'Science Fiction',"'14,878'"
+302688,'Romance' 'Comedy' 'Family',"'10749,35,10751'"
+303457,'Action' 'Adventure' 'Animation' 'Documentary' 'Family' 'History',"'28,12,16,99,10751,36'"
+30347,'Drama' 'Thriller' 'Crime' 'Mystery',"'18,53,80,9648'"
+3035,'Drama' 'Horror' 'Science Fiction',"'18,27,878'"
+30366,'Adventure' 'Comedy' 'Music',"'12,35,10402'"
+303742,'',''
+30379,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+303857,'Action' 'Adventure' 'Animation' 'Fantasy',"'28,12,16,14'"
+303903,'Animation','16'
+3040,'Fantasy' 'Action' 'Thriller',"'14,28,53'"
+30421,'Fantasy' 'Action',"'14,28'"
+3049,'Comedy' 'Mystery',"'35,9648'"
+30497,'Horror','27'
+3050,'Comedy' 'Family' 'Fantasy',"'35,10751,14'"
+30502,'Comedy' 'Family',"'35,10751'"
+3054,'Action' 'Comedy' 'Thriller',"'28,35,53'"
+30554,'Horror' 'Thriller',"'27,53'"
+30566,'Horror' 'Thriller',"'27,53'"
+30575,'Animation' 'Action' 'Comedy',"'16,28,35'"
+30577,'Comedy' 'Fantasy',"'35,14'"
+306,'Action' 'Comedy' 'Crime',"'28,35,80'"
+30649,'Comedy' 'Documentary' 'TV Movie',"'35,99,10770'"
+30654,'Comedy' 'Horror' 'Science Fiction',"'35,27,878'"
+30655,'Science Fiction' 'Action',"'878,28'"
+30656,'Adventure' 'Science Fiction',"'12,878'"
+30666,'Horror' 'Thriller',"'27,53'"
+307,'Drama' 'History',"'18,36'"
+3074,'Fantasy' 'Horror' 'Science Fiction',"'14,27,878'"
+3075,'Horror' 'Science Fiction',"'27,878'"
+3076,'Fantasy' 'Horror' 'Science Fiction',"'14,27,878'"
+3077,'Horror' 'Science Fiction',"'27,878'"
+30780,'Thriller' 'Horror',"'53,27'"
+3079,'Horror' 'Science Fiction',"'27,878'"
+30793,'Horror' 'Science Fiction',"'27,878'"
+30801,'Comedy' 'Romance' 'Western',"'35,10749,37'"
+308529,'Action' 'Drama',"'28,18'"
+308531,'Fantasy' 'Action' 'Adventure' 'Comedy',"'14,28,12,35'"
+308686,'Family' 'TV Movie',"'10751,10770'"
+309028,'Drama','18'
+309049,'Crime','80'
+309063,'Horror','27'
+30913,'Horror' 'Foreign',"'27,10769'"
+30914,'Horror','27'
+30921,'Science Fiction' 'Horror',"'878,27'"
+3093,'Crime' 'Mystery' 'Thriller',"'80,9648,53'"
+3097,'War' 'Drama' 'History' 'Adventure' 'Romance' 'Thriller',"'10752,18,36,12,10749,53'"
+30972,'Action' 'Crime' 'Horror' 'Science Fiction',"'28,80,27,878'"
+30975,'Drama' 'Romance',"'18,10749'"
+309887,'Comedy' 'Action',"'35,28'"
+30997,'Horror','27'
+310,'Fantasy' 'Comedy',"'14,35'"
+31022,'Horror' 'Crime',"'27,80'"
+3103,'Fantasy' 'Horror' 'Science Fiction' 'Thriller',"'14,27,878,53'"
+3104,'Horror' 'Science Fiction',"'27,878'"
+31046,'TV Movie' 'Crime' 'Drama' 'Thriller',"'10770,80,18,53'"
+31047,'TV Movie' 'Drama' 'Thriller' 'Crime',"'10770,18,53,80'"
+31051,'Action' 'Animation' 'Comedy' 'TV Movie',"'28,16,35,10770'"
+31060,'Comedy','35'
+310602,'Comedy','35'
+31061,'Comedy','35'
+3107,'Action' 'Science Fiction' 'Thriller' 'Horror',"'28,878,53,27'"
+31131,'Science Fiction' 'Action' 'Fantasy',"'878,28,14'"
+31132,'Comedy' 'Action',"'35,28'"
+3115,'Fantasy' 'Action' 'Science Fiction' 'Foreign',"'14,28,878,10769'"
+3117,'Horror' 'Science Fiction',"'27,878'"
+31203,'Comedy','35'
+31217,'War' 'Drama' 'History',"'10752,18,36'"
+312221,'Drama','18'
+3124,'Horror' 'Science Fiction',"'27,878'"
+31245,'Horror' 'Action' 'Comedy' 'Thriller' 'Science Fiction',"'27,28,35,53,878'"
+31264,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+3127,'Horror' 'Science Fiction',"'27,878'"
+31273,'Adventure' 'Crime' 'Drama' 'History',"'12,80,18,36'"
+31292,'',''
+31297,'Action' 'Foreign',"'28,10769'"
+31329,'Comedy' 'Mystery',"'35,9648'"
+31341,'Comedy','35'
+31347,'Comedy' 'Animation' 'Adventure' 'Fantasy' 'Romance',"'35,16,12,14,10749'"
+313556,'Comedy','35'
+31359,'Comedy','35'
+31372,'Drama' 'Action' 'Adventure',"'18,28,12'"
+31374,'Drama' 'Action' 'Adventure',"'18,28,12'"
+31378,'Action' 'Adventure' 'Drama' 'Romance' 'History',"'28,12,18,10749,36'"
+31402,'',''
+31408,'',''
+314285,'Adventure' 'Comedy' 'Family' 'Fantasy',"'12,35,10751,14'"
+314407,'Documentary','99'
+31443,'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'"
+31472,'Horror','27'
+31473,'Family' 'Animation' 'Adventure',"'10751,16,12'"
+314946,'Adventure' 'Animation' 'Comedy' 'Fantasy',"'12,16,35,14'"
+314952,'Comedy','35'
+31498,'Horror','27'
+31506,'Adventure' 'Drama' 'Fantasy',"'12,18,14'"
+31534,'',''
+315360,'Thriller' 'Crime' 'Mystery',"'53,80,9648'"
+315362,'Thriller' 'Crime' 'Mystery',"'53,80,9648'"
+315367,'Thriller' 'Crime' 'Mystery',"'53,80,9648'"
+31609,'Comedy' 'Music',"'35,10402'"
+31638,'Action' 'Adventure' 'Drama',"'28,12,18'"
+31646,'Horror','27'
+31654,'Comedy' 'Family',"'35,10751'"
+316727,'Action' 'Horror' 'Thriller',"'28,27,53'"
+3170,'Animation' 'Drama' 'Family',"'16,18,10751'"
+317121,'Romance' 'TV Movie',"'10749,10770'"
+31723,'Comedy' 'Drama',"'35,18'"
+317442,'Action' 'Animation' 'Romance',"'28,16,10749'"
+3176,'Drama' 'Thriller' 'Adventure',"'18,53,12'"
+3177,'Action' 'Thriller',"'28,53'"
+317953,'Comedy','35'
+31804,'Comedy','35'
+31805,'Comedy','35'
+31812,'Comedy','35'
+31933,'Animation' 'Family' 'Science Fiction',"'16,10751,878'"
+319341,'Comedy','35'
+31947,'Action' 'Horror',"'28,27'"
+31952,'Horror','27'
+31980,'Comedy','35'
+32023,'Fantasy' 'Horror',"'14,27'"
+32049,'Action' 'Thriller',"'28,53'"
+32100,'Action' 'Comedy',"'28,35'"
+32105,'Comedy','35'
+321068,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+32109,'Comedy','35'
+32113,'Comedy','35'
+321494,'Action','28'
+321528,'Action' 'Adventure' 'Animation',"'28,12,16'"
+32213,'Action' 'Drama' 'Thriller',"'28,18,53'"
+32237,'Horror','27'
+322456,'Action' 'Adventure' 'Animation' 'Family',"'28,12,16,10751'"
+32250,'Horror','27'
+32293,'Comedy' 'Drama' 'Family' 'Music' 'TV Movie',"'35,18,10751,10402,10770'"
+32302,'Action' 'Comedy' 'Family',"'28,35,10751'"
+323675,'Action' 'Comedy',"'28,35'"
+324552,'Thriller' 'Action' 'Crime',"'53,28,80'"
+324668,'Action' 'Thriller',"'28,53'"
+324849,'Action' 'Animation' 'Comedy' 'Family' 'Fantasy',"'28,16,35,10751,14'"
+324852,'Action' 'Animation' 'Adventure' 'Family' 'Comedy',"'28,16,12,10751,35'"
+324963,'Animation' 'Family' 'Fantasy',"'16,10751,14'"
+325133,'Comedy','35'
+325189,'Family' 'Comedy' 'Music',"'10751,35,10402'"
+32523,'Drama','18'
+32620,'Drama' 'Mystery' 'Thriller',"'18,9648,53'"
+326359,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+326423,'Comedy','35'
+32643,'Fantasy' 'Adventure' 'Comedy' 'Family',"'14,12,35,10751'"
+32654,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+32657,'Adventure' 'Fantasy' 'Family',"'12,14,10751'"
+32669,'Crime' 'Drama' 'Mystery',"'80,18,9648'"
+32685,'Horror' 'Comedy' 'Family',"'27,35,10751'"
+32688,'Documentary' 'Foreign',"'99,10769'"
+32694,'Comedy' 'Documentary' 'Foreign',"'35,99,10769'"
+32740,'Action' 'Science Fiction',"'28,878'"
+327418,'Action' 'Animation' 'Family',"'28,16,10751'"
+32761,'Drama','18'
+32764,'Drama','18'
+32790,'Family' 'Fantasy' 'Drama',"'10751,14,18'"
+327982,'Drama','18'
+328111,'Animation' 'Family',"'16,10751'"
+32834,'Action' 'Adventure' 'Comedy' 'Drama' 'Family' 'Fantasy' 'Romance',"'28,12,35,18,10751,14,10749'"
+32862,'Horror','27'
+328716,'Action' 'Mystery' 'Comedy' 'Adventure',"'28,9648,35,12'"
+328848,'TV Movie' 'Mystery',"'10770,9648'"
+32888,'Comedy','35'
+329,'Adventure' 'Science Fiction',"'12,878'"
+32926,'Comedy','35'
+329263,'Comedy','35'
+329540,'Thriller' 'Action',"'53,28'"
+329833,'Comedy','35'
+330,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+33005,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+330161,'TV Movie' 'Mystery',"'10770,9648'"
+33020,'Horror','27'
+330459,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+33061,'Fantasy' 'Horror',"'14,27'"
+33065,'Animation' 'Comedy' 'Drama',"'16,35,18'"
+331,'Adventure' 'Action' 'Thriller' 'Science Fiction',"'12,28,53,878'"
+33108,'Animation' 'Drama' 'Fantasy',"'16,18,14'"
+331446,'TV Movie' 'Horror' 'Science Fiction',"'10770,27,878'"
+331576,'Drama' 'Action' 'Crime',"'18,28,80'"
+331836,'Comedy','35'
+332,'Action' 'Adventure' 'Comedy' 'Family',"'28,12,35,10751'"
+33201,'Fantasy','14'
+33217,'Comedy' 'Family',"'35,10751'"
+33258,'Comedy' 'Drama' 'War',"'35,18,10752'"
+33274,'Animation' 'Fantasy' 'Horror' 'Science Fiction',"'16,14,27,878'"
+332788,'Romance' 'Comedy',"'10749,35'"
+33301,'Comedy','35'
+33303,'Comedy','35'
+33305,'Horror' 'Science Fiction' 'Action',"'27,878,28'"
+33338,'Action' 'Comedy',"'28,35'"
+333658,'TV Movie' 'Drama',"'10770,18'"
+33371,'Animation' 'Family',"'16,10751'"
+33386,'Crime' 'Mystery' 'Comedy' 'Thriller',"'80,9648,35,53'"
+33387,'Mystery' 'Comedy' 'Thriller' 'Crime',"'9648,35,53,80'"
+33388,'Mystery' 'Thriller',"'9648,53'"
+33389,'Crime' 'Drama' 'Thriller' 'Mystery',"'80,18,53,9648'"
+33390,'Crime' 'Thriller' 'Mystery' 'Drama' 'Comedy',"'80,53,9648,18,35'"
+33391,'Crime' 'Drama' 'Mystery' 'Thriller' 'Comedy',"'80,18,9648,53,35'"
+33392,'Mystery' 'Crime' 'Drama' 'Comedy' 'Thriller',"'9648,80,18,35,53'"
+33393,'Comedy' 'Crime' 'Drama' 'Mystery' 'Thriller',"'35,80,18,9648,53'"
+33394,'Mystery' 'Thriller',"'9648,53'"
+33395,'Crime' 'Comedy' 'Mystery' 'Thriller',"'80,35,9648,53'"
+33407,'Adventure' 'Comedy' 'Family',"'12,35,10751'"
+33419,'Horror' 'Thriller' 'Mystery',"'27,53,9648'"
+33421,'Thriller' 'Mystery',"'53,9648'"
+334304,'Adventure' 'Family',"'12,10751'"
+334376,'Science Fiction' 'Animation',"'878,16'"
+33501,'Science Fiction' 'Thriller',"'878,53'"
+33518,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+33519,'Horror','27'
+33534,'Adventure' 'Animation' 'Comedy' 'Drama' 'Fantasy',"'12,16,35,18,14'"
+335462,'Adventure' 'Action' 'War',"'12,28,10752'"
+33560,'Comedy' 'Drama',"'35,18'"
+335753,'Horror','27'
+335796,'Horror' 'Thriller',"'27,53'"
+33583,'History' 'Drama' 'Comedy',"'36,18,35'"
+335970,'Comedy','35'
+335988,'Action' 'Science Fiction' 'Thriller' 'Adventure',"'28,878,53,12'"
+336026,'Drama','18'
+33604,'Comedy','35'
+33613,'Action' 'Thriller' 'Crime' 'Mystery',"'28,53,80,9648'"
+336211,'Comedy' 'Romance',"'35,10749'"
+336560,'Action' 'Horror',"'28,27'"
+33660,'Drama' 'Family',"'18,10751'"
+336884,'Horror','27'
+336890,'Comedy','35'
+33701,'Comedy','35'
+33708,'Crime' 'Mystery' 'Drama' 'Thriller',"'80,9648,18,53'"
+33719,'Family' 'Animation',"'10751,16'"
+33723,'Thriller' 'Comedy' 'Horror',"'53,35,27'"
+33733,'Action' 'Comedy',"'28,35'"
+337339,'Action' 'Crime' 'Thriller',"'28,80,53'"
+33740,'Documentary' 'Family' 'Music',"'99,10751,10402'"
+337550,'Animation' 'Science Fiction',"'16,878'"
+33787,'Action' 'Comedy' 'Family',"'28,35,10751'"
+338100,'Family','10751'
+338312,'Action' 'Comedy' 'Crime',"'28,35,80'"
+33838,'Family' 'Animation',"'10751,16'"
+338485,'TV Movie' 'Family',"'10770,10751'"
+33875,'Action' 'Adventure' 'Animation' 'Fantasy',"'28,12,16,14'"
+338964,'Comedy' 'Crime' 'Drama',"'35,80,18'"
+33909,'Drama' 'Crime',"'18,80'"
+339526,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+339530,'Science Fiction' 'Action' 'Horror',"'878,28,27'"
+33954,'Comedy' 'Drama',"'35,18'"
+3396,'Comedy' 'Documentary',"'35,99'"
+34019,'Drama' 'Romance',"'18,10749'"
+340382,'Horror' 'Science Fiction' 'Action' 'Fantasy' 'Drama',"'27,878,28,14,18'"
+34065,'Adventure' 'Animation' 'Family' 'Fantasy',"'12,16,10751,14'"
+34067,'Adventure' 'Animation' 'Fantasy',"'12,16,14'"
+34070,'Drama' 'Comedy',"'18,35'"
+34075,'',''
+34082,'Comedy','35'
+341174,'Drama' 'Romance',"'18,10749'"
+34125,'Horror' 'Thriller',"'27,53'"
+34131,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+34134,'Animation' 'Family' 'Fantasy',"'16,10751,14'"
+34163,'Documentary' 'Comedy' 'TV Movie',"'99,35,10770'"
+34194,'Fantasy' 'Animation' 'Science Fiction' 'Foreign',"'14,16,878,10769'"
+34204,'Adventure' 'Comedy' 'Family' 'Fantasy' 'TV Movie',"'12,35,10751,14,10770'"
+34205,'Adventure' 'Family' 'Fantasy' 'TV Movie',"'12,10751,14,10770'"
+342917,'Action' 'Animation' 'Family',"'28,16,10751'"
+34300,'Comedy' 'Family',"'35,10751'"
+34311,'Horror' 'Comedy',"'27,35'"
+34312,'Comedy' 'Horror',"'35,27'"
+34314,'Action' 'Thriller' 'Crime',"'28,53,80'"
+34326,'Action' 'Drama' 'Crime',"'28,18,80'"
+34327,'Thriller' 'Mystery',"'53,9648'"
+343611,'Action','28'
+34376,'Fantasy' 'Comedy' 'Science Fiction' 'Romance',"'14,35,878,10749'"
+34388,'Thriller','53'
+343972,'Western','37'
+343977,'Comedy' 'Animation' 'Family',"'35,16,10751'"
+344,'Crime' 'Action' 'Comedy',"'80,28,35'"
+344147,'Action' 'Science Fiction' 'Adventure',"'28,878,12'"
+34433,'Animation' 'Adventure' 'Family',"'16,12,10751'"
+34479,'Horror','27'
+34480,'Adventure' 'Horror' 'Thriller',"'12,27,53'"
+34506,'Comedy' 'Documentary' 'TV Movie',"'35,99,10770'"
+34509,'Comedy' 'Documentary' 'TV Movie',"'35,99,10770'"
+34512,'Comedy' 'Documentary' 'TV Movie',"'35,99,10770'"
+34513,'Comedy' 'Documentary' 'TV Movie',"'35,99,10770'"
+34527,'Mystery' 'Crime',"'9648,80'"
+34528,'War' 'Drama' 'History',"'10752,18,36'"
+34530,'War' 'Drama' 'History',"'10752,18,36'"
+345468,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+34560,'Adventure' 'Comedy' 'Family' 'Fantasy' 'TV Movie',"'12,35,10751,14,10770'"
+34584,'Drama' 'Family' 'Fantasy' 'Adventure',"'18,10751,14,12'"
+34588,'Comedy','35'
+34598,'Action' 'Comedy' 'Crime',"'28,35,80'"
+34600,'Comedy' 'Family',"'35,10751'"
+34636,'Drama' 'Family' 'Fantasy' 'Adventure',"'18,10751,14,12'"
+346672,'Action' 'Fantasy' 'Horror',"'28,14,27'"
+34683,'Comedy','35'
+347096,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+347126,'Drama','18'
+347201,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+34734,'Horror' 'Thriller',"'27,53'"
+347413,'Action' 'Animation' 'Fantasy' 'Comedy',"'28,16,14,35'"
+34746,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+34765,'TV Movie' 'Comedy' 'Adventure' 'Family',"'10770,35,12,10751'"
+34766,'Adventure' 'Comedy' 'Family' 'TV Movie',"'12,35,10751,10770'"
+347689,'Adventure' 'Comedy' 'Family',"'12,35,10751'"
+348,'Horror' 'Action' 'Thriller' 'Science Fiction',"'27,28,53,878'"
+34812,'Science Fiction','878'
+348191,'Horror' 'Documentary',"'27,99'"
+3483,'Adventure' 'Crime' 'Horror' 'Science Fiction' 'Thriller',"'12,80,27,878,53'"
+3485,'Crime' 'Adventure' 'Horror' 'Thriller',"'80,12,27,53'"
+34851,'Action' 'Science Fiction' 'Adventure' 'Thriller',"'28,878,12,53'"
+348537,'Comedy' 'Romance',"'35,10749'"
+348631,'Drama' 'TV Movie' 'Mystery' 'Crime',"'18,10770,9648,80'"
+348668,'Crime' 'Drama' 'Mystery' 'Thriller',"'80,18,9648,53'"
+348893,'Thriller' 'Action' 'Crime',"'53,28,80'"
+34905,'Comedy','35'
+349158,'Animation' 'Music',"'16,10402'"
+349176,'Action' 'Adventure' 'Comedy' 'Science Fiction',"'28,12,35,878'"
+34935,'Animation' 'Comedy',"'16,35'"
+34942,'Family' 'Adventure' 'Animation',"'10751,12,16'"
+35019,'Comedy' 'Fantasy',"'35,14'"
+35022,'Drama','18'
+350312,'Action' 'Adventure' 'History' 'War',"'28,12,36,10752'"
+350499,'Adventure' 'Animation' 'Action',"'12,16,28'"
+35105,'Fantasy' 'Animation' 'Comedy' 'Adventure',"'14,16,35,12'"
+35115,'Action' 'Adventure' 'Family' 'Western',"'28,12,10751,37'"
+3512,'Action' 'Thriller',"'28,53'"
+351211,'Thriller' 'Horror',"'53,27'"
+351901,'Action' 'Thriller',"'28,53'"
+35200,'Action' 'Drama' 'Western',"'28,18,37'"
+35203,'TV Movie' 'Drama',"'10770,18'"
+3529,'Comedy' 'Crime' 'Mystery',"'35,80,9648'"
+35343,'Comedy','35'
+353595,'Action' 'Adventure' 'Animation' 'Family',"'28,12,16,10751'"
+353610,'Action','28'
+353616,'Comedy','35'
+35428,'Comedy','35'
+35435,'Animation' 'Drama' 'Mystery' 'Science Fiction',"'16,18,9648,878'"
+355730,'Drama','18'
+35610,'Science Fiction','878'
+356149,'Horror','27'
+356216,'Crime','80'
+35626,'Mystery' 'Horror' 'Comedy',"'9648,27,35'"
+35639,'Family','10751'
+35669,'Horror','27'
+35683,'Thriller' 'Drama',"'53,18'"
+35688,'Comedy' 'Romance',"'35,10749'"
+35701,'Documentary' 'Adventure',"'99,12'"
+357096,'Horror' 'Thriller',"'27,53'"
+35752,'Drama' 'Music',"'18,10402'"
+357786,'Action' 'Animation' 'Mystery',"'28,16,9648'"
+35780,'Animation' 'Family' 'Action' 'Science Fiction',"'16,10751,28,878'"
+35791,'Action' 'Adventure' 'Horror' 'Science Fiction',"'28,12,27,878'"
+359413,'Comedy','35'
+35945,'Horror','27'
+3597,'Horror' 'Thriller' 'Mystery',"'27,53,9648'"
+35977,'Horror','27'
+359983,'TV Movie' 'Animation' 'Family',"'10770,16,10751'"
+3600,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+3602,'Horror','27'
+360404,'Animation' 'Family',"'16,10751'"
+36046,'Drama' 'Romance',"'18,10749'"
+36073,'Horror','27'
+36096,'Mystery' 'Fantasy',"'9648,14'"
+361131,'Thriller' 'Drama',"'53,18'"
+361261,'Drama' 'Romance' 'TV Movie',"'18,10749,10770'"
+361263,'Drama' 'TV Movie' 'Crime' 'Mystery',"'18,10770,80,9648'"
+36161,'Animation' 'Family',"'16,10751'"
+36162,'Family' 'Animation',"'10751,16'"
+36163,'Animation' 'Family',"'16,10751'"
+361751,'TV Movie' 'Mystery',"'10770,9648'"
+361758,'Foreign' 'Crime' 'Action' 'Thriller',"'10769,80,28,53'"
+362058,'Family' 'Animation' 'Fantasy',"'10751,16,14'"
+36212,'Science Fiction' 'Fantasy' 'Adventure' 'Family',"'878,14,12,10751'"
+36214,'Action' 'Adventure' 'Science Fiction' 'Fantasy',"'28,12,878,14'"
+36218,'Action' 'Animation' 'Adventure' 'Family',"'28,16,12,10751'"
+36222,'Action' 'Comedy' 'Family' 'Foreign' 'Science Fiction',"'28,35,10751,10769,878'"
+36223,'Action' 'Comedy' 'Foreign',"'28,35,10769'"
+36228,'Drama' 'Horror' 'Romance' 'Foreign',"'18,27,10749,10769'"
+36236,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+36243,'Adventure' 'Action' 'Drama' 'Fantasy',"'12,28,18,14'"
+36244,'Crime' 'Action' 'Drama',"'80,28,18'"
+36247,'Action' 'Science Fiction' 'Fantasy',"'28,878,14'"
+362584,'Animation' 'Fantasy' 'Mystery',"'16,14,9648'"
+362585,'Animation' 'Fantasy' 'Mystery',"'16,14,9648'"
+36323,'Animation' 'Family',"'16,10751'"
+36325,'Documentary','99'
+363354,'Romance' 'Action' 'Comedy',"'10749,28,35'"
+363607,'Comedy' 'Family',"'35,10751'"
+363611,'Foreign' 'Crime' 'Action' 'Thriller',"'10769,80,28,53'"
+363844,'Horror','27'
+364,'Action' 'Fantasy',"'28,14'"
+36421,'Horror','27'
+365222,'Action' 'Drama' 'History',"'28,18,36'"
+36555,'Action','28'
+36557,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+36571,'Action' 'War',"'28,10752'"
+36572,'War' 'Action',"'10752,28'"
+36573,'Adventure' 'War' 'Action',"'12,10752,28'"
+36576,'Crime' 'Comedy',"'80,35'"
+36586,'Fantasy' 'Horror' 'Action' 'Thriller',"'14,27,28,53'"
+36593,'Comedy' 'Crime',"'35,80'"
+36599,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+366143,'Family' 'Animation',"'10751,16'"
+366249,'Comedy','35'
+36627,'History' 'Adventure' 'War',"'36,12,10752'"
+36643,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+36645,'Action' 'Comedy' 'Thriller',"'28,35,53'"
+36647,'Horror' 'Action',"'27,28'"
+36648,'Science Fiction' 'Action' 'Horror' 'Thriller' 'Adventure' 'Fantasy',"'878,28,27,53,12,14'"
+366499,'Adventure' 'Comedy',"'12,35'"
+36657,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+36658,'Adventure' 'Action' 'Science Fiction' 'Thriller',"'12,28,878,53'"
+366630,'Drama' 'TV Movie',"'18,10770'"
+36668,'Adventure' 'Action' 'Science Fiction' 'Thriller',"'12,28,878,53'"
+36669,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+36670,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+36679,'Action' 'Adventure' 'Science Fiction' 'Drama' 'Fantasy' 'Horror',"'28,12,878,18,14,27'"
+36683,'Science Fiction' 'Adventure' 'Mystery',"'878,12,9648'"
+36685,'Comedy' 'Horror' 'Music' 'Science Fiction',"'35,27,10402,878'"
+36692,'Action' 'Thriller',"'28,53'"
+366924,'Action' 'Animation' 'Science Fiction',"'28,16,878'"
+36693,'Action' 'Thriller',"'28,53'"
+36696,'Family' 'Animation',"'10751,16'"
+36699,'War' 'Fantasy' 'Action' 'Drama',"'10752,14,28,18'"
+36702,'Drama','18'
+36724,'Documentary' 'Music',"'99,10402'"
+367596,'Drama' 'Comedy',"'18,35'"
+36764,'Comedy','35'
+36765,'Comedy','35'
+36766,'Comedy','35'
+36767,'Comedy','35'
+36768,'Comedy','35'
+36769,'Comedy','35'
+36771,'Comedy','35'
+36775,'Action' 'Comedy',"'28,35'"
+36779,'Action' 'Comedy' 'Horror' 'Science Fiction',"'28,35,27,878'"
+3683,'War' 'Drama' 'History',"'10752,18,36'"
+3686,'Western','37'
+3687,'Comedy' 'Science Fiction',"'35,878'"
+36877,'Drama' 'Fantasy',"'18,14'"
+36878,'Fantasy' 'Drama',"'14,18'"
+36885,'Comedy' 'Drama',"'35,18'"
+36886,'Comedy' 'Drama',"'35,18'"
+36887,'Drama','18'
+36888,'Drama','18'
+36896,'Horror' 'Comedy' 'Science Fiction',"'27,35,878'"
+36897,'Animation' 'Family',"'16,10751'"
+36912,'Action' 'Comedy' 'Drama',"'28,35,18'"
+36917,'Horror','27'
+369776,'Comedy','35'
+36996,'Thriller' 'Drama' 'Action',"'53,18,28'"
+37021,'Action' 'Comedy' 'Animation',"'28,35,16'"
+37024,'',''
+37030,'Action' 'Comedy',"'28,35'"
+37032,'Action' 'Comedy',"'28,35'"
+37047,'Animation' 'Comedy' 'Romance',"'16,35,10749'"
+370545,'Family' 'Animation' 'Adventure',"'10751,16,12'"
+370687,'Fantasy' 'Action' 'Adventure',"'14,28,12'"
+37100,'Animation' 'Comedy' 'Drama' 'Romance',"'16,35,18,10749'"
+371153,'',''
+371181,'TV Movie' 'Mystery',"'10770,9648'"
+37135,'Adventure' 'Animation' 'Drama' 'Family',"'12,16,18,10751'"
+37136,'Comedy' 'Crime',"'35,80'"
+37137,'Comedy' 'Crime',"'35,80'"
+37169,'Horror','27'
+37190,'Horror' 'Comedy',"'27,35'"
+37237,'Action' 'Drama' 'Thriller',"'28,18,53'"
+37302,'Drama' 'Fantasy' 'Science Fiction' 'Thriller',"'18,14,878,53'"
+37404,'Action' 'Adventure' 'Fantasy' 'TV Movie',"'28,12,14,10770'"
+37410,'Comedy' 'Drama',"'35,18'"
+374205,'Action' 'Animation' 'Adventure' 'Comedy',"'28,16,12,35'"
+374251,'Animation' 'Family',"'16,10751'"
+37453,'Drama' 'Family' 'History',"'18,10751,36'"
+37472,'Action' 'History' 'Drama',"'28,36,18'"
+374739,'Mystery' 'Family' 'TV Movie',"'9648,10751,10770'"
+37526,'Horror' 'Mystery',"'27,9648'"
+37529,'Horror' 'Thriller',"'27,53'"
+37530,'Fantasy' 'Horror' 'Comedy',"'14,27,35'"
+37563,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+37565,'Comedy' 'Adventure',"'35,12'"
+375798,'Comedy','35'
+37601,'Horror','27'
+37609,'Comedy' 'Drama' 'Family' 'Music' 'TV Movie',"'35,18,10751,10402,10770'"
+37653,'Comedy','35'
+376538,'Foreign' 'Crime' 'Action' 'Thriller',"'10769,80,28,53'"
+376543,'Foreign' 'Crime' 'Action' 'Thriller',"'10769,80,28,53'"
+376548,'Foreign' 'Crime' 'Action' 'Thriller',"'10769,80,28,53'"
+376553,'Foreign' 'Crime' 'Action' 'Thriller',"'10769,80,28,53'"
+37656,'Action' 'Science Fiction',"'28,878'"
+376599,'Comedy','35'
+376716,'Comedy','35'
+377,'Horror','27'
+37708,'Crime' 'Drama' 'Mystery',"'80,18,9648'"
+37724,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+37727,'Comedy','35'
+37728,'Comedy','35'
+37730,'Comedy','35'
+37731,'Comedy' 'Crime',"'35,80'"
+37769,'Comedy','35'
+37770,'Comedy','35'
+37786,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+37835,'Action' 'Thriller' 'Crime' 'Drama',"'28,53,80,18'"
+378385,'Action' 'Drama' 'War',"'28,18,10752'"
+37851,'Action' 'Science Fiction',"'28,878'"
+37853,'Comedy' 'Drama' 'Family' 'War',"'35,18,10751,10752'"
+379291,'Action' 'Animation',"'28,16'"
+37963,'Thriller' 'Horror',"'53,27'"
+37988,'Action' 'Comedy' 'Crime',"'28,35,80'"
+37991,'Comedy','35'
+379992,'Drama' 'Romance' 'TV Movie',"'18,10749,10770'"
+38015,'Crime' 'Comedy',"'80,35'"
+38084,'Horror','27'
+38125,'Horror' 'Science Fiction',"'27,878'"
+38126,'Drama' 'Horror' 'Science Fiction',"'18,27,878'"
+38147,'Fantasy' 'Comedy',"'14,35'"
+38148,'Comedy','35'
+381519,'Action' 'Animation' 'Science Fiction',"'28,16,878'"
+38155,'Action' 'Comedy' 'Drama' 'Fantasy' 'Mystery',"'28,35,18,14,9648'"
+38157,'Horror','27'
+381615,'TV Movie' 'Drama',"'10770,18'"
+38183,'Action','28'
+38185,'Action' 'Adventure',"'28,12'"
+38187,'Action','28'
+38189,'Action' 'Mystery',"'28,9648'"
+38190,'Action' 'Adventure',"'28,12'"
+382155,'Action' 'Drama' 'Crime' 'Thriller',"'28,18,80,53'"
+38234,'Action' 'Thriller',"'28,53'"
+38237,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+382399,'Drama' 'Music' 'Romance',"'18,10402,10749'"
+382517,'Animation' 'Comedy' 'Family' 'Adventure',"'16,35,10751,12'"
+382581,'Family' 'Animation',"'10751,16'"
+38269,'Science Fiction' 'Horror',"'878,27'"
+38273,'Thriller' 'Mystery',"'53,9648'"
+38281,'Science Fiction' 'Action' 'Foreign' 'Adventure',"'878,28,10769,12'"
+38289,'Comedy','35'
+38310,'Comedy','35'
+383121,'Action' 'Comedy',"'28,35'"
+38313,'',''
+38315,'',''
+38318,'Drama' 'War',"'18,10752'"
+38322,'Crime' 'Comedy' 'Action',"'80,35,28'"
+38332,'Comedy' 'Drama',"'35,18'"
+38356,'Action' 'Science Fiction' 'Adventure',"'28,878,12'"
+38358,'Horror' 'Drama' 'Thriller',"'27,18,53'"
+38365,'Comedy','35'
+38453,'Thriller' 'Crime' 'Comedy' 'Mystery' 'Drama',"'53,80,35,9648,18'"
+38454,'Crime' 'Mystery' 'Thriller' 'Drama',"'80,9648,53,18'"
+38455,'Comedy' 'Crime' 'Mystery' 'Thriller',"'35,80,9648,53'"
+38456,'Comedy' 'Crime' 'Mystery' 'Thriller',"'35,80,9648,53'"
+38457,'Crime' 'Mystery' 'Drama' 'Thriller' 'Comedy',"'80,9648,18,53,35'"
+38458,'Crime' 'Drama' 'Thriller' 'Mystery' 'Comedy',"'80,18,53,9648,35'"
+38459,'Crime' 'Drama' 'Mystery' 'Comedy' 'Thriller',"'80,18,9648,35,53'"
+38460,'Mystery' 'Thriller' 'Crime' 'Drama' 'Comedy',"'9648,53,80,18,35'"
+38461,'Crime' 'Mystery' 'Thriller' 'Comedy' 'Drama',"'80,9648,53,35,18'"
+38462,'Comedy' 'Crime' 'Mystery',"'35,80,9648'"
+38463,'Mystery' 'Comedy' 'Crime' 'Thriller',"'9648,35,80,53'"
+38464,'Comedy' 'Crime' 'Drama',"'35,80,18'"
+384641,'Drama' 'History',"'18,36'"
+38465,'Mystery' 'Thriller',"'9648,53'"
+38467,'Mystery' 'Thriller',"'9648,53'"
+38468,'Comedy' 'Crime' 'Drama',"'35,80,18'"
+38469,'Mystery' 'Comedy' 'Crime' 'Thriller',"'9648,35,80,53'"
+38470,'Crime' 'Mystery',"'80,9648'"
+38471,'Crime' 'Drama' 'Mystery' 'Thriller',"'80,18,9648,53'"
+38472,'Crime' 'Mystery' 'Thriller',"'80,9648,53'"
+38499,'Horror','27'
+38500,'Horror','27'
+38543,'Romance' 'Adventure' 'Action' 'History',"'10749,12,28,36'"
+38582,'Action' 'Science Fiction',"'28,878'"
+38594,'Animation' 'Action' 'Adventure',"'16,28,12'"
+38614,'',''
+38626,'Fantasy' 'Comedy' 'Science Fiction',"'14,35,878'"
+38661,'Action' 'Adventure',"'28,12'"
+38674,'Comedy','35'
+38700,'Thriller' 'Action' 'Crime',"'53,28,80'"
+38757,'Animation' 'Family',"'16,10751'"
+38774,'Drama' 'Thriller' 'Crime' 'Mystery',"'18,53,80,9648'"
+38780,'Action' 'Drama' 'Crime' 'Thriller',"'28,18,80,53'"
+38783,'Horror' 'Thriller',"'27,53'"
+38802,'Family','10751'
+388191,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+38828,'Action' 'Adventure' 'Drama' 'Fantasy' 'Science Fiction' 'Thriller',"'28,12,18,14,878,53'"
+38872,'Comedy' 'Action',"'35,28'"
+38939,'Horror','27'
+389396,'Drama' 'Crime' 'Mystery',"'18,80,9648'"
+38955,'Action' 'Adventure' 'Crime',"'28,12,80'"
+389614,'Crime','80'
+39027,'Action' 'Thriller',"'28,53'"
+39044,'Horror','27'
+39057,'Animation' 'Family',"'16,10751'"
+39060,'Drama' 'Romance',"'18,10749'"
+390734,'Action' 'Animation' 'Adventure' 'Drama' 'Fantasy' 'Science Fiction',"'28,16,12,18,14,878'"
+390989,'Comedy' 'Horror' 'Science Fiction',"'35,27,878'"
+391,'Western','37'
+39100,'Action' 'Animation',"'28,16'"
+39101,'Action' 'Animation',"'28,16'"
+39102,'Action' 'Animation' 'Adventure',"'28,16,12'"
+39103,'Action' 'Animation',"'28,16'"
+39104,'Action' 'Animation',"'28,16'"
+39105,'Action' 'Animation',"'28,16'"
+39106,'Action' 'Animation',"'28,16'"
+39107,'Action' 'Animation',"'28,16'"
+39108,'Fantasy' 'Animation' 'Action' 'Science Fiction',"'14,16,28,878'"
+39111,'Horror' 'Drama',"'27,18'"
+39113,'Comedy' 'Music' 'Romance',"'35,10402,10749'"
+39123,'Adventure' 'Mystery' 'Science Fiction',"'12,9648,878'"
+39128,'Comedy' 'Family',"'35,10751'"
+39129,'Comedy' 'Drama' 'Family' 'Romance',"'35,18,10751,10749'"
+39144,'Action' 'Animation',"'28,16'"
+39145,'Action' 'Animation',"'28,16'"
+39148,'Action' 'Animation',"'28,16'"
+391757,'Drama' 'Action',"'18,28'"
+391779,'Comedy' 'Romance',"'35,10749'"
+391975,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+39229,'Animation' 'Science Fiction' 'Drama' 'Action' 'Adventure' 'War',"'16,878,18,28,12,10752'"
+39230,'Animation' 'Science Fiction' 'Action' 'Adventure' 'Drama' 'War',"'16,878,28,12,18,10752'"
+39256,'Action' 'Drama' 'Horror' 'Science Fiction' 'Thriller',"'28,18,27,878,53'"
+39262,'Horror','27'
+392629,'TV Movie' 'Mystery',"'10770,9648'"
+39263,'Horror','27'
+39264,'Science Fiction' 'Fantasy',"'878,14'"
+39282,'Comedy' 'Drama' 'Music' 'Romance',"'35,18,10402,10749'"
+39283,'Horror' 'Science Fiction',"'27,878'"
+393,'Action' 'Crime' 'Thriller',"'28,80,53'"
+39312,'Documentary' 'War',"'99,10752'"
+39323,'Action' 'Animation',"'28,16'"
+39324,'Action' 'Animation' 'Adventure',"'28,16,12'"
+39345,'Family' 'Comedy' 'Adventure',"'10751,35,12'"
+39346,'Comedy' 'Family',"'35,10751'"
+3936,'Comedy','35'
+3937,'Comedy','35'
+39371,'Comedy','35'
+3938,'Comedy','35'
+39385,'Comedy','35'
+39408,'Horror' 'Science Fiction',"'27,878'"
+3941,'Comedy','35'
+39410,'Fantasy' 'Science Fiction' 'Thriller',"'14,878,53'"
+39412,'Drama','18'
+39448,'Action' 'Foreign',"'28,10769'"
+39451,'Comedy' 'Romance',"'35,10749'"
+39462,'Fantasy' 'Science Fiction' 'Family',"'14,878,10751'"
+39464,'Science Fiction' 'Drama' 'Horror',"'878,18,27'"
+39465,'Science Fiction' 'Action' 'Fantasy' 'Adventure',"'878,28,14,12'"
+39466,'Science Fiction' 'Action' 'Adventure' 'Fantasy',"'878,28,12,14'"
+39468,'Action' 'Science Fiction',"'28,878'"
+39469,'Science Fiction' 'Action',"'878,28'"
+395,'Adventure' 'Science Fiction' 'Action',"'12,878,28'"
+39514,'Action' 'Adventure' 'Comedy' 'Crime' 'Thriller',"'28,12,35,80,53'"
+395925,'Thriller' 'Action' 'Crime',"'53,28,80'"
+396330,'Adventure' 'Animation' 'Action',"'12,16,28'"
+3966,'Comedy','35'
+39691,'Comedy' 'Family',"'35,10751'"
+39788,'Action' 'Comedy' 'Foreign',"'28,35,10769'"
+3980,'Action' 'Comedy' 'Horror' 'Science Fiction' 'Thriller',"'28,35,27,878,53'"
+39829,'Science Fiction' 'Adventure',"'878,12'"
+39872,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+39874,'Thriller' 'Horror' 'Mystery',"'53,27,9648'"
+39907,'Action' 'History' 'War',"'28,36,10752'"
+39927,'Comedy' 'Crime' 'Drama',"'35,80,18'"
+39929,'Horror','27'
+39930,'Crime' 'Horror' 'Thriller',"'80,27,53'"
+39939,'Comedy' 'Crime' 'Mystery',"'35,80,9648'"
+39961,'Family' 'Animation',"'10751,16'"
+39965,'Drama' 'Romance',"'18,10749'"
+400045,'Family','10751'
+400136,'Action' 'Adventure' 'Animation' 'Horror' 'Mystery' 'Science Fiction',"'28,12,16,27,9648,878'"
+40016,'Horror' 'Science Fiction',"'27,878'"
+40039,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+40040,'Horror' 'Science Fiction',"'27,878'"
+40044,'Action' 'Adventure',"'28,12'"
+40045,'Action' 'Adventure',"'28,12'"
+400605,'Action' 'Horror',"'28,27'"
+40075,'Fantasy' 'Action' 'Adventure',"'14,28,12'"
+40080,'Drama' 'Romance',"'18,10749'"
+40120,'Comedy','35'
+40127,'Foreign' 'Horror' 'Mystery',"'10769,27,9648'"
+401544,'Action' 'Comedy' 'Science Fiction',"'28,35,878'"
+401650,'Animation','16'
+401689,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+402,'Thriller' 'Mystery',"'53,9648'"
+40214,'Action' 'Adventure' 'Romance',"'28,12,10749'"
+402223,'Romance' 'Comedy',"'10749,35'"
+402331,'Action' 'Thriller',"'28,53'"
+40246,'Animation' 'Fantasy' 'Family',"'16,14,10751'"
+40251,'Mystery' 'Horror',"'9648,27'"
+40252,'Drama' 'Horror',"'18,27'"
+40254,'Horror','27'
+402543,'Music' 'TV Movie' 'Drama',"'10402,10770,18'"
+40264,'Horror' 'Comedy',"'27,35'"
+403052,'Comedy' 'Animation',"'35,16'"
+4032,'Comedy' 'Drama' 'Family',"'35,18,10751'"
+40342,'Horror' 'Fantasy',"'27,14'"
+40348,'Drama','18'
+40446,'Comedy' 'Horror' 'Thriller',"'35,27,53'"
+404461,'Horror','27'
+40487,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+40508,'Adventure' 'Action' 'Comedy' 'Family',"'12,28,35,10751'"
+40585,'Comedy','35'
+406052,'Family' 'Fantasy' 'Horror',"'10751,14,27'"
+40644,'Action' 'Drama',"'28,18'"
+40649,'Horror','27'
+40661,'Action' 'Drama' 'Thriller',"'28,18,53'"
+40663,'Documentary','99'
+40709,'War' 'Fantasy' 'Action' 'Drama',"'10752,14,28,18'"
+407171,'Romance' 'TV Movie',"'10749,10770'"
+40724,'Drama' 'Romance' 'Family',"'18,10749,10751'"
+40729,'Horror','27'
+40732,'Adventure' 'Drama',"'12,18'"
+407375,'Action' 'Drama' 'War',"'28,18,10752'"
+40740,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+40741,'Action','28'
+40748,'Comedy','35'
+40760,'Horror','27'
+40761,'Horror' 'Science Fiction',"'27,878'"
+407655,'Comedy' 'Family' 'Fantasy' 'Music',"'35,10751,14,10402'"
+40771,'Comedy','35'
+40772,'Comedy','35'
+40773,'Comedy','35'
+40800,'Horror','27'
+40810,'Action','28'
+40812,'Action' 'Foreign',"'28,10769'"
+40819,'Documentary' 'Comedy',"'99,35'"
+408647,'Science Fiction' 'Animation' 'Action',"'878,16,28'"
+40897,'Action' 'Drama',"'28,18'"
+40978,'Drama','18'
+40983,'Comedy' 'Science Fiction' 'Horror',"'35,878,27'"
+41050,'Drama','18'
+410537,'Horror','27'
+41070,'Adventure' 'Horror' 'Mystery' 'Thriller',"'12,27,9648,53'"
+4108,'Action' 'Crime' 'Thriller',"'28,80,53'"
+410988,'Action' 'Horror',"'28,27'"
+411,'Adventure' 'Family' 'Fantasy',"'12,10751,14'"
+41109,'Action' 'Thriller',"'28,53'"
+41142,'Drama' 'History',"'18,36'"
+41154,'Action' 'Comedy' 'Science Fiction',"'28,35,878'"
+411802,'Animation','16'
+41233,'Drama' 'Romance',"'18,10749'"
+41235,'Horror','27'
+41241,'TV Movie' 'Action' 'Thriller',"'10770,28,53'"
+41244,'War' 'Action' 'Thriller',"'10752,28,53'"
+412519,'Drama' 'Family' 'Music' 'Romance',"'18,10751,10402,10749'"
+41289,'Action','28'
+413391,'Comedy','35'
+413441,'TV Movie' 'Romance',"'10770,10749'"
+41365,'Animation' 'Adventure' 'Comedy' 'Fantasy',"'16,12,35,14'"
+413669,'Mystery','9648'
+413736,'Animation' 'Family',"'16,10751'"
+414,'Action' 'Crime' 'Fantasy',"'28,80,14'"
+41428,'Horror' 'Science Fiction',"'27,878'"
+41436,'Horror' 'Thriller',"'27,53'"
+41439,'Horror' 'Crime',"'27,80'"
+41446,'Horror' 'Mystery',"'27,9648'"
+41471,'Drama' 'Action',"'18,28'"
+41472,'Drama' 'Romance' 'Thriller',"'18,10749,53'"
+41474,'Drama' 'Action',"'18,28'"
+414762,'Drama' 'TV Movie' 'Comedy',"'18,10770,35'"
+414767,'Drama' 'TV Movie' 'Mystery' 'Crime',"'18,10770,9648,80'"
+41477,'Action' 'Foreign',"'28,10769'"
+41482,'Action','28'
+41486,'Action' 'Foreign',"'28,10769'"
+414937,'Mystery' 'Drama' 'Crime',"'9648,18,80'"
+41498,'Animation' 'Fantasy' 'Adventure',"'16,14,12'"
+415,'Action' 'Crime' 'Fantasy',"'28,80,14'"
+41513,'Animation' 'Family' 'Adventure' 'Comedy' 'Fantasy',"'16,10751,12,35,14'"
+41586,'Action' 'Comedy' 'Crime' 'Mystery',"'28,35,80,9648'"
+41592,'Drama','18'
+41608,'Action' 'Western',"'28,37'"
+41663,'Comedy','35'
+41664,'Comedy','35'
+41665,'Comedy','35'
+41668,'Drama' 'Romance' 'Foreign',"'18,10749,10769'"
+41669,'Comedy','35'
+41671,'Horror','27'
+417004,'Thriller' 'Action',"'53,28'"
+417320,'TV Movie' 'Family' 'Action' 'Comedy' 'Music' 'Adventure',"'10770,10751,28,35,10402,12'"
+417489,'Crime' 'Comedy' 'Action',"'80,35,28'"
+417503,'Comedy' 'Action',"'35,28'"
+41769,'Horror','27'
+417830,'Comedy' 'Family',"'35,10751'"
+4180,'Comedy','35'
+41828,'Thriller' 'Comedy' 'Horror',"'53,35,27'"
+41848,'Horror','27'
+41897,'Comedy' 'Crime',"'35,80'"
+41946,'Comedy' 'Action' 'Adventure',"'35,28,12'"
+41955,'Action' 'Crime',"'28,80'"
+41957,'',''
+41979,'Action' 'Adventure' 'Family',"'28,12,10751'"
+41993,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+42012,'Action' 'Adventure',"'28,12'"
+42137,'Animation' 'Action' 'Adventure' 'Drama' 'Science Fiction',"'16,28,12,18,878'"
+42185,'Horror','27'
+42187,'Horror' 'Action' 'Thriller' 'Foreign',"'27,28,53,10769'"
+42194,'Crime' 'Drama' 'Action' 'Thriller' 'Science Fiction',"'80,18,28,53,878'"
+42246,'Family' 'Animation' 'Comedy',"'10751,16,35'"
+422842,'TV Movie' 'Mystery',"'10770,9648'"
+4232,'Crime' 'Horror' 'Mystery',"'80,27,9648'"
+42323,'Comedy','35'
+4233,'Horror' 'Mystery',"'27,9648'"
+4234,'Horror' 'Mystery',"'27,9648'"
+42342,'Comedy' 'Romance',"'35,10749'"
+42354,'Comedy','35'
+42390,'Drama','18'
+42450,'Drama','18'
+42466,'Horror','27'
+4247,'Comedy','35'
+42476,'Horror' 'Thriller',"'27,53'"
+4248,'Comedy','35'
+42488,'Drama' 'Western',"'18,37'"
+42498,'Drama' 'Romance',"'18,10749'"
+425,'Animation' 'Comedy' 'Family' 'Adventure',"'16,35,10751,12'"
+42506,'Crime' 'Drama',"'80,18'"
+42512,'Adventure' 'Drama' 'Fantasy',"'12,18,14'"
+42532,'Horror' 'Science Fiction',"'27,878'"
+42552,'Action' 'Thriller',"'28,53'"
+4256,'Comedy','35'
+4257,'Comedy','35'
+4258,'Comedy','35'
+425961,'Action' 'Crime' 'Drama',"'28,80,18'"
+42601,'Adventure' 'Action' 'Drama',"'12,28,18'"
+42606,'Horror','27'
+426264,'Drama' 'Comedy',"'18,35'"
+42632,'Documentary' 'Music',"'99,10402'"
+426580,'Mystery' 'Comedy' 'Thriller' 'Science Fiction' 'Fantasy',"'9648,35,53,878,14'"
+42673,'Comedy' 'TV Movie',"'35,10770'"
+42695,'Drama','18'
+42709,'Horror','27'
+42792,'Drama','18'
+42818,'Comedy' 'Drama',"'35,18'"
+42832,'Comedy','35'
+429,'Western','37'
+42941,'Horror' 'Thriller',"'27,53'"
+42949,'Animation' 'Adventure' 'Fantasy' 'Family',"'16,12,14,10751'"
+42979,'Animation' 'Comedy' 'Science Fiction',"'16,35,878'"
+43018,'Comedy' 'Music' 'Romance',"'35,10402,10749'"
+430413,'Comedy','35'
+43071,'Drama' 'Animation' 'History' 'Adventure',"'18,16,36,12'"
+43074,'Action' 'Fantasy' 'Comedy',"'28,14,35'"
+43096,'Comedy' 'Romance',"'35,10749'"
+431,'Thriller' 'Science Fiction' 'Mystery',"'53,878,9648'"
+43118,'History' 'Drama',"'36,18'"
+43146,'Comedy' 'Drama',"'35,18'"
+43149,'Adventure' 'Horror' 'Action' 'Science Fiction',"'12,27,28,878'"
+43177,'Action' 'Drama' 'Family' 'Adventure',"'28,18,10751,12'"
+43205,'Adventure','12'
+43209,'Action' 'Adventure' 'History',"'28,12,36'"
+43241,'Science Fiction','878'
+4326,'Comedy' 'Drama',"'35,18'"
+43263,'Drama' 'Thriller' 'Crime' 'Mystery',"'18,53,80,9648'"
+4327,'Action' 'Adventure' 'Comedy' 'Crime' 'Thriller',"'28,12,35,80,53'"
+43332,'Action' 'Adventure' 'Drama' 'History',"'28,12,18,36'"
+43337,'Fantasy','14'
+43388,'Action' 'Adventure' 'Romance',"'28,12,10749'"
+43398,'Action' 'Family' 'Adventure' 'Drama',"'28,10751,12,18'"
+43417,'Action' 'Western',"'28,37'"
+43430,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+43464,'Adventure','12'
+43551,'Crime' 'Mystery',"'80,9648'"
+43593,'Comedy' 'Horror',"'35,27'"
+43643,'Action' 'Adventure' 'Drama' 'Family',"'28,12,18,10751'"
+43646,'Comedy','35'
+43648,'Comedy','35'
+43649,'Comedy','35'
+437,'Thriller' 'Science Fiction' 'Mystery',"'53,878,9648'"
+43716,'Adventure' 'Fantasy' 'Science Fiction',"'12,14,878'"
+438,'Mystery' 'Science Fiction' 'Thriller',"'9648,878,53'"
+43873,'Comedy' 'Drama',"'35,18'"
+43919,'Horror' 'Comedy' 'Thriller',"'27,35,53'"
+43933,'Drama' 'Thriller' 'Science Fiction',"'18,53,878'"
+43947,'Thriller' 'Crime' 'Horror',"'53,80,27'"
+43956,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+43967,'Animation' 'Comedy' 'Fantasy' 'Science Fiction',"'16,35,14,878'"
+440,'Fantasy' 'Action' 'Science Fiction' 'Thriller' 'Horror',"'14,28,878,53,27'"
+44037,'Horror' 'Action' 'Science Fiction' 'Thriller',"'27,28,878,53'"
+44173,'Crime' 'Mystery',"'80,9648'"
+44191,'Comedy','35'
+44203,'Horror','27'
+44244,'Comedy' 'Music' 'TV Movie',"'35,10402,10770'"
+44251,'Action' 'Animation',"'28,16'"
+44268,'Comedy','35'
+44296,'Drama','18'
+4437,'Thriller' 'Science Fiction',"'53,878'"
+44383,'Drama' 'Action' 'Thriller' 'Mystery',"'18,28,53,9648'"
+44415,'Drama' 'Family',"'18,10751'"
+44425,'Action' 'Comedy' 'Crime',"'28,35,80'"
+44450,'Adventure' 'Romance' 'History',"'12,10749,36'"
+44539,'Drama','18'
+4457,'Horror','27'
+445993,'Action','28'
+44674,'Crime' 'Drama',"'80,18'"
+44683,'Animation' 'Adventure' 'Family' 'Fantasy',"'16,12,10751,14'"
+44685,'Comedy' 'Romance' 'Animation' 'Music',"'35,10749,16,10402'"
+44687,'Comedy' 'Horror',"'35,27'"
+44695,'Action' 'Drama',"'28,18'"
+447113,'Family' 'Animation',"'10751,16'"
+44734,'Animation' 'Mystery',"'16,9648'"
+44749,'Thriller','53'
+44789,'Western','37'
+4480,'Drama','18'
+4481,'Drama','18'
+4484,'Comedy','35'
+44848,'Documentary','99'
+44875,'Comedy' 'Fantasy' 'Mystery' 'Romance',"'35,14,9648,10749'"
+4488,'Horror','27'
+44909,'Fantasy' 'Drama' 'Horror' 'Action' 'Comedy',"'14,18,27,28,35'"
+44951,'Drama' 'Romance',"'18,10749'"
+44977,'Action' 'Crime' 'Thriller',"'28,80,53'"
+44978,'Comedy' 'Family',"'35,10751'"
+45099,'Comedy' 'Drama',"'35,18'"
+4513,'Horror' 'Thriller',"'27,53'"
+45162,'Action' 'Adventure' 'Animation',"'28,12,16'"
+451644,'Adventure','12'
+4517,'Drama' 'History' 'Romance',"'18,36,10749'"
+4518,'Drama' 'History',"'18,36'"
+452,'Drama' 'Comedy',"'18,35'"
+4520,'Drama' 'Thriller',"'18,53'"
+45211,'Western','37'
+452142,'TV Movie' 'Crime' 'Mystery' 'Thriller',"'10770,80,9648,53'"
+45233,'Action' 'Drama',"'28,18'"
+45243,'Comedy','35'
+45249,'',''
+45284,'Action' 'Crime' 'Drama',"'28,80,18'"
+45303,'Thriller' 'Action' 'Crime',"'53,28,80'"
+45322,'Crime' 'Horror' 'Mystery',"'80,27,9648'"
+45491,'Drama' 'Adventure' 'Comedy',"'18,12,35'"
+4550,'Drama' 'Thriller',"'18,53'"
+4551,'Comedy' 'Crime',"'35,80'"
+4558,'Drama' 'Fantasy' 'Romance',"'18,14,10749'"
+4564,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+45662,'Animation' 'Family',"'16,10751'"
+45690,'Drama' 'Foreign',"'18,10769'"
+457,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+45715,'Action' 'Comedy' 'Thriller' 'Science Fiction',"'28,35,53,878'"
+45783,'Comedy','35'
+458,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+45839,'Comedy' 'Family',"'35,10751'"
+45875,'Horror' 'Thriller',"'27,53'"
+45878,'Drama' 'Horror' 'Comedy',"'18,27,35'"
+45882,'Drama','18'
+459,'Romance' 'Drama',"'10749,18'"
+45940,'',''
+45964,'Horror' 'Thriller',"'27,53'"
+45965,'History' 'Action',"'36,28'"
+45990,'Comedy' 'Drama',"'35,18'"
+46001,'Crime' 'Comedy' 'Thriller',"'80,35,53'"
+460135,'Animation','16'
+46020,'Horror' 'Comedy' 'Science Fiction' 'Thriller',"'27,35,878,53'"
+461053,'Action' 'Crime' 'Thriller',"'28,80,53'"
+4614,'Thriller' 'Action' 'Drama',"'53,28,18'"
+46169,'Drama' 'Family' 'Fantasy' 'TV Movie',"'18,10751,14,10770'"
+46195,'Animation' 'Adventure' 'Comedy' 'Family',"'16,12,35,10751'"
+46314,'Animation' 'Family',"'16,10751'"
+46441,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+46513,'Adventure' 'Crime' 'Drama' 'Mystery' 'Thriller',"'12,80,18,9648,53'"
+46523,'Action' 'Comedy',"'28,35'"
+46572,'',''
+46594,'Drama','18'
+46695,'Horror','27'
+46780,'Music','10402'
+46781,'',''
+46784,'Drama','18'
+46787,'Fantasy','14'
+46809,'Drama' 'Comedy',"'18,35'"
+46812,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+46828,'Comedy','35'
+46849,'Drama','18'
+4689,'Action' 'Drama' 'Thriller',"'28,18,53'"
+46971,'Action','28'
+47104,'Drama','18'
+4727,'Comedy','35'
+4728,'Comedy','35'
+4729,'Comedy','35'
+47292,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+47313,'Action' 'Drama',"'28,18'"
+47350,'Drama' 'Western',"'18,37'"
+47354,'Action' 'Comedy' 'Crime',"'28,35,80'"
+47360,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+47363,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+47401,'Mystery','9648'
+47404,'Crime' 'Mystery' 'Drama',"'80,9648,18'"
+47406,'Drama','18'
+47491,'Documentary' 'Drama',"'99,18'"
+47533,'Mystery' 'Fantasy' 'Comedy' 'Adventure',"'9648,14,35,12'"
+47628,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+47631,'Horror' 'Family' 'Comedy',"'27,10751,35'"
+47647,'Action' 'Comedy' 'Foreign',"'28,35,10769'"
+47747,'Mystery' 'Animation',"'9648,16'"
+47812,'Comedy' 'Romance',"'35,10749'"
+47882,'Comedy' 'Crime' 'Mystery',"'35,80,9648'"
+47883,'Comedy' 'Mystery',"'35,9648'"
+47884,'Comedy' 'Mystery',"'35,9648'"
+479,'Action' 'Adventure' 'Crime' 'Thriller',"'28,12,80,53'"
+47931,'Drama' 'Action' 'Crime',"'18,28,80'"
+47933,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+47964,'Action' 'Thriller',"'28,53'"
+47971,'Action' 'Adventure' 'Crime',"'28,12,80'"
+48132,'Comedy','35'
+48193,'Adventure' 'Action' 'Fantasy',"'12,28,14'"
+482,'Adventure' 'Action' 'Thriller' 'Crime',"'12,28,53,80'"
+48300,'Action','28'
+48301,'Action','28'
+48395,'Fantasy','14'
+48415,'Comedy','35'
+48466,'Animation' 'Comedy',"'16,35'"
+48492,'Action' 'Adventure' 'Drama' 'Mystery',"'28,12,18,9648'"
+48635,'Comedy' 'Music' 'Adventure',"'35,10402,12'"
+48636,'Horror','27'
+48707,'Action','28'
+48748,'Comedy','35'
+48763,'',''
+48805,'Comedy','35'
+48844,'Adventure','12'
+4889,'Thriller','53'
+48943,'Action' 'Crime' 'Thriller',"'28,80,53'"
+48995,'Thriller' 'Action',"'53,28'"
+49013,'Animation' 'Family' 'Adventure' 'Comedy',"'16,10751,12,35'"
+49018,'Horror' 'Thriller',"'27,53'"
+49026,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+49028,'Action' 'Crime' 'Drama',"'28,80,18'"
+49040,'Action' 'Thriller',"'28,53'"
+49051,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+49183,'Crime' 'Horror' 'Mystery',"'80,27,9648'"
+493,'Action' 'Adventure' 'Crime' 'Mystery',"'28,12,80,9648'"
+49321,'Comedy','35'
+494,'Adventure' 'Action' 'Thriller' 'Crime' 'Mystery',"'12,28,53,80,9648'"
+49444,'Animation' 'Family',"'16,10751'"
+49478,'Fantasy' 'Family' 'Action',"'14,10751,28'"
+49519,'Adventure' 'Animation' 'Comedy' 'Family' 'Fantasy',"'12,16,35,10751,14'"
+49521,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+49522,'Comedy' 'Family',"'35,10751'"
+49538,'Action' 'Science Fiction' 'Adventure',"'28,878,12'"
+49574,'Comedy' 'Drama',"'35,18'"
+49597,'Action' 'Adventure' 'Horror',"'28,12,27'"
+4961,'Fantasy' 'Horror' 'Thriller',"'14,27,53'"
+49684,'Horror','27'
+4978,'Drama' 'Family' 'Animation' 'Adventure',"'18,10751,16,12'"
+4984,'Drama' 'Action' 'Crime',"'18,28,80'"
+49857,'TV Movie' 'Drama' 'Family' 'Romance' 'Western',"'10770,18,10751,10749,37'"
+49948,'Animation' 'Family' 'Music',"'16,10751,10402'"
+49953,'Animation' 'Family',"'16,10751'"
+49964,'Drama','18'
+50025,'Action' 'Comedy',"'28,35'"
+50076,'Comedy' 'Romance',"'35,10749'"
+50087,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+50126,'TV Movie' 'Drama' 'Fantasy',"'10770,18,14'"
+50166,'Family' 'Animation' 'Comedy' 'Western',"'10751,16,35,37'"
+50241,'Family' 'Drama',"'10751,18'"
+50253,'Animation' 'Fantasy',"'16,14'"
+50291,'Science Fiction','878'
+50332,'Comedy' 'Family',"'35,10751'"
+50346,'Drama' 'Action' 'Thriller' 'Romance',"'18,28,53,10749'"
+50401,'Mystery' 'Adventure' 'Crime',"'9648,12,80'"
+50506,'Comedy' 'Fantasy' 'Romance' 'TV Movie',"'35,14,10749,10770'"
+50507,'Action' 'Comedy',"'28,35'"
+50553,'Drama' 'Mystery' 'Thriller',"'18,9648,53'"
+5056,'Action' 'Comedy' 'Thriller',"'28,35,53'"
+50571,'Action','28'
+5060,'Comedy','35'
+5061,'Comedy','35'
+50619,'Adventure' 'Fantasy' 'Romance',"'12,14,10749'"
+50620,'Adventure' 'Fantasy' 'Drama' 'Romance',"'12,14,18,10749'"
+5064,'Comedy','35'
+5065,'Comedy' 'Western',"'35,37'"
+5066,'Comedy','35'
+50687,'Action' 'Adventure' 'Horror',"'28,12,27'"
+50698,'Thriller' 'Horror',"'53,27'"
+50699,'Science Fiction' 'Thriller',"'878,53'"
+50717,'Comedy' 'Action' 'Adventure' 'Family',"'35,28,12,10751'"
+50719,'Comedy' 'Horror',"'35,27'"
+50754,'Documentary','99'
+50758,'',''
+50797,'Drama','18'
+5086,'Adventure' 'Fantasy',"'12,14'"
+51138,'Science Fiction' 'Thriller',"'878,53'"
+51170,'Animation' 'Family' 'Comedy',"'16,10751,35'"
+51273,'Fantasy' 'Mystery' 'Thriller',"'14,9648,53'"
+513,'Drama' 'Romance',"'18,10749'"
+51322,'Horror' 'Foreign',"'27,10769'"
+51411,'Comedy','35'
+51429,'Action' 'Crime' 'Drama',"'28,80,18'"
+51438,'Comedy' 'Drama',"'35,18'"
+51450,'Family' 'Animation',"'10751,16'"
+51481,'Comedy','35'
+51497,'Action' 'Thriller' 'Crime',"'28,53,80'"
+51540,'Comedy' 'Crime',"'35,80'"
+5157,'Comedy','35'
+51620,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+51649,'Action' 'Western' 'Adventure',"'28,37,12'"
+5165,'Drama' 'Mystery',"'18,9648'"
+5174,'Action' 'Comedy' 'Crime' 'Thriller',"'28,35,80,53'"
+5175,'Action' 'Comedy' 'Crime' 'Thriller',"'28,35,80,53'"
+51765,'Western' 'Drama',"'37,18'"
+51786,'Action' 'Adventure' 'Animation' 'Family',"'28,12,16,10751'"
+51836,'Family' 'TV Movie' 'Comedy',"'10751,10770,35'"
+51848,'Family' 'Romance' 'Comedy',"'10751,10749,35'"
+51863,'Documentary','99'
+51881,'Family','10751'
+51912,'Comedy','35'
+51939,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+51985,'Animation' 'Family' 'Comedy',"'16,10751,35'"
+52015,'Drama' 'Horror' 'Action' 'Thriller' 'Science Fiction',"'18,27,28,53,878'"
+52017,'Fantasy' 'Horror',"'14,27'"
+52021,'Fantasy' 'Horror' 'Thriller',"'14,27,53'"
+52022,'Horror' 'Fantasy',"'27,14'"
+5203,'Drama' 'Romance',"'18,10749'"
+52034,'Action' 'Science Fiction' 'Horror' 'Thriller',"'28,878,27,53'"
+5205,'Documentary','99'
+52113,'Comedy' 'Crime',"'35,80'"
+52238,'',''
+52263,'Horror','27'
+52297,'Documentary','99'
+52454,'Action' 'Horror' 'Science Fiction',"'28,27,878'"
+52485,'Adventure' 'Family',"'12,10751'"
+525,'Music' 'Comedy' 'Action' 'Crime',"'10402,35,28,80'"
+52520,'Fantasy' 'Action' 'Horror',"'14,28,27'"
+527,'Drama','18'
+52728,'Action' 'Adventure' 'Horror' 'Science Fiction',"'28,12,27,878'"
+52736,'Comedy','35'
+52761,'Animation' 'Comedy' 'Western',"'16,35,37'"
+52827,'Drama' 'Family',"'18,10751'"
+52854,'Horror','27'
+52868,'Thriller' 'Horror',"'53,27'"
+52874,'Action' 'Drama' 'Crime',"'28,18,80'"
+52913,'Comedy' 'Crime',"'35,80'"
+52914,'Comedy' 'Action',"'35,28'"
+52916,'Action' 'Foreign' 'Western',"'28,10769,37'"
+52939,'Animation' 'Family' 'Comedy' 'Adventure',"'16,10751,35,12'"
+52947,'Action' 'Comedy' 'Foreign',"'28,35,10769'"
+52979,'Action' 'Crime' 'Drama',"'28,80,18'"
+52980,'Drama' 'Action' 'Crime',"'18,28,80'"
+530,'Adventure' 'Animation' 'Comedy' 'Science Fiction' 'Family',"'12,16,35,878,10751'"
+53031,'Adventure' 'Drama' 'Family' 'Foreign',"'12,18,10751,10769'"
+53086,'Thriller' 'Action' 'Science Fiction',"'53,28,878'"
+531,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+53129,'Mystery' 'Adventure' 'Action' 'Drama' 'History',"'9648,12,28,18,36'"
+53150,'Horror' 'Comedy' 'Science Fiction',"'27,35,878'"
+53174,'Comedy','35'
+53182,'Action' 'War',"'28,10752'"
+532,'Family' 'Animation' 'Comedy',"'10751,16,35'"
+533,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+53342,'',''
+53358,'Comedy','35'
+534,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+53617,'Comedy' 'Romance',"'35,10749'"
+53693,'Family' 'Comedy',"'10751,35'"
+53868,'Horror','27'
+539,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+5393,'Animation' 'Comedy' 'Family' 'Fantasy' 'Science Fiction',"'16,35,10751,14,878'"
+54107,'Romance' 'Comedy' 'Family',"'10749,35,10751'"
+54111,'Fantasy' 'Horror' 'Romance',"'14,27,10749'"
+54113,'Fantasy' 'Animation' 'Romance' 'Family',"'14,16,10749,10751'"
+54138,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+54178,'Action','28'
+54257,'Comedy' 'Family',"'35,10751'"
+54265,'Action' 'Drama',"'28,18'"
+54266,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54272,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54273,'Action' 'Adventure' 'Drama',"'28,12,18'"
+54274,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54275,'Action' 'Adventure' 'Drama',"'28,12,18'"
+54276,'Drama','18'
+54277,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54278,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54279,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54280,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54281,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54283,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54284,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54293,'Documentary','99'
+54297,'Comedy','35'
+54306,'Adventure' 'Action' 'Drama',"'12,28,18'"
+54307,'Action' 'Drama',"'28,18'"
+54396,'Comedy','35'
+54430,'Comedy' 'Fantasy' 'Romance',"'35,14,10749'"
+54445,'Action' 'Crime' 'Thriller',"'28,80,53'"
+54540,'Family','10751'
+54551,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+5458,'Drama' 'Romance' 'Thriller',"'18,10749,53'"
+5460,'Drama' 'Thriller' 'Romance',"'18,53,10749'"
+54768,'Comedy','35'
+54782,'Action' 'Drama',"'28,18'"
+5503,'Adventure' 'Action' 'Thriller' 'Crime' 'Mystery',"'12,28,53,80,9648'"
+551,'Action' 'Adventure',"'28,12'"
+55215,'Animation' 'Horror' 'Science Fiction',"'16,27,878'"
+55254,'',''
+553,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+55301,'Comedy' 'Fantasy' 'Family' 'Music' 'Animation',"'35,14,10751,10402,16'"
+55426,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+55430,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+55431,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+55435,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+55437,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+55438,'Science Fiction' 'Animation' 'Action',"'878,16,28'"
+55465,'Comedy','35'
+55470,'Horror','27'
+5548,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+5549,'Action' 'Adventure' 'Crime' 'Science Fiction' 'Thriller',"'28,12,80,878,53'"
+5550,'Action' 'Adventure' 'Crime' 'Science Fiction' 'Thriller',"'28,12,80,878,53'"
+55558,'',''
+55603,'Crime' 'Mystery' 'Thriller',"'80,9648,53'"
+55612,'Action' 'Thriller' 'Crime',"'28,53,80'"
+55667,'Action' 'Horror' 'Science Fiction',"'28,27,878'"
+557,'Fantasy' 'Action',"'14,28'"
+55723,'Horror','27'
+55754,'',''
+55756,'',''
+55759,'Comedy','35'
+55761,'',''
+55762,'Action' 'Crime' 'Drama',"'28,80,18'"
+55763,'',''
+55776,'Comedy','35'
+55779,'Horror' 'Mystery',"'27,9648'"
+558,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+55872,'Action' 'Adventure' 'Romance',"'28,12,10749'"
+55873,'Action' 'Adventure' 'Romance',"'28,12,10749'"
+559,'Fantasy' 'Action' 'Adventure',"'14,28,12'"
+55952,'Science Fiction' 'Horror',"'878,27'"
+55960,'Comedy','35'
+56014,'Comedy','35'
+56068,'Comedy','35'
+56078,'Comedy' 'Crime',"'35,80'"
+5608,'Drama' 'Adventure' 'Fantasy',"'18,12,14'"
+561,'Drama' 'Fantasy' 'Horror',"'18,14,27'"
+56122,'Drama' 'Comedy',"'18,35'"
+562,'Action' 'Thriller',"'28,53'"
+56272,'Action' 'Comedy' 'Drama',"'28,35,18'"
+56287,'Romance' 'Comedy',"'10749,35'"
+56288,'Family' 'Comedy' 'Action',"'10751,35,28'"
+56292,'Action' 'Thriller' 'Adventure',"'28,53,12'"
+563,'Adventure' 'Action' 'Thriller' 'Science Fiction',"'12,28,53,878'"
+56329,'Drama' 'Action' 'Thriller' 'Mystery',"'18,28,53,9648'"
+56339,'Comedy','35'
+56372,'Action','28'
+564,'Adventure' 'Action' 'Fantasy',"'12,28,14'"
+56402,'Romance' 'Drama' 'Comedy',"'10749,18,35'"
+56431,'Western' 'Action' 'Drama',"'37,28,18'"
+565,'Horror' 'Mystery',"'27,9648'"
+56500,'Documentary','99'
+56508,'Crime' 'Drama',"'80,18'"
+5651,'Comedy','35'
+56511,'Crime' 'Drama',"'80,18'"
+56512,'Crime' 'Drama',"'80,18'"
+56515,'Crime' 'Drama',"'80,18'"
+56516,'Crime' 'Drama',"'80,18'"
+56525,'Action','28'
+56544,'Comedy','35'
+56549,'Comedy','35'
+56589,'Comedy','35'
+56715,'Comedy' 'Fantasy' 'Science Fiction',"'35,14,878'"
+56763,'Action','28'
+5677,'Horror' 'Science Fiction' 'Crime',"'27,878,80'"
+56780,'Drama' 'Thriller' 'Science Fiction' 'Mystery',"'18,53,878,9648'"
+5680,'Fantasy' 'Horror' 'Comedy' 'Science Fiction',"'14,27,35,878'"
+5683,'Adventure' 'Comedy',"'12,35'"
+56832,'Horror' 'Action' 'Science Fiction',"'27,28,878'"
+5689,'Romance' 'Adventure' 'Drama',"'10749,12,18'"
+56909,'Comedy','35'
+5691,'Comedy' 'Drama',"'35,18'"
+56920,'Comedy','35'
+56937,'Horror','27'
+56991,'Comedy','35'
+57089,'Comedy' 'Animation' 'Family',"'35,16,10751'"
+57158,'Adventure' 'Fantasy',"'12,14'"
+57165,'Adventure','12'
+5721,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+5725,'Comedy','35'
+57313,'Horror' 'Mystery' 'Crime',"'27,9648,80'"
+57331,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+57353,'Action' 'Comedy' 'Thriller',"'28,35,53'"
+5753,'Thriller' 'Action',"'53,28'"
+57548,'',''
+57597,'Horror' 'Science Fiction',"'27,878'"
+57779,'Comedy','35'
+578,'Horror' 'Thriller' 'Adventure',"'27,53,12'"
+57800,'Animation' 'Comedy' 'Adventure' 'Family',"'16,35,12,10751'"
+57809,'Comedy','35'
+57837,'TV Movie' 'Comedy' 'Documentary',"'10770,35,99'"
+57889,'Comedy','35'
+579,'Horror' 'Thriller',"'27,53'"
+57991,'Comedy' 'Romance',"'35,10749'"
+57996,'Comedy','35'
+58,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+580,'Adventure' 'Thriller',"'12,53'"
+58007,'Comedy','35'
+5801,'Drama','18'
+58018,'Comedy','35'
+58051,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+58061,'Western' 'Adventure' 'Family',"'37,12,10751'"
+58074,'Comedy','35'
+58151,'Horror' 'Comedy',"'27,35'"
+5817,'Drama' 'Comedy' 'Music',"'18,35,10402'"
+58188,'Comedy','35'
+58219,'Comedy' 'Romance',"'35,10749'"
+58233,'Crime' 'Adventure' 'Action' 'Comedy' 'Thriller',"'80,12,28,35,53'"
+58242,'Drama' 'Family',"'18,10751'"
+5825,'Comedy','35'
+58311,'Action' 'Comedy' 'Science Fiction',"'28,35,878'"
+5833,'Animation' 'Family',"'16,10751'"
+58333,'Drama' 'Comedy' 'Romance' 'Foreign',"'18,35,10749,10769'"
+584,'Action' 'Crime' 'Thriller',"'28,80,53'"
+58404,'Comedy','35'
+58427,'Fantasy','14'
+58430,'Fantasy','14'
+58433,'Fantasy','14'
+58443,'Adventure','12'
+58444,'Comedy','35'
+585,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+58574,'Adventure' 'Action' 'Crime' 'Mystery',"'12,28,80,9648'"
+58595,'Adventure' 'Fantasy' 'Drama',"'12,14,18'"
+58625,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+58664,'Family' 'Fantasy' 'Horror',"'10751,14,27'"
+58701,'Comedy','35'
+58704,'Family' 'Action' 'Adventure' 'Comedy' 'Animation',"'10751,28,12,35,16'"
+58757,'Drama' 'Family',"'18,10751'"
+58764,'Comedy','35'
+58767,'War' 'Action' 'Thriller' 'Drama',"'10752,28,53,18'"
+588,'Horror' 'Mystery',"'27,9648'"
+5889,'Adventure' 'Drama' 'Action' 'Thriller' 'Romance',"'12,18,28,53,10749'"
+58897,'Drama','18'
+5890,'Action','28'
+5894,'Comedy','35'
+59040,'Comedy','35'
+59060,'Comedy','35'
+591,'Thriller' 'Mystery',"'53,9648'"
+59115,'Horror' 'Mystery' 'Science Fiction',"'27,9648,878'"
+59117,'Action' 'Comedy' 'Crime',"'28,35,80'"
+5921,'Action' 'Western',"'28,37'"
+59238,'TV Movie' 'Drama' 'Thriller' 'Crime' 'Mystery',"'10770,18,53,80,9648'"
+59529,'Action' 'Crime' 'Drama' 'Mystery',"'28,80,18,9648'"
+59566,'Crime' 'Mystery' 'Thriller' 'Drama',"'80,9648,53,18'"
+59581,'Mystery' 'Thriller' 'Crime' 'Drama',"'9648,53,80,18'"
+59584,'Drama' 'Mystery' 'Thriller',"'18,9648,53'"
+59589,'Crime' 'Drama' 'Mystery' 'Thriller',"'80,18,9648,53'"
+59701,'Mystery' 'Thriller',"'9648,53'"
+59706,'Mystery' 'Thriller',"'9648,53'"
+59719,'Action' 'Animation' 'Comedy' 'TV Movie',"'28,16,35,10770'"
+59762,'Horror','27'
+59803,'Animation' 'Family',"'16,10751'"
+59859,'Action' 'Adventure' 'Crime',"'28,12,80'"
+60038,'Comedy','35'
+60061,'Comedy','35'
+6007,'Comedy' 'Drama',"'35,18'"
+60160,'Action' 'Adventure' 'Fantasy' 'Horror' 'Science Fiction',"'28,12,14,27,878'"
+60173,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+60175,'Comedy','35'
+60181,'Action' 'Crime' 'Drama',"'28,80,18'"
+60189,'Comedy' 'Fantasy',"'35,14'"
+60190,'Horror' 'Thriller',"'27,53'"
+60193,'Comedy','35'
+602,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+60213,'Animation','16'
+60221,'Animation','16'
+60278,'Drama','18'
+60290,'Adventure' 'Animation' 'Action',"'12,16,28'"
+60293,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+603,'Action' 'Science Fiction',"'28,878'"
+60307,'Family' 'Comedy',"'10751,35'"
+6038,'Action' 'Adventure' 'Comedy' 'Western',"'28,12,35,37'"
+604,'Adventure' 'Action' 'Thriller' 'Science Fiction',"'12,28,53,878'"
+605,'Adventure' 'Action' 'Thriller' 'Science Fiction',"'12,28,53,878'"
+60670,'Crime' 'Mystery' 'Thriller',"'80,9648,53'"
+60672,'Action' 'Thriller' 'Crime',"'28,53,80'"
+607,'Action' 'Adventure' 'Comedy' 'Science Fiction',"'28,12,35,878'"
+6076,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+608,'Action' 'Adventure' 'Comedy' 'Science Fiction',"'28,12,35,878'"
+60800,'Animation' 'Family',"'16,10751'"
+6081,'Action' 'Comedy' 'Crime' 'Thriller',"'28,35,80,53'"
+60821,'TV Movie' 'Comedy' 'Family' 'Fantasy' 'Romance',"'10770,35,10751,14,10749'"
+60843,'Animation','16'
+60898,'Fantasy' 'Drama' 'Horror',"'14,18,27'"
+609,'Horror','27'
+60935,'Horror' 'Science Fiction' 'Mystery' 'Thriller',"'27,878,9648,53'"
+60964,'Action' 'Animation' 'Romance',"'28,16,10749'"
+61005,'Drama' 'Family' 'Fantasy',"'18,10751,14'"
+61012,'Thriller' 'Horror' 'Mystery',"'53,27,9648'"
+61108,'Drama' 'Romance',"'18,10749'"
+61117,'Comedy','35'
+61123,'Crime','80'
+61125,'Action' 'Crime',"'28,80'"
+61139,'Action' 'Crime',"'28,80'"
+61313,'Animation' 'Family',"'16,10751'"
+61320,'Animation' 'Family',"'16,10751'"
+61410,'Comedy' 'Drama',"'35,18'"
+61546,'Mystery','9648'
+617,'Thriller','53'
+61708,'Documentary' 'Music',"'99,10402'"
+61716,'Horror','27'
+61755,'Action' 'Science Fiction',"'28,878'"
+61791,'Thriller' 'Action' 'Drama' 'Science Fiction',"'53,28,18,878'"
+61852,'Comedy','35'
+61855,'Action' 'Adventure' 'Drama' 'Family',"'28,12,18,10751'"
+61856,'Family' 'Adventure' 'Drama',"'10751,12,18'"
+61925,'Drama' 'Action' 'Thriller' 'Crime',"'18,28,53,80'"
+61954,'Action' 'Science Fiction',"'28,878'"
+61979,'Romance' 'Drama',"'10749,18'"
+62,'Science Fiction' 'Mystery' 'Adventure',"'878,9648,12'"
+620,'Comedy' 'Fantasy',"'35,14'"
+62034,'Romance' 'Comedy',"'10749,35'"
+62071,'Action' 'Foreign',"'28,10769'"
+621,'Romance','10749'
+62211,'Animation' 'Family',"'16,10751'"
+62276,'Action' 'Crime',"'28,80'"
+62385,'Science Fiction' 'Romance',"'878,10749'"
+62527,'Comedy' 'Drama' 'Family' 'TV Movie',"'35,18,10751,10770'"
+627,'Drama' 'Crime',"'18,80'"
+62715,'Comedy' 'Crime' 'Action',"'35,80,28'"
+62725,'Comedy','35'
+62731,'Comedy' 'Fantasy',"'35,14'"
+62732,'Comedy' 'Fantasy',"'35,14'"
+62737,'Comedy','35'
+62738,'Comedy','35'
+62756,'Action' 'Comedy' 'Crime',"'28,35,80'"
+62762,'Action' 'Foreign',"'28,10769'"
+6279,'Music' 'Comedy',"'10402,35'"
+628,'Horror' 'Romance',"'27,10749'"
+62837,'Drama' 'Family',"'18,10751'"
+62852,'Thriller' 'Action' 'Crime' 'Drama',"'53,28,80,18'"
+62894,'Comedy','35'
+62896,'Comedy','35'
+62897,'Comedy','35'
+62898,'Comedy','35'
+62900,'',''
+62931,'Animation' 'Adventure' 'Action' 'Drama' 'Fantasy',"'16,12,28,18,14'"
+63065,'Comedy','35'
+63105,'Science Fiction' 'Action' 'Thriller',"'878,28,53'"
+63178,'Comedy','35'
+63179,'Comedy','35'
+63260,'Drama' 'Action' 'Romance' 'Western',"'18,28,10749,37'"
+63348,'Drama' 'Family',"'18,10751'"
+634,'Comedy' 'Romance' 'Drama',"'35,10749,18'"
+63536,'Adventure' 'History',"'12,36'"
+63537,'Adventure' 'History',"'12,36'"
+63538,'Adventure' 'History',"'12,36'"
+63578,'Comedy' 'Drama',"'35,18'"
+63710,'Drama' 'Music' 'Comedy',"'18,10402,35'"
+63943,'Comedy','35'
+64043,'Comedy','35'
+64075,'Mystery' 'Horror',"'9648,27'"
+64076,'Mystery' 'Thriller',"'9648,53'"
+64077,'Mystery' 'Thriller',"'9648,53'"
+64078,'Fantasy' 'Mystery',"'14,9648'"
+64160,'Action' 'Science Fiction',"'28,878'"
+64161,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+64183,'Action' 'Comedy' 'Drama' 'Family',"'28,35,18,10751'"
+64202,'Animation' 'Action' 'Family',"'16,28,10751'"
+64266,'Comedy','35'
+64325,'Action' 'Fantasy',"'28,14'"
+64328,'Comedy' 'Family' 'Music',"'35,10751,10402'"
+64428,'Adventure' 'Fantasy',"'12,14'"
+64468,'Comedy','35'
+64576,'Drama' 'Crime' 'Thriller' 'Action',"'18,80,53,28'"
+646,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+64650,'Western' 'Mystery',"'37,9648'"
+64651,'Action' 'Foreign' 'Thriller',"'28,10769,53'"
+6466,'Horror','27'
+64688,'Action' 'Comedy' 'Crime',"'28,35,80'"
+647,'Action' 'Adventure' 'Animation' 'Fantasy',"'28,12,16,14'"
+6477,'Comedy' 'Music' 'Family' 'Fantasy' 'Animation',"'35,10402,10751,14,16'"
+64876,'Action','28'
+64912,'Action' 'Drama' 'Crime',"'28,18,80'"
+64931,'Action' 'Comedy' 'Crime' 'History' 'Mystery',"'28,35,80,36,9648'"
+64961,'Comedy' 'Fantasy' 'Science Fiction',"'35,14,878'"
+6499,'Action' 'Adventure' 'Family' 'Fantasy' 'Science Fiction' 'Thriller',"'28,12,10751,14,878,53'"
+65086,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+6519,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+65310,'Adventure' 'Drama' 'War',"'12,18,10752'"
+65421,'Music','10402'
+65448,'Action' 'Drama',"'28,18'"
+65452,'Action' 'Thriller',"'28,53'"
+65460,'Horror' 'Science Fiction',"'27,878'"
+65497,'Action','28'
+65591,'Action' 'Adventure' 'Family',"'28,12,10751'"
+65594,'Action' 'Adventure' 'Family',"'28,12,10751'"
+657,'Action' 'Thriller' 'Adventure',"'28,53,12'"
+65703,'Drama','18'
+65759,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+658,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+65851,'Comedy' 'Documentary' 'Action',"'35,99,28'"
+6593,'Action' 'Drama' 'Fantasy' 'Foreign' 'Science Fiction',"'28,18,14,10769,878'"
+65973,'Action' 'Animation' 'Adventure',"'28,16,12'"
+660,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+66018,'Action' 'Thriller' 'Foreign',"'28,53,10769'"
+661,'War' 'Drama',"'10752,18'"
+66105,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+66129,'Comedy','35'
+66160,'Action' 'Foreign',"'28,10769'"
+66177,'Comedy','35'
+66209,'Action','28'
+663,'Horror' 'Thriller' 'Crime',"'27,53,80'"
+6637,'Action' 'Adventure' 'Mystery' 'Thriller',"'28,12,9648,53'"
+667,'Action' 'Thriller' 'Adventure',"'28,53,12'"
+668,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+66946,'Comedy' 'Family',"'35,10751'"
+670,'Drama' 'Thriller' 'Mystery' 'Action',"'18,53,9648,28'"
+671,'Adventure' 'Fantasy' 'Family',"'12,14,10751'"
+672,'Adventure' 'Fantasy' 'Family',"'12,14,10751'"
+673,'Adventure' 'Fantasy' 'Family',"'12,14,10751'"
+67308,'Drama','18'
+67342,'Action' 'Comedy' 'Horror',"'28,35,27'"
+67343,'Horror' 'Action' 'Comedy',"'27,28,35'"
+67390,'Action' 'Thriller',"'28,53'"
+674,'Adventure' 'Fantasy' 'Family',"'12,14,10751'"
+675,'Adventure' 'Fantasy' 'Family' 'Mystery',"'12,14,10751,9648'"
+67636,'Drama' 'Western',"'18,37'"
+67660,'Comedy' 'Romance',"'35,10749'"
+677,'Documentary','99'
+67793,'Romance' 'Comedy' 'Foreign',"'10749,35,10769'"
+679,'Horror' 'Action' 'Thriller' 'Science Fiction',"'27,28,53,878'"
+67952,'Comedy','35'
+68029,'Comedy' 'Foreign',"'35,10769'"
+681,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+68143,'Action' 'Crime' 'Mystery',"'28,80,9648'"
+68163,'Crime' 'Horror' 'Science Fiction',"'80,27,878'"
+682,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+68242,'Comedy','35'
+68337,'Comedy','35'
+68339,'Comedy','35'
+68340,'Comedy' 'Romance',"'35,10749'"
+685,'Documentary','99'
+68555,'TV Movie' 'Thriller' 'Animation' 'Crime' 'Drama' 'Fantasy',"'10770,53,16,80,18,14'"
+68637,'Comedy','35'
+68721,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+68726,'Action' 'Science Fiction' 'Adventure',"'28,878,12'"
+6878,'Adventure' 'Comedy' 'Drama' 'Family',"'12,35,18,10751'"
+69097,'Comedy' 'Romance',"'35,10749'"
+691,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+69152,'Science Fiction' 'Action',"'878,28'"
+6917,'Horror' 'Fantasy',"'27,14'"
+693,'Comedy' 'Romance',"'35,10749'"
+69315,'TV Movie' 'Science Fiction' 'Action' 'Drama' 'Thriller',"'10770,878,28,18,53'"
+6933,'Horror' 'Mystery' 'Thriller',"'27,9648,53'"
+6935,'Action' 'Crime' 'Drama',"'28,80,18'"
+69569,'Action','28'
+69599,'Action' 'Crime' 'Foreign',"'28,80,10769'"
+69619,'Action','28'
+69787,'Action' 'Adventure' 'History' 'War',"'28,12,36,10752'"
+69798,'Comedy','35'
+698,'Action' 'Adventure' 'Thriller' 'Science Fiction',"'28,12,53,878'"
+699,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+700,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+70006,'Drama' 'Action',"'18,28'"
+7006,'Thriller' 'Drama' 'Horror' 'Fantasy',"'53,18,27,14'"
+70061,'Animation' 'Adventure' 'Family',"'16,12,10751'"
+70086,'TV Movie' 'Comedy' 'Documentary',"'10770,35,99'"
+7010,'Action' 'Thriller' 'War',"'28,53,10752'"
+70133,'Action' 'Adventure' 'History' 'War',"'28,12,36,10752'"
+70160,'Science Fiction' 'Adventure' 'Fantasy',"'878,12,14'"
+70172,'',''
+70313,'Comedy','35'
+70322,'Adventure' 'Science Fiction' 'Action',"'12,878,28'"
+70327,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+70553,'Horror','27'
+70555,'Adventure' 'Drama' 'Romance',"'12,18,10749'"
+70575,'Horror' 'Thriller',"'27,53'"
+70584,'Horror','27'
+70587,'Comedy' 'Family',"'35,10751'"
+70590,'Drama' 'Action' 'Crime',"'18,28,80'"
+70609,'Drama' 'Romance',"'18,10749'"
+707,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+70702,'Action' 'Crime' 'Mystery' 'Thriller',"'28,80,9648,53'"
+708,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+70811,'Action' 'Adventure' 'Fantasy' 'TV Movie',"'28,12,14,10770'"
+7085,'Adventure' 'Western',"'12,37'"
+709,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+7092,'Action' 'Animation' 'Fantasy' 'Horror',"'28,16,14,27'"
+70981,'Science Fiction' 'Adventure' 'Mystery',"'878,12,9648'"
+70984,'Horror' 'Science Fiction',"'27,878'"
+710,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+71041,'Drama' 'Adventure' 'Thriller' 'Romance',"'18,12,53,10749'"
+71133,'Comedy','35'
+71138,'Crime','80'
+71200,'Action' 'Thriller',"'28,53'"
+71206,'Action' 'Western' 'War',"'28,37,10752'"
+7131,'Horror' 'Adventure' 'Action',"'27,12,28'"
+71392,'Horror','27'
+714,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+71444,'Science Fiction' 'Action' 'Animation',"'878,28,16'"
+71449,'Foreign' 'Science Fiction' 'Animation' 'Action',"'10769,878,16,28'"
+71461,'Crime' 'Drama' 'Mystery' 'Thriller',"'80,18,9648,53'"
+71552,'Comedy','35'
+71668,'Horror' 'Thriller' 'Comedy',"'27,53,35'"
+71670,'Horror','27'
+71672,'Horror' 'Thriller',"'27,53'"
+71676,'Action' 'Fantasy' 'Thriller',"'28,14,53'"
+71679,'Action' 'Horror' 'Science Fiction',"'28,27,878'"
+71744,'Comedy','35'
+71982,'Drama' 'Western',"'18,37'"
+71995,'Comedy','35'
+72032,'Western','37'
+72054,'Comedy','35'
+72094,'Crime' 'Drama' 'Mystery' 'Thriller',"'80,18,9648,53'"
+72105,'Comedy' 'Fantasy',"'35,14'"
+7219,'Horror','27'
+72190,'Action' 'Drama' 'Horror' 'Science Fiction' 'Thriller',"'28,18,27,878,53'"
+72203,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+7227,'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'"
+72391,'Family' 'Comedy' 'Adventure',"'10751,35,12'"
+72455,'Action' 'Adventure' 'Drama' 'Crime',"'28,12,18,80'"
+7249,'Animation' 'Comedy' 'Science Fiction',"'16,35,878'"
+72545,'Adventure' 'Action' 'Science Fiction',"'12,28,878'"
+72559,'Adventure' 'Action' 'Science Fiction' 'Thriller',"'12,28,878,53'"
+72571,'Horror','27'
+72720,'Science Fiction' 'Family' 'Animation',"'878,10751,16'"
+72811,'Comedy' 'Romance' 'Drama',"'35,10749,18'"
+72857,'Drama' 'Comedy' 'Foreign',"'18,35,10769'"
+72914,'Documentary','99'
+7294,'Romance' 'Comedy' 'Drama',"'10749,35,18'"
+7295,'Thriller' 'Mystery' 'Drama',"'53,9648,18'"
+72972,'Animation' 'Family',"'16,10751'"
+73358,'Mystery' 'Thriller' 'Drama',"'9648,53,18'"
+7340,'Horror' 'Thriller',"'27,53'"
+7341,'Horror' 'Thriller' 'Science Fiction',"'27,53,878'"
+7347,'Drama' 'Action' 'Crime',"'18,28,80'"
+73517,'Drama' 'Romance',"'18,10749'"
+73529,'Thriller' 'Animation' 'Action' 'Drama',"'53,16,28,18'"
+73530,'Animation' 'Science Fiction',"'16,878'"
+73551,'Action' 'Adventure',"'28,12'"
+73884,'Animation' 'Drama' 'Comedy',"'16,18,35'"
+73897,'Action','28'
+7392,'Action' 'Horror',"'28,27'"
+74018,'Comedy' 'Family' 'Romance',"'35,10751,10749'"
+74035,'Horror' 'Action' 'Comedy',"'27,28,35'"
+74097,'Comedy','35'
+74135,'Action' 'Mystery' 'Science Fiction',"'28,9648,878'"
+74384,'Comedy','35'
+74387,'Comedy','35'
+74405,'Action' 'Adventure' 'War' 'History',"'28,12,10752,36'"
+74471,'Horror' 'Action' 'Thriller' 'Science Fiction',"'27,28,53,878'"
+7451,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+74523,'Action','28'
+74534,'Drama' 'Comedy',"'18,35'"
+74545,'Mystery','9648'
+74626,'Crime' 'Thriller' 'Mystery',"'80,53,9648'"
+74639,'Action' 'Drama' 'Thriller',"'28,18,53'"
+74719,'Documentary' 'Family' 'Music',"'99,10751,10402'"
+7484,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+74919,'Action' 'Crime',"'28,80'"
+74997,'Drama' 'Horror' 'Crime',"'18,27,80'"
+75015,'Foreign' 'Action' 'History' 'Comedy',"'10769,28,36,35'"
+7504,'Drama','18'
+7509,'Drama' 'Foreign' 'Romance',"'18,10769,10749'"
+75133,'History' 'Action' 'Adventure' 'War',"'36,28,12,10752'"
+75134,'History' 'Action' 'Adventure',"'36,28,12'"
+75136,'',''
+75137,'Action' 'Adventure' 'History' 'War',"'28,12,36,10752'"
+75138,'History' 'Action' 'Adventure',"'36,28,12'"
+75140,'',''
+75142,'',''
+75143,'Action' 'Adventure' 'History',"'28,12,36'"
+7516,'Action' 'Comedy' 'Crime' 'Thriller',"'28,35,80,53'"
+75258,'Animation' 'Family' 'Fantasy' 'Adventure',"'16,10751,14,12'"
+755,'Horror' 'Action' 'Thriller' 'Crime',"'27,28,53,80'"
+7553,'Comedy','35'
+75532,'Drama' 'Comedy',"'18,35'"
+7555,'Action' 'Thriller',"'28,53'"
+75555,'Horror' 'Thriller',"'27,53'"
+756,'Animation' 'Family' 'Music',"'16,10751,10402'"
+75623,'Horror','27'
+75629,'Animation' 'Science Fiction' 'Action' 'Drama',"'16,878,28,18'"
+75634,'Action' 'Adventure' 'War' 'History',"'28,12,10752,36'"
+75656,'Thriller' 'Crime',"'53,80'"
+75744,'Drama' 'Action' 'Thriller' 'Crime' 'Romance' 'Foreign',"'18,28,53,80,10749,10769'"
+75745,'Drama' 'Action' 'Thriller' 'Crime' 'Romance',"'18,28,53,80,10749'"
+75780,'Crime' 'Drama' 'Thriller',"'80,18,53'"
+75822,'Action' 'Adventure' 'Fantasy' 'TV Movie',"'28,12,14,10770'"
+75826,'Action' 'Adventure' 'Fantasy' 'TV Movie',"'28,12,14,10770'"
+75834,'Action' 'Adventure' 'Fantasy' 'TV Movie',"'28,12,14,10770'"
+75848,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+75897,'Family','10751'
+75969,'Comedy','35'
+76,'Drama' 'Romance',"'18,10749'"
+76081,'Action' 'Adventure',"'28,12'"
+76084,'Action' 'Adventure',"'28,12'"
+76163,'Action' 'Adventure' 'Thriller',"'28,12,53'"
+76170,'Action' 'Science Fiction' 'Adventure' 'Fantasy',"'28,878,12,14'"
+76171,'Thriller' 'Action',"'53,28'"
+76285,'Adventure' 'Family' 'Fantasy',"'12,10751,14'"
+76338,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+76341,'Action' 'Adventure' 'Science Fiction' 'Thriller',"'28,12,878,53'"
+764,'Horror','27'
+76492,'Animation' 'Comedy' 'Family' 'Fantasy',"'16,35,10751,14'"
+765,'Horror' 'Comedy' 'Fantasy',"'27,35,14'"
+76589,'Action' 'Animation' 'Thriller',"'28,16,53'"
+766,'Fantasy' 'Horror' 'Comedy',"'14,27,35'"
+76600,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+76617,'Horror' 'Thriller',"'27,53'"
+76684,'Comedy' 'Drama',"'35,18'"
+767,'Adventure' 'Fantasy' 'Family',"'12,14,10751'"
+76784,'Comedy' 'Drama',"'35,18'"
+76940,'Drama' 'Action' 'Science Fiction' 'Foreign',"'18,28,878,10769'"
+77051,'Adventure' 'Family',"'12,10751'"
+77076,'Action' 'Comedy' 'Science Fiction',"'28,35,878'"
+77079,'Western','37'
+771,'Comedy' 'Family',"'35,10751'"
+772,'Comedy' 'Family' 'Adventure' 'Crime',"'35,10751,12,80'"
+77269,'Documentary','99'
+77294,'Animation','16'
+77304,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+77348,'TV Movie' 'Science Fiction',"'10770,878'"
+7737,'Horror' 'Action' 'Science Fiction',"'27,28,878'"
+77448,'Documentary' 'Music' 'Family',"'99,10402,10751'"
+77759,'Animation','16'
+77762,'Animation','16'
+77771,'Drama' 'Romance',"'18,10749'"
+77787,'Drama' 'Science Fiction' 'Thriller',"'18,878,53'"
+77930,'Drama' 'Comedy',"'18,35'"
+77931,'Fantasy' 'Family' 'Comedy' 'Animation',"'14,10751,35,16'"
+77946,'Drama' 'Family',"'18,10751'"
+78,'Science Fiction' 'Drama' 'Thriller',"'878,18,53'"
+78047,'Adventure' 'Family',"'12,10751'"
+78049,'Action' 'Fantasy' 'Adventure',"'28,14,12'"
+78080,'Comedy' 'Family',"'35,10751'"
+78124,'Animation' 'Adventure' 'Family' 'Fantasy',"'16,12,10751,14'"
+78140,'Drama','18'
+78359,'Fantasy' 'Family',"'14,10751'"
+78375,'Action' 'Science Fiction',"'28,878'"
+78402,'Horror','27'
+78492,'',''
+79090,'Documentary' 'War' 'History',"'99,10752,36'"
+79106,'TV Movie' 'Adventure' 'Crime' 'Drama',"'10770,12,80,18'"
+79221,'Comedy' 'Romance',"'35,10749'"
+794,'Horror' 'Thriller',"'27,53'"
+79466,'Adventure' 'Crime',"'12,80'"
+79516,'Action' 'Animation',"'28,16'"
+79591,'Science Fiction' 'Drama' 'Romance',"'878,18,10749'"
+796,'Drama' 'Romance' 'Thriller',"'18,10749,53'"
+79701,'Animation' 'Family',"'16,10751'"
+79722,'Action' 'Comedy' 'Fantasy' 'Science Fiction',"'28,35,14,878'"
+79723,'Action' 'Comedy',"'28,35'"
+79909,'Drama','18'
+80,'Drama' 'Romance',"'18,10749'"
+8007,'Action' 'Drama' 'Thriller' 'War',"'28,18,53,10752'"
+8009,'Adventure' 'Action' 'Fantasy',"'12,28,14'"
+8010,'Action' 'Fantasy' 'Science Fiction',"'28,14,878'"
+80105,'Action' 'Thriller' 'Science Fiction',"'28,53,878'"
+8011,'Action' 'Fantasy' 'Science Fiction',"'28,14,878'"
+8012,'Comedy' 'Thriller' 'Crime',"'35,53,80'"
+8016,'War' 'Drama',"'10752,18'"
+80256,'Crime' 'Action',"'80,28'"
+80280,'Horror','27'
+80314,'Drama' 'Action' 'Comedy' 'Foreign',"'18,28,35,10769'"
+80321,'Animation' 'Family',"'16,10751'"
+80374,'Comedy','35'
+80384,'Horror' 'Comedy',"'27,35'"
+80410,'Adventure' 'Fantasy' 'Drama' 'Action',"'12,14,18,28'"
+805,'Horror' 'Drama' 'Mystery',"'27,18,9648'"
+80518,'Adventure' 'Fantasy' 'Animation' 'Action' 'Science Fiction',"'12,14,16,28,878'"
+80527,'Adventure' 'Thriller' 'Science Fiction',"'12,53,878'"
+80607,'Animation','16'
+8068,'Thriller' 'Action' 'Crime',"'53,28,80'"
+8072,'Drama' 'Science Fiction' 'Mystery',"'18,878,9648'"
+8077,'Science Fiction' 'Action' 'Horror',"'878,28,27'"
+8078,'Science Fiction' 'Horror' 'Action',"'878,27,28'"
+808,'Adventure' 'Animation' 'Comedy' 'Family' 'Fantasy',"'12,16,35,10751,14'"
+809,'Adventure' 'Animation' 'Comedy' 'Family' 'Fantasy',"'12,16,35,10751,14'"
+810,'Fantasy' 'Adventure' 'Animation' 'Comedy' 'Family',"'14,12,16,35,10751'"
+81086,'Comedy','35'
+812,'Animation' 'Family' 'Comedy' 'Adventure' 'Fantasy' 'Romance',"'16,10751,35,12,14,10749'"
+81244,'Science Fiction','878'
+81246,'',''
+813,'Comedy','35'
+81450,'Drama' 'Romance' 'Family',"'18,10749,10751'"
+816,'Science Fiction' 'Comedy' 'Crime',"'878,35,80'"
+81684,'Adventure' 'Animation' 'Family' 'Fantasy',"'12,16,10751,14'"
+817,'Adventure' 'Comedy' 'Crime' 'Science Fiction',"'12,35,80,878'"
+818,'Comedy' 'Crime' 'Science Fiction',"'35,80,878'"
+81895,'Action' 'Adventure',"'28,12'"
+81976,'Documentary' 'History',"'99,36'"
+81996,'Comedy' 'Action',"'35,28'"
+82088,'Drama' 'Fantasy',"'18,14'"
+8211,'Comedy' 'Foreign',"'35,10769'"
+8214,'Drama','18'
+82237,'Comedy','35'
+8224,'Thriller' 'Crime' 'Mystery',"'53,80,9648'"
+82386,'',''
+82406,'Drama' 'Comedy' 'Foreign',"'18,35,10769'"
+82447,'Comedy','35'
+82450,'Thriller' 'Action' 'Drama',"'53,28,18'"
+82507,'Horror' 'Thriller' 'Mystery',"'27,53,9648'"
+82545,'Drama' 'Romance',"'18,10749'"
+82650,'Comedy' 'Family',"'35,10751'"
+82675,'Action' 'Crime' 'Thriller',"'28,80,53'"
+82690,'Family' 'Animation' 'Comedy' 'Adventure',"'10751,16,35,12'"
+82702,'Fantasy' 'Action' 'Adventure' 'Animation' 'Comedy' 'Family',"'14,28,12,16,35,10751'"
+8273,'Comedy' 'Romance',"'35,10749'"
+8274,'Comedy','35'
+8275,'Comedy','35'
+8277,'Comedy','35'
+82881,'Animation' 'Comedy' 'Action' 'Family',"'16,35,28,10751'"
+829,'Crime' 'Drama' 'Mystery' 'Thriller',"'80,18,9648,53'"
+82990,'Horror','27'
+82992,'Action' 'Thriller' 'Crime',"'28,53,80'"
+83,'Drama' 'Thriller',"'18,53'"
+83088,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+83090,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+83091,'Action' 'Animation' 'Fantasy',"'28,16,14'"
+83122,'Western','37'
+83124,'Western','37'
+83136,'Western','37'
+83140,'',''
+8328,'Music' 'Drama' 'Romance',"'10402,18,10749'"
+8329,'Horror' 'Mystery',"'27,9648'"
+834,'Fantasy' 'Action' 'Science Fiction' 'Thriller',"'14,28,878,53'"
+83456,'Romance' 'Comedy',"'10749,35'"
+8346,'Comedy' 'Drama' 'Romance',"'35,18,10749'"
+83473,'Horror','27'
+8355,'Animation' 'Comedy' 'Family' 'Adventure',"'16,35,10751,12'"
+8357,'Documentary','99'
+8359,'Comedy' 'Drama' 'Family',"'35,18,10751'"
+83651,'Comedy' 'Drama',"'35,18'"
+83660,'Documentary','99'
+8373,'Science Fiction' 'Action' 'Adventure',"'878,28,12'"
+8374,'Action' 'Thriller' 'Crime',"'28,53,80'"
+83761,'Adventure' 'Drama',"'12,18'"
+838,'Comedy' 'Drama',"'35,18'"
+83865,'Animation' 'Family',"'16,10751'"
+8393,'Action' 'Comedy',"'28,35'"
+83980,'Action' 'Drama',"'28,18'"
+8408,'Horror' 'Science Fiction',"'27,878'"
+84152,'Horror' 'Thriller' 'Science Fiction' 'Action' 'Fantasy',"'27,53,878,28,14'"
+84165,'Comedy','35'
+84177,'Documentary','99'
+8429,'History' 'Drama' 'War',"'36,18,10752'"
+843,'Drama' 'Romance',"'18,10749'"
+84348,'Thriller' 'Horror',"'53,27'"
+844,'Fantasy' 'Drama' 'Science Fiction' 'Romance',"'14,18,878,10749'"
+8445,'Comedy' 'Family',"'35,10751'"
+8456,'Drama' 'Action',"'18,28'"
+84575,'Comedy' 'Family',"'35,10751'"
+846,'Mystery' 'Science Fiction' 'Thriller',"'9648,878,53'"
+8460,'Action' 'Comedy' 'Thriller' 'Romance',"'28,35,53,10749'"
+8467,'Comedy','35'
+84774,'Animation' 'Family' 'Fantasy' 'Foreign',"'16,10751,14,10769'"
+8491,'Comedy','35'
+8494,'Comedy','35'
+84951,'Horror','27'
+85,'Adventure' 'Action',"'12,28'"
+850,'Comedy' 'Family',"'35,10751'"
+85038,'Comedy','35'
+85052,'Drama' 'Comedy' 'Romance',"'18,35,10749'"
+85231,'Mystery' 'Comedy' 'Drama',"'9648,35,18'"
+85232,'Comedy' 'Thriller' 'Romance' 'Drama' 'Crime',"'35,53,10749,18,80'"
+85317,'Comedy','35'
+85339,'TV Movie' 'Western',"'10770,37'"
+85341,'TV Movie' 'Western',"'10770,37'"
+85349,'Horror','27'
+8536,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+85373,'Drama' 'Romance',"'18,10749'"
+854,'Romance' 'Comedy' 'Crime' 'Fantasy',"'10749,35,80,14'"
+85435,'Comedy','35'
+85446,'Music' 'Drama' 'Romance',"'10402,18,10749'"
+85715,'Drama' 'War',"'18,10752'"
+85766,'Documentary' 'History',"'99,36'"
+8584,'Adventure' 'Action' 'Comedy' 'Western',"'12,28,35,37'"
+8587,'Family' 'Animation' 'Drama',"'10751,16,18'"
+860,'Thriller' 'Science Fiction',"'53,878'"
+86040,'Drama','18'
+86082,'War' 'Documentary',"'10752,99'"
+86084,'War' 'Documentary',"'10752,99'"
+8617,'Crime' 'Horror',"'80,27'"
+86190,'Comedy','35'
+862,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+863,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+86337,'Action' 'Adventure' 'Science Fiction' 'Fantasy',"'28,12,878,14'"
+86416,'Crime' 'Drama' 'Mystery',"'80,18,9648'"
+8681,'Action' 'Thriller',"'28,53'"
+86821,'Documentary','99'
+86868,'Comedy','35'
+8699,'Comedy','35'
+87,'Adventure' 'Action',"'12,28'"
+871,'Science Fiction' 'Adventure' 'Drama' 'Action',"'878,12,18,28'"
+87101,'Science Fiction' 'Action' 'Thriller' 'Adventure',"'878,28,53,12'"
+87311,'Drama' 'Western' 'TV Movie',"'18,37,10770'"
+87421,'Science Fiction' 'Action' 'Thriller',"'878,28,53'"
+87436,'Horror','27'
+87636,'',''
+8766,'Horror' 'Thriller' 'Science Fiction',"'27,53,878'"
+87788,'Western' 'Action' 'Crime',"'37,28,80'"
+87881,'Drama' 'Action' 'Mystery',"'18,28,9648'"
+88,'Drama' 'Music' 'Romance',"'18,10402,10749'"
+8810,'Adventure' 'Action' 'Thriller' 'Science Fiction',"'12,28,53,878'"
+8831,'Thriller' 'Science Fiction' 'Action' 'Crime',"'53,878,28,80'"
+8835,'Comedy','35'
+8836,'Drama' 'Mystery' 'Science Fiction' 'Thriller',"'18,9648,878,53'"
+8839,'Fantasy' 'Comedy' 'Family',"'14,35,10751'"
+8840,'Fantasy','14'
+8843,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+8845,'Action' 'Thriller',"'28,53'"
+8850,'Adventure' 'Fantasy' 'Action' 'Thriller' 'Science Fiction',"'12,14,28,53,878'"
+8851,'Horror' 'Science Fiction',"'27,878'"
+88557,'Adventure' 'Animation' 'Family',"'12,16,10751'"
+8856,'Adventure' 'Drama' 'Action' 'Romance' 'Family',"'12,18,28,10749,10751'"
+8868,'Comedy' 'Animation' 'Family' 'Adventure',"'35,16,10751,12'"
+8872,'Music' 'Comedy',"'10402,35'"
+8873,'Music' 'Comedy',"'10402,35'"
+88751,'Action' 'Science Fiction' 'Adventure' 'Comedy' 'Family',"'28,878,12,35,10751'"
+888,'Fantasy' 'Comedy' 'Family',"'14,35,10751'"
+8880,'Drama' 'History' 'War',"'18,36,10752'"
+8881,'Drama' 'History' 'War',"'18,36,10752'"
+889,'Science Fiction' 'Comedy' 'Family' 'Romance',"'878,35,10751,10749'"
+89,'Adventure' 'Action',"'12,28'"
+8909,'Action' 'Thriller' 'Crime',"'28,53,80'"
+8913,'Drama' 'Horror',"'18,27'"
+89145,'Drama' 'Comedy' 'Crime',"'18,35,80'"
+8920,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+8922,'Horror' 'Thriller',"'27,53'"
+8923,'Crime' 'Drama',"'80,18'"
+89247,'Animation' 'Fantasy' 'Comedy',"'16,14,35'"
+89458,'Animation' 'Comedy',"'16,35'"
+896,'Drama','18'
+8961,'Adventure' 'Action' 'Comedy' 'Thriller' 'Crime',"'12,28,35,53,80'"
+89645,'Comedy' 'Western',"'35,37'"
+8965,'Fantasy' 'Animation' 'Science Fiction' 'Family' 'Action',"'14,16,878,10751,28'"
+8966,'Adventure' 'Fantasy' 'Drama' 'Romance',"'12,14,18,10749'"
+8968,'Thriller' 'Horror' 'Drama' 'Mystery',"'53,27,18,9648'"
+897,'Drama','18'
+8975,'Action' 'Adventure' 'Drama' 'Thriller',"'28,12,18,53'"
+8982,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+89825,'Animation' 'Adventure' 'Family',"'16,12,10751'"
+89877,'Comedy','35'
+8997,'Horror' 'Action' 'Thriller' 'Science Fiction',"'27,28,53,878'"
+90,'Action' 'Comedy' 'Crime',"'28,35,80'"
+9003,'Horror','27'
+9010,'Comedy' 'Crime' 'Thriller',"'35,80,53'"
+9011,'Fantasy' 'Horror' 'Thriller',"'14,27,53'"
+9012,'Documentary' 'Comedy',"'99,35'"
+9017,'Action' 'Adventure' 'Horror',"'28,12,27'"
+9021,'Fantasy' 'Comedy' 'Family',"'14,35,10751'"
+9030,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+9033,'Fantasy' 'Horror' 'Thriller',"'14,27,53'"
+9037,'Comedy' 'Drama' 'Family' 'Music' 'Romance',"'35,18,10751,10402,10749'"
+90460,'Comedy' 'Mystery',"'35,9648'"
+90461,'Comedy' 'Mystery' 'Crime',"'35,9648,80'"
+90465,'Comedy' 'Crime' 'Mystery' 'Romance',"'35,80,9648,10749'"
+9048,'Action' 'Comedy' 'Horror' 'Fantasy',"'28,35,27,14'"
+9050,'Fantasy' 'Drama' 'Horror' 'Action' 'Comedy' 'Romance',"'14,18,27,28,35,10749'"
+9056,'Action' 'Crime' 'Thriller',"'28,80,53'"
+9059,'Horror' 'Comedy' 'Thriller',"'27,35,53'"
+9063,'Crime' 'Drama' 'Science Fiction' 'Thriller',"'80,18,878,53'"
+9064,'Horror' 'Thriller',"'27,53'"
+9065,'Thriller' 'Drama',"'53,18'"
+9066,'Comedy','35'
+9070,'Action' 'Adventure' 'Science Fiction' 'Family' 'Fantasy',"'28,12,878,10751,14'"
+9073,'Adventure','12'
+9084,'Animation' 'Family' 'Foreign',"'16,10751,10769'"
+9086,'Western' 'Adventure',"'37,12'"
+90955,'Adventure' 'Comedy' 'Crime',"'12,35,80'"
+90956,'Comedy' 'Crime' 'Mystery',"'35,80,9648'"
+9102,'Horror' 'Science Fiction',"'27,878'"
+91198,'Music' 'Crime' 'Comedy',"'10402,80,35'"
+91314,'Science Fiction' 'Action' 'Adventure',"'878,28,12'"
+91342,'Animation' 'Family',"'16,10751'"
+91548,'Drama' 'Action' 'Thriller',"'18,28,53'"
+91586,'Horror' 'Thriller',"'27,53'"
+91893,'Adventure','12'
+920,'Animation' 'Adventure' 'Comedy' 'Family',"'16,12,35,10751'"
+92011,'Action','28'
+923,'Horror','27'
+92332,'Adventure','12'
+9252,'Comedy','35'
+9255,'Action' 'Comedy' 'War',"'28,35,10752'"
+9257,'Action' 'Thriller' 'Crime',"'28,53,80'"
+9264,'Thriller','53'
+92647,'Crime' 'Thriller' 'Drama',"'80,53,18'"
+9266,'Adventure','12'
+927,'Fantasy' 'Horror' 'Comedy',"'14,27,35'"
+9273,'Crime' 'Comedy' 'Adventure',"'80,35,12'"
+9277,'Comedy' 'Crime' 'Drama',"'35,80,18'"
+9279,'Family' 'Comedy',"'10751,35'"
+928,'Comedy' 'Horror' 'Fantasy',"'35,27,14'"
+9285,'Comedy' 'Adventure',"'35,12'"
+9286,'Horror' 'Mystery',"'27,9648'"
+9288,'Action' 'Adventure' 'Fantasy',"'28,12,14'"
+9290,'Adventure' 'Comedy',"'12,35'"
+9312,'Action' 'Fantasy',"'28,14'"
+9316,'Action' 'Thriller',"'28,53'"
+93164,'Family' 'Drama',"'10751,18'"
+9318,'Family' 'Animation' 'Adventure' 'Comedy',"'10751,16,12,35'"
+9323,'Action' 'Animation' 'Science Fiction',"'28,16,878'"
+93230,'Drama' 'Thriller',"'18,53'"
+9325,'Family' 'Animation' 'Adventure',"'10751,16,12'"
+9326,'Action' 'Adventure' 'Comedy' 'Romance',"'28,12,35,10749'"
+9327,'Fantasy' 'Comedy' 'Romance' 'Science Fiction',"'14,35,10749,878'"
+93289,'War' 'Action' 'Comedy',"'10752,28,35'"
+9331,'Action' 'Drama' 'Thriller',"'28,18,53'"
+9334,'Action' 'Fantasy' 'Adventure',"'28,14,12'"
+9335,'Action' 'Thriller' 'Crime',"'28,53,80'"
+9336,'Comedy' 'Crime',"'35,80'"
+9337,'Comedy','35'
+9342,'Action' 'Adventure',"'28,12'"
+93456,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+9348,'Science Fiction' 'Horror' 'Action',"'878,27,28'"
+9349,'Thriller' 'Action' 'Science Fiction' 'Crime',"'53,28,878,80'"
+9354,'Adventure' 'Comedy' 'Family' 'Science Fiction',"'12,35,10751,878'"
+9355,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+9356,'Romance' 'Comedy',"'10749,35'"
+9358,'Horror' 'Mystery',"'27,9648'"
+936,'Comedy' 'Crime',"'35,80'"
+9360,'Adventure' 'Horror' 'Thriller',"'12,27,53'"
+9362,'Action' 'Horror',"'28,27'"
+9367,'Action' 'Crime' 'Thriller',"'28,80,53'"
+9369,'Family' 'Animation' 'Adventure' 'Comedy',"'10751,16,12,35'"
+9372,'Documentary' 'Comedy' 'Drama',"'99,35,18'"
+9373,'Horror','27'
+9379,'Comedy','35'
+938,'Western','37'
+9383,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+9385,'Family' 'Animation' 'Comedy' 'Adventure',"'10751,16,35,12'"
+9387,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+9392,'Adventure' 'Horror',"'12,27'"
+9394,'Action' 'Comedy' 'Western',"'28,35,37'"
+9396,'Adventure' 'Comedy',"'12,35'"
+9398,'Comedy','35'
+9404,'Action' 'Adventure' 'Comedy' 'Crime' 'Drama' 'Thriller',"'28,12,35,80,18,53'"
+94052,'Mystery' 'Adventure' 'Action' 'Foreign' 'Drama',"'9648,12,28,10769,18'"
+9408,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+9409,'Action' 'Comedy',"'28,35'"
+941,'Adventure' 'Action' 'Comedy' 'Thriller' 'Crime',"'12,28,35,53,80'"
+942,'Action' 'Adventure' 'Comedy' 'Crime' 'Thriller',"'28,12,35,80,53'"
+9426,'Horror' 'Science Fiction',"'27,878'"
+943,'Adventure' 'Action' 'Comedy' 'Thriller' 'Crime',"'12,28,35,53,80'"
+9431,'Horror' 'Comedy',"'27,35'"
+94329,'Action' 'Thriller' 'Crime',"'28,53,80'"
+94336,'Drama','18'
+94348,'Action' 'Thriller' 'Crime' 'Mystery',"'28,53,80,9648'"
+94352,'Fantasy' 'Family',"'14,10751'"
+94365,'Horror','27'
+9437,'Drama' 'Mystery' 'Thriller' 'Crime',"'18,9648,53,80'"
+94380,'Action' 'Drama',"'28,18'"
+944,'Action' 'Adventure' 'Comedy' 'Crime' 'Thriller',"'28,12,35,80,53'"
+9447,'Adventure' 'Comedy' 'Drama' 'Family' 'Fantasy',"'12,35,18,10751,14'"
+9456,'Action' 'Science Fiction' 'Thriller',"'28,878,53'"
+9460,'Action','28'
+9463,'Animation' 'Fantasy' 'Horror',"'16,14,27'"
+9471,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+9474,'Comedy' 'Western',"'35,37'"
+9478,'Comedy' 'Romance',"'35,10749'"
+948,'Horror' 'Thriller',"'27,53'"
+9486,'Adventure' 'Action' 'Comedy',"'12,28,35'"
+9488,'Action' 'Adventure' 'Family',"'28,12,10751'"
+9494,'Comedy' 'Romance',"'35,10749'"
+9495,'Fantasy' 'Action' 'Thriller',"'14,28,53'"
+9496,'Animation' 'Comedy',"'16,35'"
+9497,'Animation' 'Comedy',"'16,35'"
+950,'Animation' 'Family' 'Comedy' 'Adventure',"'16,10751,35,12'"
+9502,'Adventure' 'Animation' 'Family' 'Comedy',"'12,16,10751,35'"
+951,'Comedy','35'
+9511,'Comedy' 'Romance',"'35,10749'"
+9513,'Animation' 'Comedy' 'Family',"'16,35,10751'"
+9514,'Animation' 'Comedy',"'16,35'"
+9529,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+953,'Family' 'Animation',"'10751,16'"
+9531,'Comedy' 'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'35,28,12,14,878'"
+9532,'Horror','27'
+9533,'Crime' 'Thriller' 'Horror',"'80,53,27'"
+9535,'Comedy' 'Crime',"'35,80'"
+9538,'Horror' 'Science Fiction' 'Thriller',"'27,878,53'"
+954,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+9542,'Action' 'Horror' 'Thriller',"'28,27,53'"
+9545,'Action' 'Drama' 'Thriller',"'28,18,53'"
+955,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+95511,'Comedy','35'
+9552,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+9556,'Action' 'Science Fiction' 'Crime',"'28,878,80'"
+956,'Adventure' 'Action' 'Thriller',"'12,28,53'"
+95610,'Comedy','35'
+9564,'Family' 'Adventure' 'Comedy' 'Fantasy',"'10751,12,35,14'"
+9565,'Comedy','35'
+9568,'Horror' 'Thriller',"'27,53'"
+9572,'Comedy','35'
+9592,'Drama' 'Horror' 'Thriller',"'18,27,53'"
+9595,'Action' 'Comedy' 'War',"'28,35,10752'"
+9598,'Fantasy' 'Drama' 'Comedy' 'Family',"'14,18,35,10751'"
+96,'Action' 'Comedy' 'Crime',"'28,35,80'"
+9600,'Crime' 'Comedy',"'80,35'"
+9605,'Thriller','53'
+9610,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+96105,'Comedy','35'
+9615,'Action' 'Crime' 'Drama' 'Thriller',"'28,80,18,53'"
+9626,'Adventure' 'Fantasy' 'Action',"'12,14,28'"
+9637,'Mystery' 'Adventure' 'Comedy',"'9648,12,35'"
+9638,'Horror' 'Science Fiction',"'27,878'"
+9641,'Comedy','35'
+9642,'Family' 'Animation' 'Comedy' 'Adventure',"'10751,16,35,12'"
+9657,'Comedy','35'
+9659,'Adventure' 'Action' 'Thriller' 'Science Fiction',"'12,28,53,878'"
+966,'Western','37'
+9666,'Horror' 'Thriller',"'27,53'"
+9669,'Horror','27'
+9671,'Adventure' 'Comedy',"'12,35'"
+9674,'Horror','27'
+9682,'Horror' 'Thriller',"'27,53'"
+9694,'Horror' 'Thriller',"'27,53'"
+9699,'Comedy' 'Crime',"'35,80'"
+97,'Science Fiction' 'Action' 'Adventure',"'878,28,12'"
+97020,'Action' 'Science Fiction',"'28,878'"
+9706,'Horror','27'
+9710,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+9711,'Science Fiction' 'Action' 'Horror',"'878,28,27'"
+9714,'Comedy' 'Family',"'35,10751'"
+9725,'Horror' 'Thriller',"'27,53'"
+97251,'Horror' 'Documentary',"'27,99'"
+9728,'Horror' 'Thriller',"'27,53'"
+9730,'Horror' 'Thriller',"'27,53'"
+9731,'Horror' 'Thriller',"'27,53'"
+9732,'Animation' 'Family' 'Adventure',"'16,10751,12'"
+97353,'Comedy','35'
+9737,'Action' 'Comedy' 'Crime' 'Thriller',"'28,35,80,53'"
+9738,'Action' 'Adventure' 'Fantasy' 'Science Fiction',"'28,12,14,878'"
+9740,'Crime' 'Drama' 'Thriller' 'Horror',"'80,18,53,27'"
+9742,'Animation' 'Comedy',"'16,35'"
+97430,'Action','28'
+9749,'Comedy' 'Crime' 'Mystery',"'35,80,9648'"
+9762,'Music' 'Drama' 'Romance' 'Crime',"'10402,18,10749,80'"
+9763,'Drama','18'
+9771,'Comedy','35'
+9779,'Drama' 'Comedy',"'18,35'"
+9792,'Horror' 'Thriller',"'27,53'"
+9793,'Horror' 'Thriller',"'27,53'"
+9797,'Drama' 'History',"'18,36'"
+9799,'Action' 'Crime' 'Thriller',"'28,80,53'"
+9801,'Comedy' 'Romance',"'35,10749'"
+9803,'Comedy','35'
+9806,'Action' 'Adventure' 'Animation' 'Family',"'28,12,16,10751'"
+9815,'Drama','18'
+9816,'Drama' 'Family' 'Romance' 'Music',"'18,10751,10749,10402'"
+9817,'Drama' 'Family' 'Romance',"'18,10751,10749'"
+9823,'Action' 'Fantasy' 'Science Fiction',"'28,14,878'"
+9825,'Horror' 'Comedy' 'Action' 'Science Fiction' 'Thriller',"'27,35,28,878,53'"
+9834,'Action' 'Drama' 'Thriller',"'28,18,53'"
+98344,'Drama' 'Action' 'History',"'18,28,36'"
+9836,'Animation' 'Comedy',"'16,35'"
+9838,'Action' 'Adventure' 'Comedy',"'28,12,35'"
+984,'Action' 'Crime' 'Thriller',"'28,80,53'"
+9841,'Horror' 'Thriller',"'27,53'"
+98438,'Comedy','35'
+98439,'Comedy','35'
+98440,'Comedy','35'
+98566,'Science Fiction' 'Action' 'Adventure' 'Fantasy' 'Comedy',"'878,28,12,14,35'"
+98567,'Action' 'Adventure',"'28,12'"
+98596,'Drama','18'
+9869,'Drama' 'Action' 'Thriller' 'Crime',"'18,28,53,80'"
+9871,'Drama' 'Horror',"'18,27'"
+9873,'Crime' 'Thriller' 'Action',"'80,53,28'"
+9877,'Horror' 'Thriller',"'27,53'"
+9880,'Comedy' 'Family' 'Romance',"'35,10751,10749'"
+9885,'Horror' 'Thriller',"'27,53'"
+990,'Drama','18'
+9902,'Horror' 'Thriller',"'27,53'"
+99099,'Horror','27'
+9922,'Drama' 'Adventure',"'18,12'"
+99247,'Comedy' 'Drama',"'35,18'"
+9929,'Family' 'Animation' 'Adventure' 'Comedy',"'10751,16,12,35'"
+993,'Thriller' 'Mystery',"'53,9648'"
+9932,'Comedy' 'Crime',"'35,80'"
+99361,'Comedy','35'
+9942,'Comedy','35'
+9945,'Action' 'Drama' 'Fantasy' 'Horror' 'Thriller',"'28,18,14,27,53'"
+9948,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+9958,'Comedy','35'
+9965,'Comedy','35'
+9966,'Mystery' 'Thriller' 'Horror',"'9648,53,27'"
+9973,'Adventure' 'Comedy' 'Family',"'12,35,10751'"
+9975,'Adventure' 'Animation' 'Comedy' 'Family',"'12,16,35,10751'"
+99760,'Drama','18'
+99770,'Family' 'Adventure' 'Comedy',"'10751,12,35'"
+99861,'Action' 'Adventure' 'Science Fiction',"'28,12,878'"
+9990,'Action' 'Thriller' 'Crime' 'Drama',"'28,53,80,18'"
+9992,'Adventure' 'Fantasy' 'Animation' 'Family',"'12,14,16,10751'"
