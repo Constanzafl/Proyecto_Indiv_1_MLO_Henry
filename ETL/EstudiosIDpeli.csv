@@ -450,7 +450,6 @@ id_original,name,id
 32646,Chemical Films,39861
 10533,Hollywood Pictures,915
 10533,Cinergi Pictures Entertainment,1504
-56088,,
 10802,United Artists,60
 10802,Le Studio Canal+,183
 10802,Carolco Pictures,14723
@@ -1484,9 +1483,6 @@ id_original,name,id
 117730,,
 20762,Live Entertainment,285
 37144,,
-48260,Dan Films,1854
-48260,Merseyside Film Production Fund,8095
-48260,British Screen Productions,12745
 12656,Fine Line Features,8
 12656,Jersey Films,216
 38867,New Line Cinema,12
@@ -1542,7 +1538,6 @@ id_original,name,id
 20759,Atman Entertainment,54051
 20759,Fred Berner Films,89312
 46063,Touchstone Pictures,9195
-365371,,
 32513,,
 40651,Pandora Filmproduktion,254
 40651,Koninck Studios,3541
@@ -1602,7 +1597,6 @@ id_original,name,id
 55613,the Canadian Council,6697
 55613,The Canada Manitoba Cultural Industries Development Office (CIDO),6698
 55613,The Manitoba Arts Council,6700
-215107,,
 41007,Miramax Films,14
 41007,Anuline,36995
 35645,Universal Pictures,33
@@ -1682,7 +1676,6 @@ id_original,name,id
 11543,Metro-Goldwyn-Mayer (MGM),8411
 9268,Kopelson Entertainment,824
 9268,Warner Bros.,6194
-52059,,
 9327,Imagine Entertainment,23
 9327,Universal Pictures,33
 123763,GEA Cinematográfica,61085
@@ -1695,7 +1688,6 @@ id_original,name,id
 44535,Initial Productions,231
 44535,Cabin Fever Entertainment,21304
 44535,Lumière Pictures,25129
-44495,,
 78285,Films A2,875
 78285,Little Bear,16772
 11228,Universal Pictures,33
@@ -2137,8 +2129,6 @@ id_original,name,id
 819,Propaganda Films,278
 819,Warner Bros.,6194
 819,Baltimore Pictures,11407
-38191,Regency Enterprises,508
-38191,Warner Bros.,6194
 56830,First Look Pictures,13534
 11238,Walt Disney Television Animation,3475
 27256,Vic Films Productions,11707
@@ -2878,7 +2868,6 @@ id_original,name,id
 14832,Torii Production,20148
 9619,Universal Pictures,33
 9619,Pacific Western,1280
-40506,,
 31000,Columbia Pictures,5
 31000,New Line Cinema,12
 31000,Castle Rock Entertainment,97
@@ -3078,7 +3067,6 @@ id_original,name,id
 33660,Good Dog Productions LLC,5331
 33660,Utopia Pictures,5332
 33660,Zeta Entertainment,5333
-59232,Touchstone Pictures,9195
 45671,Goldwyn Films,720
 45671,Recorded Picture Company (RPC),11561
 17770,New Line Cinema,12
@@ -3149,10 +3137,6 @@ id_original,name,id
 17834,The Bubble Factory,27128
 686,Warner Bros.,6194
 686,South Side Amusement Company,43910
-65046,New South Wales Film & Television Office,418
-65046,Australian Film Finance Corporation (AFFC),8724
-65046,Film Victoria,11840
-65046,Jan Chapman Productions,14089
 4421,Caravan Pictures,175
 4421,Hollywood Pictures,915
 4421,First Independent Films,1643
@@ -3365,7 +3349,6 @@ id_original,name,id
 45609,Miramax Films,14
 38904,Bergen Film,575
 38904,First Look International,11054
-45565,,
 9407,Metro-Goldwyn-Mayer (MGM),8411
 9407,Avnet/Kerner Productions,34998
 4824,Universal Pictures,33
@@ -3691,8 +3674,6 @@ id_original,name,id
 77514,Centre National de la Cinématographie (CNC),18367
 77514,Compagnie des Films,33882
 77514,Compagnie Est-Ouest,41050
-49474,PolyGram Filmed Entertainment,1382
-49474,BBC,5996
 4415,Columbia Pictures,5
 39467,,
 55561,,
@@ -4378,7 +4359,6 @@ id_original,name,id
 16384,Warner Bros.,6194
 91217,"Geffen Company, The",4354
 91217,Warner Bros.,6194
-77314,,
 10699,Columbia Pictures,5
 11597,Twentieth Century Fox Film Corporation,306
 11597,Baltimore Pictures,11407
@@ -4692,7 +4672,6 @@ id_original,name,id
 15596,Paper Clip Productions,3089
 13818,Paramount Pictures,4
 29968,TriStar Pictures,559
-44326,Atlantic Entertainment Group,3267
 1885,Columbia Pictures Corporation,441
 1885,Jerry Weintraub Productions,2596
 1885,Delphi Films,4267
@@ -5381,9 +5360,6 @@ id_original,name,id
 10136,Paramount Pictures,4
 32060,Rastar Pictures,2070
 48686,Cannon Group,1444
-48259,De Laurentiis Entertainment Group (DEG),484
-48259,De Laurentiis,544
-48259,Crimes of the Heart S.A,62343
 873,Amblin Entertainment,56
 873,The Guber-Peters Company,4357
 873,Warner Bros.,6194
@@ -5958,7 +5934,6 @@ id_original,name,id
 961,Joseph M. Schenck Productions,13913
 73969,Mary Pickford Company,21540
 24831,New World Pictures,1950
-64963,Universal Pictures,33
 85160,American Artists,42001
 25560,Columbia Pictures,5
 21610,Universal Pictures,33
@@ -6761,7 +6736,6 @@ id_original,name,id
 9960,Two Arts Ltd.,41956
 3082,United Artists,60
 3082,Charles Chaplin Productions,1315
-49338,,
 2102,Japan America Picture Company,958
 52961,Blake Edwards,6407
 12187,Universal Pictures,33
@@ -6984,7 +6958,6 @@ id_original,name,id
 47724,,
 11129,Irish Screen,2920
 11129,Fruit Salad Films,2937
-94214,,
 117781,Doperfilme,20711
 1058,Orion Pictures,41
 1058,Breathless Associates,651
@@ -7332,7 +7305,6 @@ id_original,name,id
 47439,France 2 Cinéma,83
 47439,Les Films du Lendemain,1249
 47439,Gemini Films,6584
-207731,,
 7443,DreamWorks SKG,27
 7443,Aardman Animations,297
 7443,DreamWorks Animation,521
@@ -8105,8 +8077,6 @@ id_original,name,id
 28368,TriStar Pictures,559
 58084,,
 52780,,
-48149,Filmtre,28504
-48149,Rai 1,44406
 26156,,
 34101,,
 32054,Columbia Pictures,5
@@ -8401,14 +8371,12 @@ id_original,name,id
 13166,MBST/Lloyd Productions,51708
 32590,Redeemable Features,1483
 32590,Artisan Entertainment,2188
-109472,,
 153141,Oil Factory,6098
 153141,Filmfour,6705
 153141,British Screen Productions,12745
 153141,Sleeper Films,80550
 153141,Bozie,80551
 52654,,
-70282,,
 47643,Turbulent Arts,88839
 111,Universal Pictures,33
 32488,Warner Bros.,6194
@@ -8505,7 +8473,6 @@ id_original,name,id
 808,DreamWorks SKG,27
 808,Pacific Data Images (PDI),520
 808,DreamWorks Animation,521
-49453,,
 824,Bazmark Films,240
 824,Twentieth Century Fox Film Corporation,306
 37558,,
@@ -8642,7 +8609,6 @@ id_original,name,id
 10691,Touchstone Pictures,9195
 10691,Ufland,12548
 10615,,
-47596,,
 21488,Pyramide Productions,186
 21488,Canal+,5358
 21488,Arte France Cinéma,6916
@@ -9895,8 +9861,6 @@ id_original,name,id
 11938,Thorn EMI Screen Entertainment,6179
 43143,Tempean Films,4278
 35201,Thorn EMI Screen Entertainment,6179
-42724,British Lion Film Corporation,660
-42724,Quintra,19878
 24264,Columbia Pictures Corporation,441
 24264,Delphi II Productions,7585
 24264,Colgems Productions Ltd.,35061
@@ -10601,13 +10565,6 @@ id_original,name,id
 1282,Vans Off the Wall,795
 21220,Robert Simonds Productions,3929
 21220,Touchstone Pictures,9195
-52717,ARTE France Cinéma,94
-52717,Avventura Films,4491
-52717,Canal+,5358
-52717,Vega Film,8138
-52717,Télévision Suisse-Romande (TSR),8453
-52717,Peripheria,33266
-52717,ECM Records,33267
 69324,,
 11468,Castle Rock Entertainment,97
 11468,Darkwoods Productions,3982
@@ -10632,7 +10589,6 @@ id_original,name,id
 26725,PSO,4567
 17168,Paramount Pictures,4
 48482,Paramount Pictures,4
-56179,,
 5203,Vision P.D.G.,10235
 13201,United Artists,60
 9689,DreamWorks SKG,27
@@ -11128,7 +11084,6 @@ id_original,name,id
 18913,Martin Bregman Productions,56976
 14361,Touchwood Pacific Partners 1,8830
 14361,Touchstone Pictures,9195
-41021,Producers Releasing Corporation (PRC),16466
 18943,Touchstone Pictures,9195
 18943,Silver Screen Partners IV,10282
 32685,Touchwood Pacific Partners 1,8830
@@ -11988,7 +11943,6 @@ id_original,name,id
 12090,Twentieth Century Fox Film Corporation,306
 12090,Robert Simonds Productions,3929
 12090,Mediastream Dritte Film GmbH & Co. Beteiligungs KG,19352
-44233,mr. kirby productions,87807
 35172,Les Films Du Fleuve,1926
 35172,Archipel 35,2695
 35172,Radio Télévision Belge Francophone (RTBF),7466
@@ -12012,7 +11966,6 @@ id_original,name,id
 598,Lumiere,11444
 598,Hank Levine Film,11445
 598,Lereby Productions,11446
-99885,,
 15842,Nimbus Film,6142
 24711,Rysher Entertainment,11661
 43886,RKO Radio Pictures,6
@@ -12355,9 +12308,6 @@ id_original,name,id
 42035,Recorded Picture Company (RPC),11561
 21867,Paramount Pictures,4
 21867,Capital Equipment Leasing,15125
-49680,ARTE France Cinéma,94
-49680,Israeli Film Fund,4520
-49680,Centre National de la Cinématographie (CNC),18367
 6524,Metro-Goldwyn-Mayer (MGM),8411
 11244,Metro-Goldwyn-Mayer (MGM),8411
 11244,Tinsel Townsend,36654
@@ -12492,7 +12442,6 @@ id_original,name,id
 10735,HSI Tomorrow Film,67991
 16425,,
 25461,,
-51927,,
 12516,Warner Bros.,6194
 1675,Les Films du Carrosse,53
 1675,PECF,1650
@@ -12503,7 +12452,6 @@ id_original,name,id
 41938,Columbia Pictures Corporation,441
 79615,Island Pictures,20739
 40718,Republic Pictures,1432
-42178,Winter Gold Productions,14958
 203252,Arte,201
 203252,Portrait & Cie,15138
 6016,Fox Searchlight Pictures,43
@@ -12677,12 +12625,9 @@ id_original,name,id
 15259,Metro-Goldwyn-Mayer (MGM),8411
 15259,Golan-Globus Productions,13549
 10515,Studio Ghibli,10342
-45069,,
 117269,Cannon Films,4110
 117269,Film and Television Corporation,93636
 21024,United Artists,60
-42792,Paramount Pictures,4
-42792,Embassy Pictures,44730
 43232,Metro-Goldwyn-Mayer (MGM),8411
 43232,Sol C. Siegel Productions,14092
 22201,Wallis-Hazen,87385
@@ -12919,7 +12864,6 @@ id_original,name,id
 94996,,
 42995,Columbia Pictures Corporation,441
 42995,Geoffrey-Kate Productions,14048
-115665,,
 4708,Paramount Pictures,4
 4708,Marianne Productions,1497
 4708,Transcontinental Films,1723
@@ -12984,7 +12928,6 @@ id_original,name,id
 19753,Warner Bros.,6194
 19753,NorBud Productions,66659
 19753,Norbud Films,76320
-48451,,
 11482,Marianne Productions,1497
 70912,,
 42492,Barwood Films,3645
@@ -13381,8 +13324,6 @@ id_original,name,id
 17906,Dummy Productions LLC,21374
 17906,Quadrant Entertainment,21375
 153,American Zoetrope,70
-66111,Epic Pictures Group,7662
-66111,Azurelite Pictures,62114
 33320,Bandai Visual Company,528
 33320,Madhouse,4288
 33320,WoWow,5073
@@ -13478,7 +13419,6 @@ id_original,name,id
 20321,The Film Consortium,1218
 20321,Kismet Film Company,3753
 36791,,
-61401,,
 17614,Lama Films,15
 17614,Lama Productions,91
 17614,Israel Cable Programming (ICP),93095
@@ -13851,7 +13791,6 @@ id_original,name,id
 197563,Centre National de la Cinématographie (CNC),18367
 11846,Sandollar Productions,5842
 11846,Touchstone Pictures,9195
-50314,,
 10715,Lonely Film Productions GmbH & Co. KG.,430
 10715,Warner Bros. Animation,2785
 10715,Warner Bros.,6194
@@ -14798,9 +14737,6 @@ id_original,name,id
 10338,Twentieth Century-Fox Productions,11865
 33839,Twentieth Century Fox Film Corporation,306
 133919,Cinematograph AB,7445
-95548,Columbia Pictures Corporation,441
-95548,Solar Productions,599
-95548,Park Place Production,27756
 50549,Twentieth Century Fox Film Corporation,306
 38978,Woodfall Film Productions,1980
 92331,Five Star Entertainment,25819
@@ -14989,7 +14925,6 @@ id_original,name,id
 55086,Warner Bros.,6194
 43525,Warner Bros.,6194
 20640,Metro-Goldwyn-Mayer (MGM),8411
-50363,London Film Productions,659
 633,Film Holland,362
 633,Excelsior Films,363
 633,The Rank Organisation,364
@@ -15172,7 +15107,6 @@ id_original,name,id
 10921,Turner Network Television (TNT),5730
 10941,Babylonian Productions,2181
 10941,Turner Network Television (TNT),5730
-42204,Universal Pictures,33
 33157,Paramount Pictures,4
 33157,Dino de Laurentiis Cinematografica,1216
 33157,Mosfilm,5120
@@ -15919,9 +15853,6 @@ id_original,name,id
 36561,Felicia Film,17647
 36561,Per Holst Filmproduktion,17666
 36561,TNT Film Productions,26508
-49814,Sky Pictures,1097
-49814,Little Bird Productions,13323
-49814,Jolyon Symonds Productions Ltd.,77787
 13696,Warner Bros.,6194
 44494,Franfilmdis,11474
 44494,Argui-Film,11475
@@ -16390,7 +16321,6 @@ id_original,name,id
 13559,Allied Film Production,2770
 42694,Trimod Films,7002
 32298,,
-66566,,
 124029,Trimark Pictures,4063
 124029,Crystal Sky Worldwide,4077
 124029,Prism Entertainment Corporation,13427
@@ -16852,7 +16782,6 @@ id_original,name,id
 49640,Lone Star Production,4114
 49640,Monogram Pictures,4395
 46910,RKO Radio Pictures,6
-43689,Metro-Goldwyn-Mayer (MGM),8411
 22614,London Film Productions,659
 51949,,
 43889,Hal Roach Studios,2159
@@ -17128,7 +17057,6 @@ id_original,name,id
 15263,United Artists,60
 15263,Batjac Productions,2532
 751,Metro-Goldwyn-Mayer (MGM),8411
-42798,Paramount Pictures,4
 4025,Roxbury Productions,1545
 61892,Seven Arts Productions,516
 61892,Metro-Goldwyn-Mayer (MGM),8411
@@ -17622,7 +17550,6 @@ id_original,name,id
 92802,,
 54407,New South Wales Film Corp.,14590
 54407,Window III Productions,94301
-41243,,
 12615,Roxbury Productions,1545
 12615,Punch Productions,2154
 14029,DACFILM Rome,4746
@@ -18146,7 +18073,6 @@ id_original,name,id
 15805,DC Comics,429
 15805,Warner Bros. Animation,2785
 14439,Home Box Office (HBO),3268
-41227,,
 13428,CML Films,2751
 13428,Meridian Films,31317
 27260,,
@@ -19300,7 +19226,6 @@ id_original,name,id
 30923,NBC,1502
 30923,Hallmark Entertainment,4056
 30923,Babelsberg International Film Produktion,40650
-41851,,
 58918,Paragon Film Group,10933
 11343,Warner Bros. Television,1957
 661,Westdeutscher Rundfunk (WDR),7025
@@ -19473,7 +19398,6 @@ id_original,name,id
 34614,Film i Väst,6417
 34614,Svenska Filminstitutet (SFI),7446
 34614,"SVT Drama, Göteborg",93127
-51177,,
 16186,Lions Gate Films,35
 10012,Craven-Maddalena Films,1600
 10012,Outerbanks Entertainment,2180
@@ -19890,8 +19814,6 @@ id_original,name,id
 10065,Metro-Goldwyn-Mayer (MGM),8411
 10065,Radar Pictures,14718
 30863,Plymptoons,4660
-49920,Manifesto Films,17171
-49920,Roar Productions,17172
 31065,,
 22033,American International Pictures (AIP),9266
 37992,Universal Pictures,33
@@ -20640,7 +20562,6 @@ id_original,name,id
 15155,Andrew Lauren Productions (ALP),19194
 78734,Twentieth Century Fox Film Corporation,306
 78734,Darryl F. Zanuck Productions,13630
-51277,Paramount Pictures,4
 61675,Dan Films,1854
 61675,Euro American Films S.A.,15499
 61675,Marianna Films,42263
@@ -20874,7 +20795,6 @@ id_original,name,id
 9701,Warner Bros.,6194
 9701,Participant Media,6735
 9701,Nick Wechsler Productions,8073
-45899,Farabi Cinema Foundation,79260
 3291,2929 Productions,846
 3291,Participant Productions,2030
 3291,Warner Independent Pictures (WIP),11509
@@ -21371,7 +21291,6 @@ id_original,name,id
 36380,Agencja Produkcji Filmowej,266
 36380,Canal+ Polska,6476
 36380,Best Film,72110
-68646,,
 16433,,
 30669,Splendid Pictures,368
 30669,Davis Entertainment Filmworks,37844
@@ -21449,7 +21368,6 @@ id_original,name,id
 21519,Paragon Films Ltd.,3055
 21519,Golden Harvest Company Ltd.,6379
 27622,Metro-Goldwyn-Mayer (MGM),8411
-43626,,
 16553,Regency Enterprises,508
 16553,Epsilon Motion Pictures,1171
 16553,New Regency Pictures,10104
@@ -21622,7 +21540,6 @@ id_original,name,id
 9754,Beacon Pictures,10157
 9754,Jon Shestack Productions,10991
 36495,Paramount Pictures,4
-52612,,
 23965,,
 29269,Wilco Co.,8390
 29269,Breath,13229
@@ -22134,7 +22051,6 @@ id_original,name,id
 4474,New Regency Pictures,10104
 4474,Pariah,11733
 4474,S E Productions Inc.,89632
-43240,Universal International Pictures (UI),10330
 30022,Universal Pictures,33
 28673,Cinematografica Emmeci,4858
 20556,Apple Corps,3797
@@ -22853,7 +22769,6 @@ id_original,name,id
 1378,Fortissimo Films,1615
 1378,Process Productions,1616
 1378,Q Television,1617
-49481,,
 9693,Universal Pictures,33
 9693,Strike Entertainment,655
 9693,Hit & Run Productions,11429
@@ -23331,7 +23246,6 @@ id_original,name,id
 26594,,
 22473,Legacy Filmworks,4369
 22473,Neverwas Productions,4370
-51863,,
 50754,,
 74126,Shôchiku Eiga,5070
 16138,CN Film,3145
@@ -26087,7 +26001,6 @@ id_original,name,id
 23676,JVC Entertainment Networks,4248
 1938,RKO Radio Pictures,6
 75141,,
-42473,United Artists,60
 13993,Bandora,3600
 13993,Mr. Nice,3601
 11665,Village Roadshow Pictures,79
@@ -26298,7 +26211,6 @@ id_original,name,id
 158800,Warner Bros.,6194
 18035,Revel Entertainment,52698
 18035,Camera 40 Productions,52699
-43253,Columbia Pictures,5
 14820,Quorum Entertainment,19993
 14820,Articulus Entertainment,37724
 6687,Lietuvos Kinostudija,2064
@@ -28007,7 +27919,6 @@ id_original,name,id
 15092,Lionsgate,1632
 15092,Radical Media,11152
 51472,,
-51263,Harry Langdon Corporation,14254
 24365,Rai Cinemafiction,238
 38872,,
 95977,Warner Bros.,6194
@@ -28015,7 +27926,6 @@ id_original,name,id
 17431,Lunar Industries,3317
 17431,Xingu Films,3318
 17431,Limelight Fund,12018
-38870,,
 67849,Front Street Pictures,3958
 67849,Millennium Films,10254
 112582,,
@@ -28027,7 +27937,6 @@ id_original,name,id
 33974,Sveriges Television (SVT),3221
 33974,Film i Väst,17513
 33974,Pain Unlimited GmbH Filmproduktion,30268
-45949,,
 18320,GK Films,3281
 49571,Nikkatsu,955
 53204,,
@@ -28487,7 +28396,6 @@ id_original,name,id
 8939,Cobra Film,2572
 35404,Paramount Pictures,4
 35404,Hal Wallis Productions,3468
-91205,,
 53906,RKO Radio Pictures,6
 19079,Silverwood Films,2293
 19265,Sony Pictures Classics,58
@@ -28648,7 +28556,6 @@ id_original,name,id
 3478,Divina-Film,2013
 3478,Metro-Goldwyn-Mayer (MGM),8411
 30713,,
-54759,,
 30121,,
 64901,,
 23720,Magnolia Pictures,1030
@@ -28709,7 +28616,6 @@ id_original,name,id
 20407,120dB Films,5113
 22408,Nat Holt Productions,16331
 23286,Paul Malvern Productions,35430
-69166,,
 97995,Max Linder Productions,38162
 67967,Twentieth Century Fox Film Corporation,306
 21208,Dark Castle Entertainment,1786
@@ -29153,7 +29059,6 @@ id_original,name,id
 11323,Warner Bros.,6194
 11323,Participant Media,6735
 11323,Jaffe / Braunstein Enterprise,6822
-117531,James Cruze Productions,22158
 42762,,
 3511,Gaumont,9
 3511,Left Turn Films,1435
@@ -29448,7 +29353,6 @@ id_original,name,id
 42678,Arnold Pressburger Films,1486
 44334,The Archers,11382
 44334,Vega Film Productions,38672
-42537,Paramount Famous Lasky Corporation,33333
 16523,Village Roadshow Pictures,79
 16523,Legendary Pictures,923
 16523,Playtone,4171
@@ -29529,7 +29433,6 @@ id_original,name,id
 71041,Rizzoli Film,12778
 71041,Central Cinema Company Film (CCC),18908
 98914,Mezhrabpom-Rus,6507
-54419,Films Sonores Tobis,13707
 89681,Grupo Cine Liberación,69053
 42788,Cineriz,9387
 42788,Iride Cinematografica,54425
@@ -29583,7 +29486,6 @@ id_original,name,id
 84089,,
 31021,Studio Filmowe Perspektywa,2552
 173171,"Zespół Filmowy ""Pryzmat""",56041
-48329,National Film Board of Canada (NFB),17027
 44338,Hochschule für Bildende Künste Hamburg,68539
 44338,GHK Kassel,68540
 36577,,
@@ -30046,7 +29948,6 @@ id_original,name,id
 49687,Les Films Concordia,1714
 49687,Compagnia Cinematografica Champion,10000
 51831,,
-44808,Nu Image Films,925
 121379,Warner Bros.,6194
 41886,Common People Productions,73461
 24050,,
@@ -30292,8 +30193,6 @@ id_original,name,id
 10800,Futurikon,2613
 277622,,
 25676,Emperor Motion Pictures,2726
-44941,New Line Cinema,12
-44941,Castle Rock Entertainment,97
 25205,BIM Distribuzione,225
 25205,France 3 Cinéma,591
 25205,Oï  Oï  Oï Productions,837
@@ -30331,7 +30230,6 @@ id_original,name,id
 15930,Nimbus Film Productions,11672
 65642,Cinéas,10650
 86303,j.j. films,87589
-63771,,
 52229,Warner Bros.,6194
 2395,Constantin Film,47
 2395,TF1 Films Productions,356
@@ -30505,7 +30403,6 @@ id_original,name,id
 98246,,
 33630,RKO Radio Pictures,6
 51675,,
-281287,,
 33602,Ruby Films,2054
 33602,HBO Films,7429
 12169,StudioCanal,694
@@ -30868,12 +30765,6 @@ id_original,name,id
 31867,Stuber Productions,4403
 31867,Dentsu,6452
 31867,Relativity Media,7295
-42451,Canadian Film Development Corporation (CFDC),4952
-42451,Astral Bellevue Pathé,10313
-42451,Famous Players,36555
-42451,International Cinemedia Center,44142
-42451,United Welco,94813
-42451,Duddy Kravitz Syndicate,94814
 43138,Metro-Goldwyn-Mayer (MGM),8411
 43138,Avon Productions (II),13999
 4933,Paramount Pictures,4
@@ -30985,7 +30876,6 @@ id_original,name,id
 34769,Darius Films,5486
 34769,Insight Film Releasing,64753
 39830,Zipline Entertainment,5791
-132744,Spark Media,10081
 161179,,
 35939,BBC Films,288
 35939,UK Film Council,2452
@@ -32285,9 +32175,6 @@ id_original,name,id
 37581,RKO Radio Pictures,6
 84701,U.S. Army Pictorial Services,39492
 32196,RKO Radio Pictures,6
-42495,Royal Shakespeare Company,5845
-42495,Laterna Film,24737
-42495,Athena Film A/S,51549
 95597,New Yorker Films,5448
 55562,Pro-ject Filmproduktion,1448
 55562,Filmové Studio Barrandov,1931
@@ -32535,7 +32422,6 @@ id_original,name,id
 34145,Mondex Films,1772
 34145,Les Films Odéon,5424
 40911,,
-54720,GR Films,87902
 43923,Focus Features,10146
 5719,Eve Productions,24108
 71575,IndiePix Studios,8509
@@ -32544,7 +32430,6 @@ id_original,name,id
 159186,,
 2754,,
 166204,NCA Productions,26449
-40970,,
 161710,Jesse L. Lasky Feature Play Company,29749
 38842,Paramount Pictures,4
 38842,Oxymoron Entertainment,12357
@@ -32787,7 +32672,6 @@ id_original,name,id
 32540,The Lost Tribe,5212
 74896,Motion Pictures International,16316
 44890,Twentieth Century Fox Film Corporation,306
-44823,,
 39514,DC Comics,429
 39514,Di Bonaventura Pictures,435
 39514,Summit Entertainment,491
@@ -32823,9 +32707,6 @@ id_original,name,id
 13548,Worldwide Media Group,25711
 13548,Tau Productions,25712
 21431,,
-25073,Enso Entertainment,4373
-25073,Films In Motion,11279
-25073,KRU Studios,15205
 155445,Bayerischer Rundfunk,162
 155445,ARD/Degeto Film GmbH,6187
 20700,Major Independents,4366
@@ -32898,7 +32779,6 @@ id_original,name,id
 79743,,
 53792,Universal Pictures,33
 67232,,
-44076,Hedayat Film,23698
 48015,Eyeline Productions,10929
 35957,Metro-Goldwyn-Mayer (MGM),8411
 51241,Téléfilm Canada,806
@@ -33018,7 +32898,6 @@ id_original,name,id
 41123,Thermidor Filmproduktion,36432
 44442,Alfama Films,3061
 48466,DreamWorks Animation,521
-47065,,
 38325,Koktebel Film Company,7157
 103894,,
 48000,,
@@ -33225,8 +33104,6 @@ id_original,name,id
 37234,Prescience Film Fund,2422
 37234,UK Film Council,2452
 42483,Paramount Pictures,4
-42561,Ambush Entertainment,14406
-42561,Ghost Robot,51071
 42046,,
 52320,Pandora Filmproduktion,254
 52320,Bulbul Films,4227
@@ -34036,8 +33913,6 @@ id_original,name,id
 85550,ARTE France Cinéma,94
 85550,Centre National de la Cinématographie (CNC),18367
 85550,Eonwonsa,94846
-116751,Agat Films & Cie,6519
-116751,La Sept-Arte,11332
 72852,Arte France Cinéma,6916
 72852,3B Productions,7184
 72852,C.R.R.A.V. Nord Pas de Calais,11433
@@ -34313,7 +34188,6 @@ id_original,name,id
 14903,Walt Disney Studios Home Entertainment,3202
 60290,StudioCanal,694
 60221,,
-54793,,
 144792,Fox Film Corporation,5488
 53230,Metro-Goldwyn-Mayer (MGM),8411
 53230,An Erich von Stroheim Production,33995
@@ -34425,7 +34299,6 @@ id_original,name,id
 77078,Sascha-Film,11874
 77078,Elliott Kastner Productions,14391
 77078,S&T-Film Berlin,61546
-103751,,
 46146,Filmkameratene A/S,1003
 46146,Film Fund FUZZ,5241
 46146,SF Norge A/S,56050
@@ -34434,7 +34307,6 @@ id_original,name,id
 38684,BBC Films,288
 38684,Ruby Films,2054
 84303,Metro-Goldwyn-Mayer (MGM),8411
-442417,,
 333590,,
 81751,International Pictures,3257
 193547,Metro-Goldwyn-Mayer (MGM),8411
@@ -34456,9 +34328,6 @@ id_original,name,id
 57409,Metaphor Films,7134
 2010,Celluloid Dreams,860
 2010,Visual Arts College,861
-47215,The Film Company,4674
-47215,Medias Res Filmproduktion,10883
-47215,Istisnai Filmler ve Reklamlar (IFR),75317
 45715,,
 58232,UK Film Council,2452
 58232,Prescience,6901
@@ -34489,7 +34358,6 @@ id_original,name,id
 16179,New Artists Alliance,5124
 16179,Imagination Worldwide,25789
 153041,,
-85769,Greek Film Center,78626
 211331,Alliance Communications Corporation,2480
 211331,Canadian Film or Video Production Tax Credit (CPTC),8582
 45046,Baltimore Pictures,11407
@@ -34497,7 +34365,6 @@ id_original,name,id
 13413,Pixar Animation Studios,3
 159878,,
 95242,Khanzhonkov,24060
-81414,,
 45189,Posa Films,65192
 43418,New South Wales Film & Television Office,418
 43418,Pacific Film and Television Commission,4024
@@ -34646,7 +34513,6 @@ id_original,name,id
 86750,Allan King Associates,56398
 46523,Comedy Central,1538
 46523,Eyeworks,6461
-367647,,
 30388,Solar Films inc.,6339
 30388,The Icelandic Filmcompany,21445
 30388,Film and Music Entertainment (F&ME),21446
@@ -35236,7 +35102,6 @@ id_original,name,id
 21616,,
 45658,Birdsong Pictures,7436
 45658,IM Global,7437
-127818,Red Line Studios,10430
 41827,Fidelity Films,55267
 41827,Rumleyvision,55268
 41827,ScreenProjex,55269
@@ -35273,7 +35138,6 @@ id_original,name,id
 185579,Sovkino,410
 29877,Fox Film Corporation,5488
 37523,Yerli Film,73983
-44104,,
 13137,,
 56231,Euro International Films,1110
 47171,,
@@ -35398,7 +35262,6 @@ id_original,name,id
 42150,Gaumont,9
 42150,Iterfilm,77942
 289010,Provobis Film,31149
-366044,,
 147846,Paramount Pictures,4
 27358,4321 Productions,8463
 22907,Rainforest Films,1309
@@ -35418,7 +35281,6 @@ id_original,name,id
 126517,Shochiku Company,4641
 126517,Shochiku Kinema (Kamata),10652
 12513,,
-73884,,
 32893,,
 60302,Lookout Films,21100
 60302,StoneBrook Entertainment,22375
@@ -35465,7 +35327,6 @@ id_original,name,id
 29577,Twentieth Century Fox Film Corporation,306
 83989,Fox Film Corporation,5488
 24792,,
-36663,,
 44990,,
 26699,Warner Bros.,6194
 26699,The Vitaphone Corporation,9329
@@ -35493,7 +35354,6 @@ id_original,name,id
 98060,22 Dicembre,12660
 98060,Sezione cinema Edisonvolta,35149
 63297,,
-68200,,
 94725,SVS Films,22836
 95482,,
 67236,Haut et Court,726
@@ -35674,7 +35534,6 @@ id_original,name,id
 43935,platinum studios,7218
 43935,Long Distance Films,7219
 12446,Diaphana Films,744
-80210,,
 17086,Quinta Communications,6370
 17086,Rotholz Pictures,54016
 50544,Castle Rock Entertainment,97
@@ -35686,7 +35545,6 @@ id_original,name,id
 51735,Multichoice Hellas-Nova,33154
 51735,Classic,33155
 51735,Lichtmeer Film GmbH,33156
-47116,,
 107246,United Artists,60
 50072,Columbia Pictures,5
 68412,Caruso / Mendelsohn Productions,64857
@@ -35919,7 +35777,6 @@ id_original,name,id
 111960,Gainsborough Pictures,1221
 111960,Sydney Box Productions,13580
 42692,Europa Film,1763
-64964,Inforg Stúdió,74700
 46998,,
 46261,Miramax Films,14
 46261,Gran Via Productions,2605
@@ -36004,8 +35861,6 @@ id_original,name,id
 50023,Tax Credit Finance,3782
 51588,Walt Disney Pictures,2
 51588,Rickshaw Productions,2201
-57211,A&E IndieFilms,7315
-57211,Phoenix Wiley,7316
 11388,Initiate Productions,7080
 16335,experiences films,3128
 16335,Minds Eye Entertainment,8583
@@ -36039,7 +35894,6 @@ id_original,name,id
 17236,Tig Productions,335
 17236,All the Way Round,3274
 17236,Beacon Classics,54517
-48199,,
 60784,,
 73358,Heyday Films,7364
 73358,British Broadcasting Corporation (BBC),15278
@@ -36369,7 +36223,6 @@ id_original,name,id
 100784,Canal+,5358
 100784,Centre National de la Cinématographie (CNC),18367
 100784,Goskino,25606
-41822,,
 45590,,
 103590,Gruzia-Film,15326
 55863,Paramount Pictures,4
@@ -36451,8 +36304,6 @@ id_original,name,id
 85365,Mondial Televisione Film,10523
 11383,,
 28858,,
-43981,Green Film House,93112
-43981,Amoon,93113
 80115,,
 24566,,
 125553,Cassel Productions,22995
@@ -36526,7 +36377,6 @@ id_original,name,id
 53344,Damage Case Films & Distribution,95306
 59437,First Point Entertainment,7424
 59437,Braeburn Entertainment,7425
-70875,,
 76543,WarpX,3829
 76543,Inflammable Films,7975
 75969,Wiedemann & Berg Filmproduktion,336
@@ -36678,7 +36528,6 @@ id_original,name,id
 139467,"Zespól Filmowy ""Tor""",7984
 139467,Film Polski,12838
 139467,Polish Corporation for Film Production,47534
-344741,,
 32909,Starlight International Media,5233
 47273,,
 45610,Mpower Pictures,5294
@@ -36770,7 +36619,6 @@ id_original,name,id
 65229,Hold Up Films,7980
 65229,Lilies Films,43649
 25656,,
-64347,,
 6360,Fidélité Productions,147
 6360,Wild Bunch,856
 6360,Virtual Films,2366
@@ -36792,7 +36640,6 @@ id_original,name,id
 44826,Paramount Pictures,4
 44826,Infinitum Nihil,2691
 44826,GK Films,3281
-50875,,
 70578,Nu Image Films,925
 70578,Winkler Films,8880
 70578,Millennium Films,10254
@@ -36802,7 +36649,6 @@ id_original,name,id
 36142,Film It,76035
 109435,Feature Productions,13914
 109435,"Samuel Goldwyn Company, The",28205
-56489,,
 263600,,
 37958,Virgin Produced,8852
 37958,Mark Canton Productions,11761
@@ -36833,7 +36679,6 @@ id_original,name,id
 51994,UK Film Council,2452
 51994,Film4,9349
 51994,Camberwell / Fly Films,37676
-47099,,
 121462,Shin Films,43979
 51248,Canonigo Films,7660
 51248,Black Flag,9968
@@ -36848,7 +36693,6 @@ id_original,name,id
 17495,Pathé!,35461
 80607,Warner Bros.,6194
 61985,Paul Malvern Productions,35430
-53328,Falco,6606
 65831,,
 72875,Canonigo Films,7660
 72875,Produzione Straordinaria,7661
@@ -36903,9 +36747,6 @@ id_original,name,id
 50619,Temple Hill Entertainment,12292
 50619,TSBD Louisiana,58321
 50619,TSBD Productions,58322
-65002,Bioskop-Film GmbH,403
-65002,Argosy Pictures,1281
-65002,Artemis Film,1521
 107327,Cinema Center 100 Productions,5661
 107327,Cinecrest,38909
 64983,,
@@ -36943,7 +36784,6 @@ id_original,name,id
 79120,The Bureau,10441
 79120,Glendale Picture Company,10442
 79120,Synchronicity Films,10443
-46770,,
 22165,,
 84473,Les Films ABC,9384
 83233,V.O. Filmes,23722
@@ -37291,7 +37131,6 @@ id_original,name,id
 118955,Darryl F. Zanuck Productions,13630
 72997,Cosmopolitan Productions,1442
 72997,Metro-Goldwyn-Mayer (MGM),8411
-82698,,
 73939,,
 13247,"Jim Henson Company, The",6254
 50393,DreamWorks Animation,521
@@ -37357,7 +37196,6 @@ id_original,name,id
 39072,Pierpoline Films,5749
 15346,,
 78182,Non-Stop Productions,5630
-257608,,
 81527,Société Française de Production (SFP),6849
 81527,Bord Cadre Films,7970
 81527,Mandragora,13407
@@ -37738,7 +37576,6 @@ id_original,name,id
 29483,Doll Australia,22528
 29483,New Town Films Pty. Ltd.,22529
 88491,Passenger Film Studio,23343
-404471,,
 79362,,
 53174,barefoot films,1989
 53174,Béla Jarzyk Production,6737
@@ -38265,11 +38102,6 @@ id_original,name,id
 91292,,
 109979,,
 73211,MACT Productions,393
-40720,Gaumont,9
-40720,Original Media,2292
-40720,Artina Films,2394
-40720,Radar Pictures,14718
-40720,Hannover House,66335
 60405,Princessa Productions,57609
 60405,Borden & Rosenbush Entertainment,88987
 86455,,
@@ -38610,7 +38442,6 @@ id_original,name,id
 37000,Rhône-Alpes Cinéma,1666
 37000,Arte France Cinéma,6916
 37000,Mandrake Films,56575
-54484,,
 60592,,
 109379,Boyana Film,15567
 109379,Sofiya,74743
@@ -38913,7 +38744,6 @@ id_original,name,id
 73567,ANA Media,21817
 73567,Picture Perfect (I),37833
 172214,,
-82877,National Geographic,7521
 44251,Toei Animation,5542
 50388,Kadokawa Pictures,2073
 19575,Unified Pictures,13238
@@ -39123,7 +38953,6 @@ id_original,name,id
 208579,Cinema Artists,14070
 97088,Universum Film (UFA),12372
 265579,,
-36859,,
 75680,,
 458428,Video Flims,90595
 458428,Vaco Moloco,90596
@@ -39155,7 +38984,6 @@ id_original,name,id
 121210,Radio Télévision Suisse (RTS),20663
 121210,Media Programme of the European Community,21972
 121210,O'Brother Distribution,22005
-118013,,
 109513,Primate Pictures,10424
 109513,Kim and Jim Productions,10425
 109513,Panay Films,10426
@@ -39220,7 +39048,6 @@ id_original,name,id
 48034,M6 Films,1115
 48034,Les Productions du Trésor,2612
 48034,EuropaCorp,6896
-110491,,
 79694,StudioCanal,694
 79694,Dark Castle Entertainment,1786
 79694,Warner Bros.,6194
@@ -39335,7 +39162,6 @@ id_original,name,id
 24421,Rifkin-Eberts,4307
 82510,,
 117408,RAI Radiotelevisione Italiana,20091
-61854,,
 96973,Red Om Films,2455
 96973,Reliance BIG Entertainment,6733
 96973,Hopscotch Pictures,51954
@@ -39624,7 +39450,6 @@ id_original,name,id
 110336,Carmel Productions,5695
 110336,American International Pictures (AIP),9266
 91250,,
-131671,,
 262243,Top Hat Productions,20629
 537,Angoa-Agicoa,309
 537,Centre National de la Cinématographie,310
@@ -39632,7 +39457,6 @@ id_original,name,id
 537,TS Productions,313
 537,Uni Etoile 2,314
 84180,,
-47405,Maipo,6212
 135547,,
 90125,Shangri-La Entertainment,2265
 62214,Tim Burton Productions,8601
@@ -39711,7 +39535,6 @@ id_original,name,id
 84306,BCDF Pictures,10290
 40075,Filmirage,6082
 80059,,
-39779,Ross Hunter Productions Inc.,1830
 340543,,
 86726,,
 116463,Active Entertainment,10345
@@ -39896,7 +39719,6 @@ id_original,name,id
 128158,Studio 37,2577
 128158,The Film,3921
 128158,Razor Film Produktion,17932
-43761,,
 82684,Fox 2000 Pictures,711
 82684,Walden Media,10221
 117266,,
@@ -39953,7 +39775,6 @@ id_original,name,id
 47878,Lorimar Productions,898
 47878,Northstar International,21541
 27058,,
-1997-08-20,,
 82693,The Weinstein Company,308
 87502,Paramount Pictures,4
 87502,Parkes/MacDonald Productions,11084
@@ -40005,7 +39826,6 @@ id_original,name,id
 133458,Filmpool Nord,228
 133458,Sonet Film,1929
 133458,Svensk Filmindustri (SF),6181
-138122,,
 84308,,
 35683,3rd Street Pictures,58204
 35683,Third Street Pictures,58205
@@ -40426,7 +40246,6 @@ id_original,name,id
 34280,Les Films Ariane,7110
 34280,Produzioni Europee Associati (PEA),7508
 146405,Hallmark,15108
-397339,,
 76349,Variance Films,15071
 45682,,
 10275,,
@@ -40594,7 +40413,6 @@ id_original,name,id
 27116,Geiselgasteig Film,6394
 27116,Gloria Films,6941
 27116,Barnabe,82532
-43895,,
 77875,Evil Twins,5802
 77875,Eclectic pictures,8056
 77875,Millennium Films,10254
@@ -40713,7 +40531,6 @@ id_original,name,id
 50177,Mandeville,7918
 50177,Sheldon Reynolds Productions,7919
 47953,,
-154792,,
 63171,Singing Trees Entertainment,15540
 95511,Epix,6805
 95511,Chop Shop Entertainment,7361
@@ -40721,7 +40538,6 @@ id_original,name,id
 22379,,
 115400,ITVS,10943
 115400,C. Scott Films,56436
-130736,teamWorx Produktion für Kino und Fernsehen GmbH,1479
 24446,,
 44244,Walt Disney Television,670
 44244,Alan Sacks Productions,39016
@@ -40815,7 +40631,6 @@ id_original,name,id
 122044,Gunslinger,7352
 122044,IM Global,7437
 122044,RDT Productions,22322
-139909,,
 33303,,
 4910,Excalibur Films,1808
 20513,Desert Skye Entertainment,3827
@@ -40898,7 +40713,6 @@ id_original,name,id
 82682,Langley Park Production,8057
 147405,,
 22066,Marshville Productions,4038
-46016,,
 26467,,
 46500,New Horizon Picture Corp.,6086
 87496,Wildwood Enterprises,316
@@ -41086,7 +40900,6 @@ id_original,name,id
 71768,Columbia Pictures Corporation,441
 62403,,
 68178,Tessalit Production,8050
-367678,,
 84328,40 Acres & A Mule Filmworks,4319
 70753,Pickford Film,38097
 53861,Caramel Films,6623
@@ -41137,7 +40950,6 @@ id_original,name,id
 118557,Vsesoyuznyj Gosudarstvennyj Institut Kinematografii (VGIK),13880
 288151,,
 83125,,
-76686,,
 117974,Big Talk Productions,443
 117974,StudioCanal,694
 117974,British Film Institute (BFI),7281
@@ -41519,7 +41331,6 @@ id_original,name,id
 170657,Chinavision Media Group,22840
 156937,,
 14591,,
-56744,,
 28090,Overseas FilmGroup,888
 28090,Medusa Pictures,68248
 28090,The Movie House Sales Company,80297
@@ -41531,9 +41342,6 @@ id_original,name,id
 159480,,
 24479,,
 203329,,
-67556,Cocinor,512
-67556,C.A.P.A.C.,14074
-67556,Copra Films,34033
 90228,C.A.P.A.C.,14074
 143796,CAPAC,1122
 143796,Les Films de la Colombe,2390
@@ -41677,7 +41485,6 @@ id_original,name,id
 122081,O' Salvation,26676
 122081,Iconoclast,78780
 30198,,
-62301,,
 81225,Nikolaus Geyrhalter Filmproduktion,2744
 126186,,
 144789,El Deseo S.A.,11736
@@ -41723,7 +41530,6 @@ id_original,name,id
 134806,Rosemont Productions International,63813
 134806,Zeke Productions,89425
 23524,,
-116059,,
 68047,,
 84316,,
 84199,Destination Films,769
@@ -41839,7 +41645,6 @@ id_original,name,id
 91694,Nippon Television Network Corporation (NTV),6755
 91694,Capcom Company,14788
 91694,D.N. Dream Partners,14789
-54356,,
 14607,,
 148034,Centar Film,15165
 25516,Filmkraft Productions Pvt. Ltd,82128
@@ -41879,9 +41684,6 @@ id_original,name,id
 81619,Loteria Films,10976
 81619,Picturebox,10977
 81619,Motto Pictures,10978
-40798,mark edwards robert production,6654
-40798,spirit lake pictures,6656
-40798,Americano LLC,85690
 85449,The Film,3921
 158231,,
 57993,Paramount Pictures,4
@@ -42346,8 +42148,6 @@ id_original,name,id
 28424,Constellation Entertainment,14941
 137182,Topkapi Films,24845
 137182,Menuet Producties,24846
-118931,Mont Blanc Pictures,40383
-118931,KOO-KI,40384
 121725,Sochiku,5904
 100493,,
 121986,Scott Rudin Productions,258
@@ -42362,7 +42162,6 @@ id_original,name,id
 18146,Lakeside Productions,8476
 70757,ARTE,5766
 70757,Norddeutscher Rundfunk (NDR),7201
-94841,,
 119675,Jerry Weintraub Productions,2596
 119675,HBO Films,7429
 128873,Union Générale Cinématographique (UGC),7248
@@ -42657,13 +42456,6 @@ id_original,name,id
 159154,Universal Pictures International (UPI),5726
 159154,Jigsaw,30132
 159154,Global Produce,30133
-127373,Image Entertainment,3086
-127373,120dB Films,5113
-127373,10th Hole Productions,6691
-127373,Dreambridge Films,14037
-127373,Red Crown Productions,16945
-127373,Weinstock Productions,16946
-127373,KODA Entertainment,16947
 31221,,
 185562,X-Filme Creative Pool,1972
 185562,CC Medien Filmproduktion,16940
@@ -42724,7 +42516,6 @@ id_original,name,id
 139329,Hunan Broadcasting System,78137
 139329,Anhui Broadcasting Corp.,78138
 139329,Beijing TV Station,78139
-93649,,
 136418,Lionsgate,1632
 167726,Tre Vänner Produktion AB,11792
 86410,,
@@ -43033,7 +42824,6 @@ id_original,name,id
 65435,,
 27957,Creavidi,5145
 27957,Fida Film,42712
-83566,,
 173938,Tiny Goat,13438
 138308,Columbia Pictures,5
 138308,Romson Productions,5039
@@ -43291,7 +43081,6 @@ id_original,name,id
 152748,Primary Productions,14635
 152748,Evolution Independent,14636
 152748,Lagniappe Films,14637
-133108,,
 200063,,
 49542,,
 35895,Ladd Enterprises,14031
@@ -43500,7 +43289,6 @@ id_original,name,id
 158884,Oscilloscope Laboratories,4748
 89623,MK Pictures,4685
 89623,Myung Films,21415
-127451,,
 134756,Full Moon Entertainment,4867
 27651,Full Moon Entertainment,4867
 126321,Pyramide Productions,58749
@@ -43554,7 +43342,6 @@ id_original,name,id
 28735,New World Pictures,1950
 103902,New Holland Pictures,10229
 103902,IDTV Film,12022
-115199,,
 146233,Alcon Entertainment,1088
 146233,Madhouse Entertainment,12199
 146233,8:38 Productions,18208
@@ -43600,7 +43387,6 @@ id_original,name,id
 38807,RKO Radio Pictures,6
 41349,Paramount Pictures,4
 106599,Anker Productions Inc.,14901
-103713,,
 180314,,
 133701,Blender Foundation,6908
 34188,PolarStar Entertainment,21161
@@ -43738,7 +43524,6 @@ id_original,name,id
 23385,Independent,10583
 15810,,
 128135,Allfilm,6154
-455027,,
 157820,SCOPE Invest,2250
 157820,Brio Films,11107
 157820,Scope Pictures,11199
@@ -43787,7 +43572,6 @@ id_original,name,id
 172828,Duplass Brothers Productions,1974
 172828,New Artists Alliance,5124
 172828,Floren Shieh Productions,19761
-75757,,
 86049,,
 154413,,
 30244,,
@@ -43928,7 +43712,6 @@ id_original,name,id
 47369,,
 75735,"Asylum, The",3991
 55539,Cinema Group,5093
-128917,,
 106747,Open Road Films,10427
 106747,Overnight Films,10808
 106747,AR Films,11005
@@ -44130,7 +43913,6 @@ id_original,name,id
 40221,Cannon Group,1444
 40221,Vision Pictures,11481
 50441,,
-82627,,
 103195,,
 19594,Twentieth Century Fox Film Corporation,306
 19594,Fox Animation Studios,11231
@@ -44207,7 +43989,6 @@ id_original,name,id
 73500,"Showcase Entertainment, Inc.",21448
 73500,Luminair Film Productions,37509
 73500,Hawaii Film Partners,37510
-250503,,
 194101,British Film Institute (BFI),7281
 194101,Film4,9349
 194101,Moonspun Films,34527
@@ -44233,7 +44014,6 @@ id_original,name,id
 193212,Turner Pictures (I),6189
 193212,Stan Margolies Company,48105
 16242,,
-91325,,
 144613,Warner Bros.,6194
 156566,Paramount Pictures,4
 265727,Mirovision,5748
@@ -44307,11 +44087,9 @@ id_original,name,id
 191421,Enlight Pictures,4053
 243860,Arca-Filmproduktion GmbH,20803
 225703,Louisiana Production Consultants,23898
-49914,,
 124581,,
 110674,Columbia Pictures Corporation,441
 110674,Rorvic Productions,19913
-173433,,
 198365,,
 84324,Metro-Goldwyn-Mayer (MGM),8411
 84324,Tom Ward Enterprises,10879
@@ -44612,7 +44390,6 @@ id_original,name,id
 35637,GigaPix Studios,85329
 35637,Paper and Pen Films,93607
 264113,TLA Releasing,328
-86817,,
 184314,Canal Plus,104
 184314,FOZ,149
 184314,Mars Films,819
@@ -45001,7 +44778,6 @@ id_original,name,id
 252385,,
 209504,Kickstart Productions,2526
 209504,Just Chorizo Productions,15705
-53500,,
 240629,,
 195269,WWE Studios,10339
 35718,,
@@ -45013,7 +44789,6 @@ id_original,name,id
 159024,Worldview Entertainment,9015
 84152,Full Moon Entertainment,4867
 66469,,
-44432,,
 227348,Blumhouse Productions,3172
 227348,Room 101,6302
 227348,Solana Films,21223
@@ -45038,7 +44813,6 @@ id_original,name,id
 257618,Hersua Interfilms,74997
 31013,Columbia TriStar Home Video,20873
 31013,Creature Features Productions LLC,23188
-41932,,
 54229,,
 83678,,
 15826,Zentropa Entertainments,76
@@ -45717,7 +45491,6 @@ id_original,name,id
 172120,,
 232731,Asylum,6306
 117426,,
-158517,,
 31445,RKO Radio Pictures,6
 31445,Academy Productions,18870
 81699,Metro-Goldwyn-Mayer (MGM),8411
@@ -46055,7 +45828,6 @@ id_original,name,id
 20695,K%2FW Productions,3820
 20695,Phoenix Film Partnership No. 2,3821
 20695,Blessed Film Company,3822
-74579,,
 82703,Pacific Data Images (PDI),520
 82703,DreamWorks Animation,521
 82703,Classic Media Productions,73951
@@ -46086,7 +45858,6 @@ id_original,name,id
 177494,WARNER BROS DIGITAL DISTRIBUTION,38656
 177494,In The Groove,95406
 40346,,
-45514,,
 109404,,
 68827,Gaumont,9
 182827,Little More Co.,14145
@@ -46140,7 +45911,6 @@ id_original,name,id
 236737,Kowalski Films,13287
 118915,Paramount Pictures,4
 118915,Otto Preminger Films,3266
-116760,Crown International Pictures,1009
 39293,The Rank Organisation,364
 39293,Metro-Goldwyn-Mayer (MGM),8411
 101242,,
@@ -46150,7 +45920,6 @@ id_original,name,id
 55825,,
 72962,Pixar Animation Studios,3
 186971,Les Films d'Ici,1848
-199740,,
 214250,Umbrella Entertainment,54874
 86133,Artists Entertainment Complex,612
 46460,United Artists,60
@@ -46456,7 +46225,6 @@ id_original,name,id
 46667,Walt Disney Production,6470
 90590,Saber Productions,14148
 77528,Black Fawn Films,9315
-44369,,
 39214,Edward Small Productions,13479
 35057,Metro-Goldwyn-Mayer,21
 67633,Beograd Film,28221
@@ -47187,7 +46955,6 @@ id_original,name,id
 227700,Vertical Entertainment,88606
 83406,,
 208182,,
-228028,Kim and Jim Productions,10425
 126676,Agat Films & Cie,6519
 114574,The Asylum,1311
 187017,Columbia Pictures,5
@@ -47415,7 +47182,6 @@ id_original,name,id
 29126,Columbia Pictures Corporation,441
 99647,Omega Micott Inc.,5284
 99647,Blue Production Partnership,60718
-108636,,
 114838,Warner Bros.,6194
 267999,Proton Cinema,17173
 267999,Filmpartners,20692
@@ -47441,7 +47207,6 @@ id_original,name,id
 250766,CNN Films,29605
 88059,Marianna Films,42263
 88059,FS Film,86863
-49445,,
 250705,,
 159090,Dharma Productions,19146
 257974,JLG Films,22811
@@ -47509,7 +47274,6 @@ id_original,name,id
 253235,Castle Rock Entertainment,97
 253235,Envision Entertainment,31832
 253235,ASIG Productions,32245
-259233,,
 227877,Gearshift Films,18178
 254143,,
 44588,Studio Canal,5870
@@ -47657,8 +47421,6 @@ id_original,name,id
 136616,Desert Flower Filmproduktion,53975
 136616,MTM West Television & Film,70636
 29313,CITA Films,4929
-191293,Nordisk Film Production,14757
-191293,Nordisk Filmproduktion,17463
 162372,,
 215848,,
 109913,Columbia Pictures Corporation,441
@@ -47874,7 +47636,6 @@ id_original,name,id
 53544,,
 59701,Monogram Pictures,4395
 210739,,
-54487,,
 81543,,
 143295,,
 42825,Metro-Goldwyn-Mayer,21
@@ -47888,7 +47649,6 @@ id_original,name,id
 124069,,
 64129,Twentieth Century Fox Film Corporation,306
 30057,,
-57868,Tomorrow Entertainment Inc.,1925
 42796,Bischoff-Diamond Corporation,15856
 146428,,
 25032,Nikola Film,13205
@@ -48108,7 +47868,6 @@ id_original,name,id
 174314,,
 40218,British Lion Film Corporation,660
 40218,Amicus Productions,4630
-173300,,
 116569,,
 147106,Columbia Pictures,5
 147106,Stanley Kramer Productions,893
@@ -48133,7 +47892,6 @@ id_original,name,id
 57277,,
 107146,,
 52686,Toei Doga,3685
-124295,Студия ТриТэ,11401
 47860,zootrope,6232
 238561,Ventana Film- und Fernsehproduktion,57317
 238561,Proaction Film,57318
@@ -48285,7 +48043,6 @@ id_original,name,id
 264767,,
 285026,,
 29835,Metro-Goldwyn-Mayer (MGM),8411
-287831,,
 276843,BBC Films,288
 276843,Lionsgate,1632
 26750,,
@@ -48435,7 +48192,6 @@ id_original,name,id
 246403,Demarest Films,13241
 246403,SModcast Pictures,13642
 246403,A24,41077
-42416,,
 37630,Negativ s.r.o.,6106
 37630,HBO Česká republika,6107
 37630,Media Plus,6108
@@ -48619,7 +48375,6 @@ id_original,name,id
 146381,Constantin Film,47
 108648,,
 273641,MTV Films,746
-54113,,
 169883,Metro-Goldwyn-Mayer (MGM),8411
 34658,Gar Bo Films Company,39255
 62967,,
@@ -48773,7 +48528,6 @@ id_original,name,id
 115214,New Chapter Productions,69825
 245844,Lemming Film,2345
 245844,Motlys,2783
-118658,,
 292445,,
 224946,Imagos Films,43386
 74790,,
@@ -48814,7 +48568,6 @@ id_original,name,id
 242512,5150 Action,47354
 242512,White Noise Factory,88762
 273997,Australian Broadcasting Corporation,1253
-250578,Ridley Scott Associates,15826
 274127,,
 15021,Telecinco,1182
 15021,Estudios Picasso,2029
@@ -48920,7 +48673,6 @@ id_original,name,id
 38890,Twentieth Century Fox Film Corporation,306
 38890,Laurel and Hardy Feature Productions,19339
 84944,Junior-Filmi,77683
-71098,Twentieth Century Fox Film Corporation,306
 87060,Ealing Studios,2650
 63140,,
 268272,,
@@ -49205,7 +48957,6 @@ id_original,name,id
 59101,Photoplay Productions,8918
 85518,Andrew L. Stone Productions,14828
 292498,Metro-Goldwyn-Mayer (MGM),8411
-63787,,
 71034,,
 91580,Cinema Corporation of America,21180
 91580,Smoking Gun Productions,21181
@@ -49290,7 +49041,6 @@ id_original,name,id
 156317,First National Pictures,3245
 156317,The Vitaphone Corporation,9329
 145762,Instituto Cubano del Arte e Industrias Cinematográficos (ICAIC),5175
-127375,,
 299313,,
 148326,,
 222772,,
@@ -49433,9 +49183,6 @@ id_original,name,id
 85162,Concorde Pictures,4527
 85162,Pacific Trust,7833
 78522,Crown International Pictures,1009
-65214,Twisted Twins Productions,24899
-65214,IndustryWorks Pictures,24901
-65214,FortyFPS Productions,93305
 64075,Universal Pictures,33
 38460,Twentieth Century Fox Film Corporation,306
 56929,Frame Of Mind Entertainment,6757
@@ -50366,7 +50113,6 @@ id_original,name,id
 99261,Produzioni Atlas Consorziate (P.A.C.),4745
 46570,Splendid Film,8146
 46570,PAC,12767
-124207,,
 89652,European Inc.,83486
 42438,,
 99361,,
@@ -50539,7 +50285,6 @@ id_original,name,id
 252171,Say Ahh Productions,51193
 252171,Logan Pictures,51194
 30174,Alliance Vivafilm,5023
-280218,Go Films,13313
 182528,,
 20147,,
 34505,,
@@ -50585,8 +50330,6 @@ id_original,name,id
 94818,Anchor Bay,8135
 162755,,
 223243,National Film Board of Canada (NFB),17027
-51406,Office national du film du Canada (ONF),11745
-51406,National Film Board of Canada (NFB),17027
 214948,National Film Board of Canada,10473
 218658,National Film Board of Canada,10473
 211017,National Film Board of Canada,10473
@@ -50784,8 +50527,6 @@ id_original,name,id
 11612,Les Productions Fox Europa,1602
 11612,Tritone Cinematografica,1818
 11612,Mundial Film,7863
-114285,Haddock Films S.R.L.,5623
-114285,Tornasol Films,7680
 82676,,
 52228,Warner Bros.,6194
 52228,The Vitaphone Corporation,9329
@@ -51075,7 +50816,6 @@ id_original,name,id
 240881,Aberration Films,5617
 274478,,
 56539,American International Pictures (AIP),9266
-106136,eleven-55 Films,66209
 49391,Ealing Studios,2650
 49391,Lionhead Studios,29193
 162059,Warner Bros.,6194
@@ -51312,14 +51052,6 @@ id_original,name,id
 255456,,
 43477,,
 261768,Avenue Picture,33674
-199925,Celluloid Dreams,860
-199925,Dentsu,6452
-199925,Sedic International,7912
-199925,TOEI Company,29716
-199925,Oriental Light and Magic (OLM),66289
-199925,Kinoshita Group,73025
-199925,Kôsuke,73026
-199925,Shanghai Pengjin Entertainment Co.,73027
 211710,,
 267872,"Motion Picture Group, The",5200
 38187,,
@@ -51621,7 +51353,6 @@ id_original,name,id
 113237,Louis de Rochemont Associates,63912
 23178,Navarone Productions,4191
 23178,New World Television,4608
-86131,,
 61550,,
 15671,Hughes Capital Entertainment,9075
 174594,Fine Arts Film Company,36191
@@ -51824,7 +51555,6 @@ id_original,name,id
 55190,,
 37462,Columbia Pictures Corporation,441
 117004,Metro-Goldwyn-Mayer (MGM),8411
-79327,,
 133716,,
 146449,First National Pictures,3245
 220504,,
@@ -52211,7 +51941,6 @@ id_original,name,id
 218443,CTB Film Company,318
 79190,Bron Studios,13240
 79190,American World Pictures (AWP),39698
-78094,South Australian Film Corporation,2806
 56146,David L. Loew-Albert Lewin,17139
 66812,Les Films Jean Renoir,70359
 1790,King Brothers Productions,3760
@@ -52345,21 +52074,10 @@ id_original,name,id
 99861,Marvel Studios,420
 99861,Prime Focus,15357
 99861,Revolution Sun Studios,76043
-76600,Twentieth Century Fox Film Corporation,306
-76600,Lightstorm Entertainment,574
-76600,River Road Entertainment,1246
-76600,TSG Entertainment,22213
 166426,Walt Disney Pictures,2
 166426,Jerry Bruckheimer Films,130
 166426,Infinitum Nihil,2691
 166426,Moving Picture Company (MPC),20478
-141052,DC Comics,429
-141052,Kennedy Miller Productions,2537
-141052,Lin Pictures,2723
-141052,Warner Bros.,6194
-141052,DC Entertainment,9993
-141052,RatPac-Dune Entertainment,41624
-141052,Cruel and Unusual Films,78685
 102899,Marvel Studios,420
 166424,Twentieth Century Fox Film Corporation,306
 166424,Marv Films,5374
@@ -52373,8 +52091,6 @@ id_original,name,id
 293660,The Donners' Company,11307
 293660,TSG Entertainment,22213
 293660,Kinberg Genre,78091
-284053,Walt Disney Pictures,2
-284053,Marvel Studios,420
 283995,Walt Disney Pictures,2
 283995,Marvel Studios,420
 271110,Studio Babelsberg,264
@@ -52609,7 +52325,6 @@ id_original,name,id
 226672,China Film Group,5635
 226672,Midsummer Films,22705
 226672,Ripken Productions,58546
-44507,,
 47536,Paramount Pictures,4
 47536,Metro-Goldwyn-Mayer,21
 47536,West Film,4241
@@ -52835,8 +52550,6 @@ id_original,name,id
 13699,Film Roman Productions,2017
 137491,Taurus 7 Film Corporation,4345
 29817,Charles Band Productions,1295
-43603,Productions Arys,61259
-43603,Les Films H. Roussillon,61260
 194880,Del Duca Films,4949
 194880,Régie du Film,37178
 66968,Hoche Productions,1737
@@ -53129,7 +52842,6 @@ id_original,name,id
 167198,,
 173488,Spark Pictures,79901
 173488,Ignite Channel,79903
-106446,,
 90291,Black & Blue Films,23418
 208434,Metro-Goldwyn-Mayer (MGM),8411
 160254,Columbia Pictures,5
@@ -53185,8 +52897,6 @@ id_original,name,id
 63612,Fernando Trueba Producciones Cinematográficas S.A.,11424
 98398,RKO Radio Pictures,6
 90807,Stanley Kramer Productions,893
-102256,Njutafilms,14802
-102256,Jämtfilm,27826
 87820,,
 129553,William Goetz Productions,3473
 149955,Metro-Goldwyn-Mayer (MGM),8411
@@ -53493,7 +53203,6 @@ id_original,name,id
 92635,,
 71511,Black walk Productions,5759
 71511,Defiant Empire,22270
-46869,,
 75012,Paramount Pictures Corporation,7047
 37123,Twentieth Century Fox Film Corporation,306
 37123,Angel Productions,4079
@@ -53596,7 +53305,6 @@ id_original,name,id
 61237,Atlántida Films,10453
 38346,Monogram Pictures,4395
 38346,Banner Productions,14040
-54288,Continental Films,13705
 33272,,
 92798,Columbia Pictures Corporation,441
 166085,Eurimages,850
@@ -53733,7 +53441,6 @@ id_original,name,id
 24251,,
 261144,,
 195617,,
-76162,,
 209209,,
 37556,,
 205818,Periscope Entertainment,4917
@@ -53812,7 +53519,6 @@ id_original,name,id
 53178,Columbia Pictures,5
 53178,Walt Disney Productions,3166
 53543,,
-104062,,
 93904,,
 36003,,
 190352,Hal Roach Studios,2159
@@ -53888,7 +53594,6 @@ id_original,name,id
 44349,,
 201859,,
 33489,,
-54052,RSVP Productions,4381
 63180,Roadshow Attractions,53027
 105114,Produzioni Cinematografiche Romane (P.C.R.),66693
 260884,,
@@ -54119,7 +53824,6 @@ id_original,name,id
 293461,Common Ground Pictures,33384
 293461,Illume Oy,33385
 12575,Studio Hamburg Letterbox Filmproduktion,2538
-41571,,
 317384,Arte France,6111
 317384,CNC,6962
 317384,3B Productions,7184
@@ -54209,7 +53913,6 @@ id_original,name,id
 1875,Fair Film,1399
 1875,Gaumont International,7961
 50401,Universal Pictures,33
-60769,,
 92,,
 20875,Mosfilm,5120
 100246,Vitagraph Company of America,15634
@@ -54365,7 +54068,6 @@ id_original,name,id
 308369,Indian Paintbrush,9350
 308024,Duplass Brothers Productions,1974
 308024,Gettin' Rad Productions,63631
-308027,Beachside Films,56403
 294132,Burn Later Productions,18346
 294132,Houston King Productions,66044
 308640,,
@@ -54803,7 +54505,6 @@ id_original,name,id
 138394,,
 261814,Eagle Rock Entertainment,8273
 261814,Banger Films,66911
-82649,,
 238792,,
 270045,,
 36769,Filmituotanto Spede Pasanen,59996
@@ -54821,7 +54522,6 @@ id_original,name,id
 106622,,
 106623,,
 196847,P.A.C.,1124
-90802,,
 69569,P.A.C.,1124
 69569,Atlas International Film,4938
 52912,Flora Film,1501
@@ -55109,11 +54809,9 @@ id_original,name,id
 142979,Cinematografica RI.RE,85676
 163333,,
 65718,,
-44541,,
 131507,,
 213831,,
 105403,,
-127092,,
 66178,,
 206296,Lucky Monkey Pictures,11093
 206296,Sh-K-Boom Records,15353
@@ -55204,7 +54902,6 @@ id_original,name,id
 134656,Aquarius Films,13786
 134656,Blue-Tongue Films,32299
 42153,Pelemele Film,39613
-42081,,
 83209,,
 70322,Daiei Studios,881
 15567,Walt Disney Television Animation,3475
@@ -55409,7 +55106,6 @@ id_original,name,id
 104935,Top-Film,12730
 90015,Hesperia Films S.A.,4780
 90015,EPIC,15410
-41934,,
 204090,Dauntless Productions,1981
 204090,Topar,48818
 125472,,
@@ -55476,11 +55172,9 @@ id_original,name,id
 115972,Hammer Film Productions,1314
 28771,Tyburn Film Productions Limited,4865
 201124,Artista-Filmi,5181
-40419,,
 13643,Cable Stuff Productions,2789
 65534,Gaumont,9
 70989,,
-59163,Gaumont,9
 38017,J&M Entertainment,12474
 54064,Pyramide Productions,186
 54064,France 3 Cinéma,591
@@ -55503,7 +55197,6 @@ id_original,name,id
 233863,,
 69517,Adel Productions,1713
 160874,,
-220620,Sony Pictures,34
 290764,Temple Hill Entertainment,12292
 290764,Senator Film,36614
 290764,Freerunning,41648
@@ -55772,11 +55465,7 @@ id_original,name,id
 297850,,
 32941,Hammer Film Productions,1314
 32941,Lippert Films,5681
-76794,,
 179715,Greek Film Center,7254
-48719,United Artists,60
-48719,De Laurentiis Entertainment Group (DEG),484
-48719,Crescent Moon,77613
 40681,,
 71507,Belladonna Productions,2341
 65506,Republic Pictures (I),14317
@@ -55844,7 +55533,6 @@ id_original,name,id
 47467,Bass Entertainment Pictures,9320
 221488,BBC Films,288
 221488,Arthur Cox,46579
-69999,,
 121830,Olympus Pictures,7400
 121830,Eyeworks Film,7608
 121830,Daydream Productions,36148
@@ -55880,7 +55568,6 @@ id_original,name,id
 31347,Kodansha,6999
 31347,Amber Film Works,20202
 31347,Shelty,20206
-71591,,
 40261,Elis Cinematografica,92066
 264321,,
 102938,United Artists,60
@@ -55920,7 +55607,6 @@ id_original,name,id
 322378,Mexiko Media,39906
 322378,Thelma/Louise Produktion AB,95028
 272634,RMV Film,46798
-100205,,
 271674,Qwerty Films,892
 271674,Alliance Films,2514
 271674,Canal+,5358
@@ -56249,8 +55935,6 @@ id_original,name,id
 322518,Darius Films,5486
 161064,,
 305091,Madman Entertainment,21592
-130100,United Artists,60
-130100,Robert Goldstein Productions,5266
 53915,Rai Cinemafiction,238
 53915,Fandango,2441
 53915,Mikado Film,11912
@@ -56315,7 +55999,6 @@ id_original,name,id
 71191,Europa Corp,1075
 15713,Mars Distribution,2908
 10659,,
-96872,,
 48411,Sidus Pictures,4983
 1615,,
 1616,,
@@ -56347,7 +56030,6 @@ id_original,name,id
 258751,TeleMadrid,10015
 258751,Garra Producciones [ve],65604
 208982,,
-56771,,
 254578,Schramm Film Koerner & Weber,138
 254578,Arte,201
 254578,Tempus,2717
@@ -56395,9 +56077,6 @@ id_original,name,id
 9274,H&V Entertainment,30634
 285213,Lotte Entertainment,7819
 32099,Artista-Filmi,5181
-286971,Killer Films,1422
-286971,Big Indie Pictures,6831
-286971,Scion Films,7419
 47745,,
 332079,RKO Radio Pictures,6
 290864,Emperor Motion Pictures,2726
@@ -56570,7 +56249,6 @@ id_original,name,id
 142216,,
 117509,,
 46578,,
-62545,,
 177354,,
 27200,,
 12601,,
@@ -56775,7 +56453,6 @@ id_original,name,id
 37582,Aardvark Films,6052
 37582,Broadbank Investments,12821
 322460,Herman Cohen Productions,14093
-107525,,
 255157,Code Entertainment,14589
 255157,Solution Entertainment Group,33768
 255157,Freedom Media,33769
@@ -56921,9 +56598,6 @@ id_original,name,id
 281180,Warner Bros.,6194
 134693,Orofino,11384
 46915,Granada Television,14063
-42495,Royal Shakespeare Company,5845
-42495,Laterna Film,24737
-42495,Athena Film A/S,51549
 91472,United Artists,60
 91472,Robert L. Jacks Productions,11974
 52212,,
@@ -57008,7 +56682,6 @@ id_original,name,id
 55044,Acrobat Productions,2992
 85644,Paramount Pictures,4
 85644,William Castle Productions,10324
-84511,Universal Pictures,33
 144498,Rastar Films,1177
 290865,,
 75989,Sandrews,1728
@@ -57130,7 +56803,6 @@ id_original,name,id
 73529,GoHands,7759
 73529,BROSTA TV,7760
 73529,Mardock Scramble Production Committee,7761
-2012-09-29,,
 50794,,
 111771,,
 262009,Allfilm,6154
@@ -57149,7 +56821,6 @@ id_original,name,id
 250349,Studio Canal,5870
 250349,Cinéfrance 1888,31229
 50113,,
-108309,,
 261860,,
 312793,Splendid Film,8146
 192712,Distant Horizons,1066
@@ -57203,8 +56874,6 @@ id_original,name,id
 52702,Carolco Entertainment,10320
 52702,Panaria,17954
 204686,Metro-Goldwyn-Mayer (MGM),8411
-134608,Cinemagic Inc.,13757
-134608,M.D. Producciones Cinematográficas,40780
 170315,Magla Productions,5347
 309889,Safady Entertainment,11961
 309889,The Culling Productions,55737
@@ -57726,7 +57395,6 @@ id_original,name,id
 305088,Beijing Starlit Movie and TV Culture,38995
 245846,Worldview Entertainment,9015
 31139,Mosfilm,5120
-123969,,
 42279,Mosfilm,5120
 191608,,
 78478,Studio 37,2577
@@ -58064,7 +57732,6 @@ id_original,name,id
 261419,Allegro-Film,404
 198312,,
 21297,,
-46406,,
 21175,Excel Entertainment,2934
 21567,Mukta Searchlight Films,3979
 51216,,
@@ -58163,7 +57830,6 @@ id_original,name,id
 26861,Scheherazade,4612
 229702,Johnson Production Group,5225
 58611,Faso Film,5051
-43211,C.G. Silver Film,18283
 38262,Cinecittà,1042
 38262,Alexandra Film,6392
 38262,C.G. Silver Film,18283
@@ -58174,7 +57840,6 @@ id_original,name,id
 57918,Gruppo Bema,6126
 43646,,
 173177,Cecchi Gori Group,5891
-43648,,
 61303,,
 43649,,
 75001,,
@@ -58208,10 +57873,8 @@ id_original,name,id
 268100,Migdal Filmes,54386
 280276,iProductions,29922
 280276,FauxPop Media,29923
-86700,,
 222936,Scott Rudin Productions,258
 222936,Vinyl Films,485
-44486,,
 39309,,
 132551,Hrvatska Radiotelevizija (HRT),20915
 132551,Telefilm,46112
@@ -58464,7 +58127,6 @@ id_original,name,id
 192028,Candescent Films,10029
 154793,Voices of America,21098
 154793,Rickshaw Films,21099
-87851,,
 39060,Miles Productions,63782
 5302,Management Company Entertainment Group (MCEG),8821
 107052,,
@@ -58500,7 +58162,6 @@ id_original,name,id
 186630,Fair Film,1399
 186630,Clemente Lococo,14097
 81871,,
-61911,,
 221527,,
 99916,,
 63687,,
@@ -58528,18 +58189,12 @@ id_original,name,id
 272878,Reel Chefs Catering,83397
 257344,Columbia Pictures,5
 257344,Happy Madison Productions,2608
-283489,Summit Entertainment,491
-283489,Lionsgate,1632
 262504,Summit Entertainment,491
 262504,Lionsgate,1632
 262504,Mandeville Films,10227
 262504,Red Wagon Entertainment,14440
 259316,Heyday films,437
 259316,Warner Bros.,6194
-38700,Columbia Pictures,5
-38700,Sony Pictures,34
-38700,Jerry Bruckheimer Films,130
-38700,Platinum Dunes,2481
 270919,StudioCanal,694
 270919,Les Productions du Trésor,2612
 270919,Chi-Fou-Mi Productions,34780
@@ -58662,7 +58317,6 @@ id_original,name,id
 76112,Head Gear Films,5056
 76112,Creative Scotland,8087
 220782,,
-128121,,
 113284,,
 220731,Arte,201
 220731,Arte France,6111
@@ -58683,7 +58337,6 @@ id_original,name,id
 85739,Rai Cinema,2683
 85739,Babe Films,3366
 85739,Cattleya,10102
-319188,Ruthless Pictures,17840
 57011,Nikkatsu,955
 57011,North CKY,24728
 18839,Kôkaku Kidôtai Seisaku Iinkai,5504
@@ -58735,8 +58388,6 @@ id_original,name,id
 238615,Ram Bergman Productions,11092
 321068,Arrowstorm Entertainment,14787
 321068,Camera 40 Productions,52699
-245842,Paramount Pictures,4
-245842,Good Universe,17393
 78338,,
 212934,NBC Studios,7928
 212934,Nomadic Pictures,12467
@@ -58763,8 +58414,6 @@ id_original,name,id
 297761,Atlas Entertainment,507
 297761,Warner Bros.,6194
 297761,DC Entertainment,9993
-335676,Vantis Pictures,79055
-335676,Calanda Pictures,79056
 44511,,
 300900,The Asylum,1311
 21840,Panorama,4016
@@ -58869,7 +58518,6 @@ id_original,name,id
 45004,,
 58545,Produzioni De Laurentiis International Manufacturing Company,21640
 56366,,
-201913,,
 220153,New Wave Entertainment,2953
 341176,New Wave Entertainment Television,21206
 251028,New Wave Entertainment Television,21206
@@ -59011,7 +58659,6 @@ id_original,name,id
 40793,,
 42685,National General Production Inc.,56890
 63887,,
-172457,Álvaro Agustín,63716
 227690,Coral Producciones Cinematográficas,21641
 227690,Rafael Gil Álvarez,84484
 264085,T-Series,3522
@@ -59397,8 +59044,6 @@ id_original,name,id
 162320,Les Films de la Pléiade,745
 44461,,
 38811,Ultramar Films,511
-49097,PWSTiF,69329
-49112,Lodz Film School,69328
 227679,Universal Pictures,33
 227679,Toho,5897
 227679,Metro-Goldwyn-Mayer (MGM),8411
@@ -59588,7 +59233,6 @@ id_original,name,id
 158503,,
 334449,,
 315417,,
-91527,,
 109515,,
 249677,Zee Talkies,47335
 263314,,
@@ -59663,7 +59307,6 @@ id_original,name,id
 168361,Robert Greenwald Productions,8589
 279692,,
 29597,Cut Above Productions,21889
-71687,,
 4645,Bavaria Film,1704
 52653,Exxodus Pictures,42681
 287793,,
@@ -59776,7 +59419,6 @@ id_original,name,id
 74666,Transfax Film Productions,26629
 74666,Keshet Broadcasting,33245
 73329,,
-250376,,
 143144,,
 37413,United Artists,60
 37413,Edward Small Productions,13479
@@ -59821,7 +59463,6 @@ id_original,name,id
 234555,,
 209248,,
 44647,,
-213648,,
 240154,Broad Appeal Productions,18450
 285024,,
 284729,,
@@ -59876,7 +59517,6 @@ id_original,name,id
 39408,Universal International Pictures (UI),10330
 251671,,
 102016,,
-45302,,
 86326,,
 124042,Lifetime Movie Network,19625
 124042,Michele Brustin Productions,24365
@@ -60174,7 +59814,6 @@ id_original,name,id
 133738,,
 41950,Vestron Pictures,12360
 41950,Martel Media,21175
-297173,,
 212752,Cinemanovel Films,38118
 77852,,
 12638,Rocket Pictures,28320
@@ -60215,9 +59854,6 @@ id_original,name,id
 300671,Bay Films,6734
 300671,Latina Pictures,19108
 300671,Dune Films,19477
-324670,Mid Atlantic Films,2735
-324670,NetFlix,8858
-324670,Legendary Entertainment,84419
 273169,Fidélité Films,2927
 74645,,
 134679,,
@@ -60280,7 +59916,6 @@ id_original,name,id
 73869,Fandango,2441
 73869,Rai Cinema,2683
 46128,,
-57713,,
 77944,Colorado Film Production,10975
 77944,Film Commission Regione Valle d'Aosta,32837
 58518,Fandango,2441
@@ -60397,7 +60032,6 @@ id_original,name,id
 57110,,
 58714,Cattleya,10102
 62349,,
-84739,,
 42675,Filmauro,4753
 42675,Ministero per i Beni e le Attività Culturali (MiBAC),29223
 56994,Rai Cinema,2683
@@ -60448,9 +60082,7 @@ id_original,name,id
 301748,Magna Global Entertainment,29646
 301748,Verdi Productions,37765
 82115,,
-89847,,
 273084,,
-128625,,
 191094,,
 38162,Millennium Films,10254
 38162,Nu Image / Millennium Films,25473
@@ -60533,7 +60165,6 @@ id_original,name,id
 166161,Odyssee Pictures,14217
 211528,Gateway Films,7353
 211528,Atlas Independent,18239
-40012,,
 82136,,
 238358,,
 226792,,
@@ -60664,7 +60295,6 @@ id_original,name,id
 61638,Gaumont,9
 77939,Dacia Films,21740
 55853,,
-44508,cineBLAST! Productions,58491
 103753,Jeonwonsa Film,17387
 214699,Universal,6292
 214699,Unitel Classics,10706
@@ -60682,12 +60312,9 @@ id_original,name,id
 54734,Triple Threat Productions,8753
 54743,,
 54744,,
-54731,,
 54685,Red Line Films,18866
 54746,,
 54677,,
-54692,NBA Entertainment,4396
-54692,ESPN films,18595
 54694,,
 142161,,
 149255,,
@@ -60994,7 +60621,6 @@ id_original,name,id
 197297,Dadaş Film,14656
 257249,KTF Films,48441
 342052,,
-108497,,
 244776,Tandem Pictures,38956
 244776,4 1/2 Film,38957
 339065,,
@@ -61033,7 +60659,6 @@ id_original,name,id
 117168,"Gamekeepers Taverns, Lodges and Inns",59182
 280459,Beautiful Lie Pictures,59195
 57479,Hallmark Hall of Fame Productions,9027
-76477,Hallmark Hall of Fame Productions,9027
 52044,,
 115451,Big Biting Pig Productions,39174
 326262,Second Feature Productions,48548
@@ -61084,8 +60709,6 @@ id_original,name,id
 312131,Ironwood Gang Productions,41542
 109695,,
 348857,,
-67362,Timbergrove Entertainment,59483
-67362,Chaillot Films,59484
 262987,,
 162954,Shochiku Kinema (Kamata),10652
 38812,Joseph M. Schenck Production,5711
@@ -61176,7 +60799,6 @@ id_original,name,id
 270842,Beijing EE-Media Co.,5687
 270842,Beijing Forbidden City Film Co.,11415
 317720,Tropicfilm,43900
-306758,,
 272875,Bona International Film Group,8250
 320132,Shaw Brothers,5798
 320132,Media Asia Group,11083
@@ -61320,7 +60942,6 @@ id_original,name,id
 27412,American Independent Productions,4701
 27412,Camp Video,16932
 27412,Savage Cinema,16933
-209413,,
 104242,Babylone Films,64379
 140208,TLA Releasing,328
 210923,Mrinal Sen Productions,80041
@@ -61364,7 +60985,6 @@ id_original,name,id
 145312,Nomadic Pictures,12467
 145312,ITV Studios America,21040
 145312,Annuit Coeptis Entertainment Inc.,21041
-49672,,
 192911,Mattel Playground Productions,33365
 102831,,
 238925,,
@@ -61390,8 +61010,6 @@ id_original,name,id
 170455,Ordinary Road Productions,60221
 210274,,
 47292,,
-284258,Clinica Estetico,1274
-284258,MK2 Productions,9209
 86332,,
 277546,Paper Street Films,7372
 277546,Back Lot Pictures,7374
@@ -61570,7 +61188,6 @@ id_original,name,id
 23331,,
 105073,Colony Pictures,10588
 225958,Universal International Pictures (UI),10330
-39015,Paramount Pictures,4
 85827,Universal Pictures,33
 85827,Robert B. Radnitz Productions,13026
 56067,Walt Disney Pictures,2
@@ -61639,8 +61256,6 @@ id_original,name,id
 155685,Twentieth Century Fox Film Corporation,306
 155685,Robert E. Kent Productions,11735
 107427,Universal Pictures International (UPI),5726
-105687,Corona Filmproduktion,1795
-105687,Filmalpha,75289
 276155,Lux Film,1679
 15531,Mosaic Media Group,748
 15531,Mad Chance,1757
@@ -61834,9 +61449,6 @@ id_original,name,id
 268917,Wrecking Crew,26403
 268917,Polyvinyl Records,78846
 268917,Shrine,78847
-347035,BBC Films,288
-347035,Harbour Pictures,2512
-347035,British Film Company,41115
 262782,Fraiha Produções,65300
 262782,ASC Audiovisual,65301
 258034,Los Güeros Films,16291
@@ -62088,7 +61700,6 @@ id_original,name,id
 21836,Empire Motion Pictures,5569
 21836,Morphius Film,21576
 206461,Nikkatsu,955
-49978,,
 42132,,
 318922,Altitude Film Entertainment,19638
 318922,AI-Film,51860
@@ -62142,8 +61753,6 @@ id_original,name,id
 290316,Centre National de la Cinématographie (CNC),18367
 290316,Soficinéma 9,78966
 290316,Région Bourgogne,81541
-336655,Abbout Productions,2567
-336655,Les Films du Tambour,51609
 295111,Hugo Films S.A.,23740
 260313,Irusoin,10054
 260313,Moriarti Produkzioak,28790
@@ -62186,7 +61795,6 @@ id_original,name,id
 204342,T-Joy,17228
 91973,"ZDF ""Das Kleine Fernsehspiel""",1928
 91973,Zweites Deutsches Fernsehen (ZDF),4606
-293828,,
 20947,Maksim Gorki Studio,4605
 347096,Arrowstorm Entertainment,14787
 208242,,
@@ -62277,7 +61885,6 @@ id_original,name,id
 50715,,
 115616,Producers Representative Organization,10740
 146949,,
-91691,,
 323272,Provident Films,3291
 323272,Affirm Films,10156
 323272,Kendrick Brothers Productions,69411
@@ -62311,7 +61918,6 @@ id_original,name,id
 353879,UTV Motion Pictures,2320
 353879,Nadiadwala Grandson Entertainment,60536
 328714,Taechang Productions,20393
-324266,,
 253253,,
 301629,Andrea Sperling Productions,2313
 301629,Lakeview Productions,10347
@@ -62440,7 +62046,6 @@ id_original,name,id
 326441,Hillin Entertainment,64948
 273261,Thunder Perfect Mind,39359
 333344,Horsethief Pictures,6352
-242462,,
 356216,Carnaby International,4098
 356216,Saracen Films,32475
 356216,Torn Pictures,62102
@@ -62986,7 +62591,6 @@ id_original,name,id
 43551,RKO Radio Pictures,6
 18557,Stewart and Wall Entertainment,56492
 103066,,
-72850,,
 43481,20th Century Fox Television,1556
 43481,Patchett Kaufman Entertainment,4963
 55612,Miso Film,5123
@@ -63104,10 +62708,6 @@ id_original,name,id
 298721,Asia Culture Centre-Asian Arts Theatre,76905
 322614,Lanzadera Films,45436
 322614,BiraBiro Films,45437
-336805,Les Films du Nouveau Monde,20219
-336805,Ali'n Productions,58725
-336805,New District,79321
-336805,Barney Production,79322
 341077,Industrial Development Corporation of South Africa,564
 341077,Altitude Film Entertainment,19638
 341077,Creativity Capital,31787
@@ -63136,7 +62736,6 @@ id_original,name,id
 20361,Les Films Copernic,1740
 20361,Loisirs du Monde,3757
 295314,Dharamsala,6937
-337730,Fin Août Productions,942
 95807,TNT Originals,25929
 95807,Head First Productions,48782
 95807,Howard Braunstein Films,63939
@@ -63263,7 +62862,6 @@ id_original,name,id
 45722,Orgon Films,29269
 253112,Paramount Pictures,4
 49954,,
-123691,,
 346401,BBC Worldwide France,56580
 207273,Chiller Films,12671
 207273,Synthetic Cinema International,23761
@@ -63312,7 +62910,6 @@ id_original,name,id
 3145,EMI Films,8263
 46581,Argos Films,6116
 31927,,
-136146,Quality Filmed Entertainment,40245
 157161,,
 36550,,
 339530,Universal 1440 Entertainment,17009
@@ -63406,14 +63003,6 @@ id_original,name,id
 297762,Cruel & Unusual Films,9995
 297762,TENCENT PICTURES,81620
 297762,Wanda Pictures,83838
-47934,,
-252983,Rainmaker Entertainment,2213
-252983,Cinema Management Group,25032
-252983,Blockade Entertainment,30786
-252983,Sony Computer Entertainment,30794
-302349,27 Films Production,9282
-302349,Potemkino,31279
-302349,Iron sky universe,78095
 340488,ARTE France Cinéma,94
 340488,Canana Films,1719
 340488,Benaroya Pictures,6692
@@ -63447,7 +63036,6 @@ id_original,name,id
 296098,Participant Media,6735
 296098,Reliance Entertainment,7294
 296098,TSG Entertainment,22213
-353616,,
 158675,,
 171759,Kaos Entertainment,72408
 71374,General Productions Inc.,87014
@@ -63580,7 +63168,6 @@ id_original,name,id
 323792,JWright Productions,69620
 359471,Status Media & Entertainment,35396
 359471,Puppy Entertainment,63430
-248633,Class of 85,19249
 258665,Sahara One Motion Pictures,1842
 258665,Wardour Media Group,70937
 258665,Rising Star Entertainment,70938
@@ -63654,7 +63241,6 @@ id_original,name,id
 158848,,
 197754,,
 267428,M-80 Films,33263
-41809,,
 360339,Ombra Films,23513
 360339,Perlapartment Pictures,63628
 360339,Gobsmack,63629
@@ -63814,7 +63400,6 @@ id_original,name,id
 61656,,
 58106,TF1 International,7799
 58106,Reel One Entertainment,15645
-44848,,
 175005,Paramount Pictures,4
 20381,,
 97108,,
@@ -63993,7 +63578,6 @@ id_original,name,id
 18060,Sil-Metropole Organisation,5686
 210966,Beijing Gallop Horse Film & TV Production,15866
 210966,Chang Ying Group,15867
-77504,,
 32229,Art Port,15509
 32162,,
 71620,Lotte Entertainment,7819
@@ -64111,7 +63695,6 @@ id_original,name,id
 75931,,
 124294,CJ Entertainment,7036
 284063,9ers Entertainment,41527
-70131,,
 16313,GMM Tai Hub (GTH),5369
 68252,,
 32272,Mirovision,5748
@@ -64329,8 +63912,6 @@ id_original,name,id
 319993,HI Film Productions,8698
 319993,Klas Film,70098
 319993,Endorfilm,80500
-51935,Delux Productions,1472
-51935,Elsani Film,1761
 64551,RKO Radio Pictures,6
 128848,Fipco Productions,92032
 128848,Etoile Productions,92033
@@ -64435,9 +64016,6 @@ id_original,name,id
 293646,Phoenix Pictures,11317
 293646,Fabula,24459
 293646,Half Circle,60255
-314400,Rai Cinema,2683
-314400,IBC Movie,46111
-314400,Kavac Film,63459
 334991,WoWow,5073
 334991,Comme des Cinémas,7003
 334991,Amuse,14602
@@ -64505,7 +64083,6 @@ id_original,name,id
 53689,Kulturtuben,16270
 314462,,
 77241,,
-52183,,
 239534,,
 236317,TMC,5076
 171160,,
@@ -64686,10 +64263,6 @@ id_original,name,id
 238781,Alexandre Films,2926
 247720,Mt. Philo Films,19171
 20323,,
-60278,Capitol Films,826
-60278,Nicetop Independent Ltd,5923
-60278,Hakuhodo,32441
-60278,Media Suits,37084
 352157,Fidélité Films,2927
 111170,,
 17038,,
@@ -64855,7 +64428,6 @@ id_original,name,id
 41955,,
 38362,,
 68192,,
-263823,,
 139579,Mosfilm,5120
 56007,Nu Image Films,925
 279543,Mosfilm,5120
@@ -64898,7 +64470,6 @@ id_original,name,id
 254725,Everest Entertainment,10892
 304134,Select Media Holdings- Moving Pictures,27621
 252431,,
-100783,,
 114564,,
 224714,,
 337456,RK Entertainment,52120
@@ -64929,7 +64500,6 @@ id_original,name,id
 21462,Krsna Films Unit,64785
 62803,,
 54256,Rajvi Pictures,64776
-122895,Ramsay Productions,9259
 188719,,
 96112,,
 96159,,
@@ -65105,7 +64675,6 @@ id_original,name,id
 53554,Zentropa Entertainments,76
 53554,Memfis Film,321
 53554,Northern Lights,6431
-262113,,
 88126,Spede-Tuotanto Oy,90752
 89604,Studio Produkcyjne Orka (Koprodukcja),74602
 89604,Polski Instytut Sztuki Filmowej (współfinansowanie),74691
@@ -65120,7 +64689,6 @@ id_original,name,id
 44282,Brainjaus Producciones,20840
 339342,,
 359070,,
-366763,,
 86413,,
 85262,RKO Radio Pictures,6
 66013,Shaw Brothers,5798
@@ -65754,7 +65322,6 @@ id_original,name,id
 52255,,
 353285,,
 237960,,
-323679,,
 257088,Studio Babelsberg,264
 257088,Alcon Entertainment,1088
 257088,DMG Entertainment,10289
@@ -65866,7 +65433,6 @@ id_original,name,id
 292177,Hasbro Studios,22826
 349158,DHX Media,7225
 349158,Hasbro Studios,22826
-171277,,
 369165,,
 105098,Cinegai S.p.A.,2508
 158079,Fida cinematografica,73
@@ -66008,8 +65574,6 @@ id_original,name,id
 353257,,
 302666,Indy Entertainment,41945
 246594,"Asylum, The",3991
-340275,40 Acres & A Mule Filmworks,4319
-340275,Amazon Studios,20580
 197599,Neil Breen,69387
 10124,,
 221801,,
@@ -66060,7 +65624,6 @@ id_original,name,id
 301816,Ice Cap Pictures Inc,37773
 338438,Romana Film,8500
 338438,Société Nouvelle de Cinématographie (SNC),16670
-107100,,
 81409,Uneurop Film,95315
 74082,Fox Europa Produktion,51
 74082,Italian International Film,1429
@@ -66300,10 +65863,6 @@ id_original,name,id
 270646,Arte France Cinéma,6916
 270646,Pie Films,24662
 157239,,
-52776,Sil-Metropole Organisation,5686
-52776,Shaw Brothers,5798
-52776,United Filmmakers Organization (UFO),7796
-52776,Television Broadcasts Limited (TVB),79261
 29960,Hammer Film Productions,1314
 357681,First Movie Companie,62423
 259694,New Line Cinema,12
@@ -66372,7 +65931,6 @@ id_original,name,id
 360551,,
 359460,CJ Entertainment,7036
 69985,Patagonik Film Group,7100
-268854,,
 312993,Item 7,7177
 52116,Boje Buck Produktion,230
 52116,Zweites Deutsches Fernsehen (ZDF),4606
@@ -66392,8 +65950,6 @@ id_original,name,id
 373541,Nevermore Films,70420
 373541,Atlantic & Pacific Pictures,70421
 373541,Cafe Oscuro Films,70422
-252028,Fobic Films,11208
-252028,Vlaamse Radio en Televisie (VRT),12025
 299585,Unity Pictures Group,30085
 36771,,
 55254,,
@@ -66434,8 +65990,6 @@ id_original,name,id
 63011,,
 63160,,
 20363,,
-83728,RabbitBandini Productions,8924
-83728,Made In Film-Land,18440
 55534,Hallmark Entertainment,4056
 55534,Canadian Film or Video Production Tax Credit (CPTC),8582
 55534,Province of British Columbia Production Services Tax Credit,12200
@@ -66785,7 +66339,6 @@ id_original,name,id
 172767,"Asylum, The",3991
 172767,Indy Entertainment,41945
 89145,Monogram Pictures,4395
-2014-01-01,,
 151911,United Artists,60
 151911,Walter Wanger Productions,10096
 163890,,
@@ -66889,9 +66442,7 @@ id_original,name,id
 287344,,
 374698,,
 218238,,
-73222,,
 142085,,
-75578,VPRO Television,239
 52260,,
 15994,,
 36712,Favourite Films NV,7434
@@ -66923,7 +66474,6 @@ id_original,name,id
 110457,,
 178189,REM Publishing Ltd,67025
 325712,Cool Cat Productions,66430
-317198,Muse Entertainment Enterprises,6438
 84105,,
 286987,Schorr Pictures,35873
 271954,,
@@ -67308,7 +66858,6 @@ id_original,name,id
 54242,Mabel Normand Feature Film Company,15997
 190183,,
 165462,Herald Pictures,72295
-156981,Big Picture Media Corporation,3548
 193439,Monogram Pictures,4395
 257907,Globe Pictures Corp.,73631
 267483,Micheaux Film,46979
@@ -67348,7 +66897,6 @@ id_original,name,id
 43462,,
 46184,Universal Pictures,33
 116712,Universal Pictures,33
-64418,,
 92254,,
 169479,,
 105549,,
@@ -67823,7 +67371,6 @@ id_original,name,id
 205221,,
 356057,,
 266038,,
-135713,,
 43735,,
 298986,Cinemaundici,28699
 298986,Ipotesi Cinema,45439
@@ -68003,7 +67550,6 @@ id_original,name,id
 360387,ETA films,63612
 366249,Nordisk Film,17516
 366249,Yellow Film & TV,66903
-78340,,
 257081,Twentieth Century Fox Film Corporation,306
 228647,Metro-Goldwyn-Mayer (MGM),8411
 87612,First National Pictures,3245
@@ -68048,22 +67594,6 @@ id_original,name,id
 329809,Albertine Productions,32714
 358403,,
 336199,La Caméra Deluxe,73741
-337107,France 3 Cinéma,591
-337107,DD Productions,1524
-337107,SCOPE Invest,2250
-337107,LGM Productions,2490
-337107,Le Pacte,5125
-337107,Canal+,5358
-337107,Les films du Worso,7395
-337107,Scope Pictures,11199
-337107,France Télévisions,11795
-337107,Le Tax Shelter du Gouvernement Fédéral de Belgique,11921
-337107,Centre National de la Cinématographie (CNC),18367
-337107,Cofinova 11,75983
-337107,Palatine Étoile 12,76446
-337107,Cinéfeel Prod,76447
-337107,Cinémage 9,76994
-337107,Soficinéma 11,77850
 315865,SBS Productions,8997
 352025,France 2 Cinéma,83
 352025,Les Films 13,1742
@@ -68105,13 +67635,11 @@ id_original,name,id
 100669,Larry Levinson Productions,3282
 100669,Silverstar Ltd.,6355
 100669,RHI Entertainment,20358
-257450,The Imaginarium,25654
 165404,Venus Records & Tapes,3939
 165404,Venus Film,6085
 49518,,
 166258,,
 59372,,
-117142,,
 97437,Shaboo Arts,35831
 83902,PFH Entertainment,8380
 83902,Saregama HMV,8381
@@ -68191,7 +67719,6 @@ id_original,name,id
 306547,BIND,39609
 379998,WG Film AB,4212
 379998,Auto Images,17518
-382436,,
 190269,Joseph M. Schenck Production,5711
 237433,Paramount Pictures,4
 63142,Stick! Pictures,85641
@@ -68270,9 +67797,7 @@ id_original,name,id
 248543,Globo Filmes,13969
 56992,,
 36301,,
-60498,,
 50934,Rankin/Bass Productions,688
-126219,Shôchiku Eiga,5070
 202172,,
 278771,,
 353609,WWE Studios,10339
@@ -68337,7 +67862,6 @@ id_original,name,id
 279634,Lithuanian Film Studios,74880
 334894,Dark Program Productions,72945
 52236,,
-166256,,
 303398,,
 295508,,
 71064,Sukrit Pictures,83295
@@ -68347,14 +67871,12 @@ id_original,name,id
 166225,,
 71920,,
 354547,,
-41901,,
 345426,,
 101783,,
 86576,,
 46428,,
 257087,Blumhouse Productions,3172
 217605,,
-49098,,
 104548,Art Theatre Guild,9181
 104548,Matsumoto Production Company,53529
 313108,CJ Entertainment,7036
@@ -68550,7 +68072,6 @@ id_original,name,id
 84848,Ad Vitam Production,33279
 52701,,
 10749,,
-131398,,
 62759,SBA,56994
 62759,Dans-Svensk,56995
 336970,SVT Drama,157
@@ -68641,9 +68162,6 @@ id_original,name,id
 271667,Charlie's Bratislava,78160
 123406,Kino Kombat,93608
 123406,Screen Vision,93609
-125795,Vertigo,23084
-125795,RTV Slovenija,28367
-125795,VPK,48428
 49695,Jinriki Hikoki Sha,12797
 79860,,
 350765,,
@@ -68749,7 +68267,6 @@ id_original,name,id
 361980,Kinoproduction,64464
 163077,,
 143959,Kinotar,18405
-65120,,
 293313,Artista Filmi Oy,33326
 140278,,
 353641,Artista Filmi Oy,33326
@@ -68901,12 +68418,10 @@ id_original,name,id
 97707,Zweites Deutsches Fernsehen (ZDF),4606
 100250,,
 342686,Kinokompaniya CTB,886
-125727,,
 99495,,
 270024,,
 100017,MMM Film Zimmermann & Co,84825
 36296,,
-381670,,
 252476,,
 117565,,
 141757,"Zespol Filmowy ""Perspektywa""",46568
@@ -69004,14 +68519,6 @@ id_original,name,id
 69016,Sonar Productions,69139
 38668,Deutsche Film Gesellschaft (DFG),32251
 83299,,
-44517,El Deseo,49
-44517,Altavista Films,5084
-44517,Canal+ España,9335
-44517,Tequila Gang,11628
-44517,Corfo,19026
-44517,Wood Producciones S.A.,21545
-44517,Paraïso Productions,59460
-44517,Fondart,75690
 61699,,
 182768,Toho Company,882
 182768,Kaname Productions,13062
@@ -69168,12 +68675,6 @@ id_original,name,id
 250919,Fritz Genschow Films,64510
 31319,,
 60616,,
-123707,Cinematográfica Filmex S.A.,4965
-123707,Canal+,5358
-123707,MK2 Productions,9209
-123707,Fondazione Montecinemaverita,55536
-123707,"Direction du Développement et de la Coopération (DDC), Département Fédéral des Affaires Etrangères",85745
-123707,Le Studio de Creation Cinematographique du Ministere de la Culture,95534
 227481,,
 105572,Renn Productions,82
 354023,,
@@ -69184,7 +68685,6 @@ id_original,name,id
 89722,,
 19759,Ceskoslovenský Státní Film,2502
 185354,Zespol Filmowy,46567
-64190,,
 41039,Frenzy Productions,57753
 64935,,
 2764,,
@@ -69194,7 +68694,6 @@ id_original,name,id
 17302,,
 326305,Kamoli Films,39340
 57983,Filmové Studio Barrandov,1931
-48489,R.S. Film,25484
 78539,,
 296225,,
 369366,Living Condition LLC,71150
@@ -69204,7 +68703,6 @@ id_original,name,id
 71496,Les films singuliers,7554
 53472,Meteor Film Productions,6288
 3048,,
-78072,,
 201214,,
 45064,Green Jacket Productions,47186
 180555,,
@@ -69247,9 +68745,6 @@ id_original,name,id
 334495,,
 292214,,
 78202,Leni Riefenstahl-Produktion,580
-73123,Motel Films,865
-73123,Fu Works,12046
-73123,Algemene Vereniging Radio Omroep (AVRO),15163
 107767,,
 220154,,
 119816,,
@@ -69266,7 +68761,6 @@ id_original,name,id
 199934,Nordisk Film- & TV-Fond,8555
 199934,Obel Film,9369
 199934,Mellan Film,48814
-180240,,
 4443,New Line Cinema,12
 4443,TF1,22123
 4443,Terra Films,80444
@@ -69285,7 +68779,6 @@ id_original,name,id
 53524,Children's Film Foundation (CFF),48266
 70119,France 2 (FR2),20980
 267415,Bavaria Film,1704
-85690,,
 21070,Orex Films,75258
 38553,The 7th Floor,5708
 15201,,
@@ -69364,11 +68857,9 @@ id_original,name,id
 168712,Libra Pictures,4106
 168712,Daniel L. Paulson Productions,29493
 168712,MTM Entertainment,76857
-150736,,
 50583,Five Star Production,1241
 153541,Ferris & Brockman,59463
 12495,Deutsche Film (DEFA),12364
-368128,,
 97138,CinéGroupe,4172
 97138,Lifetime Television,6530
 97138,Lions Gate Television,7601
@@ -69538,7 +69029,6 @@ id_original,name,id
 116318,Sanrio Communications,8486
 128061,,
 211158,,
-361131,Super Cassettes Industries Limited (T-Series),34705
 105304,Thelma Films,6844
 257095,Ceskoslovenský Státní Film,2502
 64437,,
@@ -69617,11 +69107,6 @@ id_original,name,id
 36511,Avantmark Picture,5824
 36511,White Wall,5825
 381890,China Film Group,5635
-371758,British Broadcasting Corporation (BBC),3324
-371758,Mammoth Screen,5100
-371758,A&E Television Networks,11858
-371758,Agatha Christie Ltd,13585
-371758,Acorn Productions,51884
 347669,Castelao Pictures,62170
 347669,Somnium Films,70521
 302036,Attercorp Productions,37954
@@ -69785,7 +69270,6 @@ id_original,name,id
 333352,Raindog Films,75932
 367524,Mandalay Sports Media (MSM),52242
 64407,,
-63224,,
 98302,,
 359025,,
 347752,February Films,54873
@@ -69839,7 +69323,6 @@ id_original,name,id
 224339,Lone Wolf Productions,82007
 73983,RKO Radio Pictures,6
 95552,,
-65270,,
 166904,,
 34462,New World Pictures,1950
 34462,Balatbat Productions,38661
@@ -69896,10 +69379,8 @@ id_original,name,id
 347689,Netflix,59811
 339984,TriStar Pictures,559
 339984,Sony Pictures Entertainment,5752
-54566,,
 55495,Filmituotanto Spede Pasanen,59996
 379925,,
-171550,,
 347881,Lighthouse Pictures,6345
 359549,,
 292010,Screen NSW,10951
@@ -69915,7 +69396,6 @@ id_original,name,id
 130544,,
 63065,Radio Bremen,1775
 63065,Westdeutscher Rundfunk,7950
-382962,,
 291189,Unified Pictures,13238
 291189,Bron Studios,13240
 375012,Wigwam Films,55142
@@ -69987,7 +69467,6 @@ id_original,name,id
 224951,,
 242546,Gonzo,1077
 300403,Really Real Films,69959
-228109,EBF Productions,17380
 302688,Universal Pictures,33
 302688,Playtone,4171
 302688,HBO Films,7429
@@ -70025,7 +69504,6 @@ id_original,name,id
 124993,Gaumont British Picture Corporation,4978
 42291,David Grubin Productions,27649
 31184,,
-359440,,
 297806,Bron Studios,13240
 297806,RatPac Entertainment,28732
 186759,Double Feature Films,215
@@ -70119,7 +69597,6 @@ id_original,name,id
 122325,Warner Bros.,6194
 122325,The Vitaphone Corporation,9329
 249969,Warner Bros.,6194
-66060,,
 372691,Warner Bros.,6194
 178447,Warner Bros.,6194
 86497,Film Concorde,24205
@@ -70468,7 +69945,6 @@ id_original,name,id
 244852,,
 270909,,
 117023,,
-322746,,
 101320,,
 67021,Shaw Brothers,5798
 217324,RKO Radio Pictures,6
@@ -70515,8 +69991,6 @@ id_original,name,id
 332739,,
 317954,,
 107641,Toei Company,9255
-122270,Janus Film und Fernsehen,4497
-122270,Westdeutscher Rundfunk (WDR),7025
 3102,,
 62729,,
 193899,,
@@ -70536,7 +70010,6 @@ id_original,name,id
 255733,Frank Capra Productions,9330
 101715,,
 112558,Stuart Miller Productions,47685
-356090,,
 290188,Marvista Entertainment,6679
 290188,LeGrand Productions,59709
 87992,Helsinki Filmi Oy,6159
@@ -70592,9 +70065,6 @@ id_original,name,id
 361841,B-Reel Feature Films,39407
 24450,,
 318054,,
-366901,Enlightenment Productions,15073
-366901,Falling Snow,67263
-366901,SK Enlightenment,67264
 161143,DreamWorks Animation,521
 85693,DreamWorks Animation,521
 118251,DreamWorks Animation,521
@@ -70629,10 +70099,6 @@ id_original,name,id
 45232,New World Pictures,1950
 7237,New Classics,78412
 62880,New World Pictures,1950
-332283,Parallel Films,5122
-332283,Bord Scannan na hEireann / Irish Film Board,7310
-332283,Gidden Media,34886
-332283,Juliette Films,45015
 103073,,
 58792,,
 375572,Fandango,2441
@@ -70940,7 +70406,6 @@ id_original,name,id
 277098,Gonzo,1077
 34772,ADV Films,3465
 86791,,
-93734,,
 31502,SPVision,51785
 221317,,
 355008,Bron Studios,13240
@@ -71015,8 +70480,6 @@ id_original,name,id
 65887,,
 210615,Les Films Pomereu,459
 210615,Medusa Distribuzione,15868
-66187,Jupiter Generale Cinematografica,1375
-66187,Les Films de Montfort,22710
 271919,UGC,581
 271919,Lira Films,10522
 271919,parma films,23871
@@ -71073,10 +70536,6 @@ id_original,name,id
 176915,DC Medias,13572
 380254,Lotte Entertainment,7819
 208556,,
-132166,Office de Radiodiffusion Télévision Française (ORTF),10621
-132166,RAI Radiotelevisione Italiana,20091
-132166,Son et lumière,37186
-132166,Bavaria Film TV,88361
 126234,,
 245917,Aniplex,2883
 245917,TV Tokyo,3034
@@ -71243,7 +70702,6 @@ id_original,name,id
 108176,Levity Productions,2922
 108176,Levity Entertainment Group,21224
 58494,Irwin Entertainment,5466
-36607,,
 100813,Brave New Films,4971
 56100,,
 139846,,
@@ -71361,13 +70819,6 @@ id_original,name,id
 294550,,
 85327,United Artists,60
 85327,Lion's Gate Films,18203
-55134,StudioCanal,694
-55134,Northern Ireland Film and Television Commission,4394
-55134,Irish Film Board,5267
-55134,Universal Pictures (UK),7606
-55134,Working Title Films,10163
-55134,WT2 Productions,10462
-55134,New Moon Pictures,53051
 299582,Brad Krevoy Television,64216
 371451,United Filmmakers Organization (UFO),7796
 371451,One Cool Film Production,69437
@@ -71507,7 +70958,6 @@ id_original,name,id
 53104,Chicken And Egg Pictures,75170
 53104,Astrea Media,75171
 117407,,
-119430,,
 297400,CJ Entertainment,7036
 297400,KAFA Films,7083
 310952,,
@@ -71690,7 +71140,6 @@ id_original,name,id
 80520,Granada Entertainment,20353
 80520,TNT,21928
 80520,El Dorado Pictures,23034
-55916,,
 126076,,
 56491,ApolloProMovie & Co. 1. Filmproduktion,95918
 60505,HBO Films,7429
@@ -71742,7 +71191,6 @@ id_original,name,id
 48339,Film and Music Entertainment (F&ME),21446
 42082,,
 249075,,
-38061,,
 147307,,
 235201,,
 36090,Art Theatre Guild,9181
@@ -71763,8 +71211,6 @@ id_original,name,id
 362699,Tigerlily Films,78496
 118792,Uzbekfilm,29575
 396292,New Wave Entertainment,2953
-299782,Les Films de l'Astrophore,7573
-299782,SACI,36547
 24398,Hot Property Films,4304
 46178,,
 345069,,
@@ -72009,9 +71455,6 @@ id_original,name,id
 257345,Universal Pictures,33
 257345,Blumhouse Productions,3172
 257345,Chapter One Films,55265
-256771,Fu Works,12046
-256771,House of Netherhorror,59485
-256771,Nieuw Nederlands Film Platform,71703
 34598,Cinetel Films,10399
 41962,Toho Company,882
 110283,Toho Company,882
@@ -72263,7 +71706,6 @@ id_original,name,id
 397003,Kaos Entertainment,72408
 138705,Solar Films inc.,6339
 150208,Solar Films inc.,6339
-61123,Solar Films inc.,6339
 80256,Solar Films inc.,6339
 41454,Nordisk Film,235
 381080,,
@@ -72324,12 +71766,10 @@ id_original,name,id
 302699,Universal Pictures,33
 302699,Bluegrass Films,13778
 302699,Principato-Young Entertainment,37845
-72152,,
 94798,B.N. Roy Productions,43290
 94798,Abhijatrik,43291
 139582,,
 14751,Lemon Tea Productions,3188
-53284,,
 63006,,
 379275,Hrvatska Radiotelevizija (HRT),20915
 379275,Kvadar,72459
@@ -72415,7 +71855,6 @@ id_original,name,id
 400605,Contradiction Films,37217
 400605,Legendary Digital Media,59429
 400605,DR2 Productions,78424
-46548,,
 70859,American Broadcasting Company (ABC),3065
 70859,Greengrass Productions,3156
 70859,Ixtlan,4198
@@ -72512,7 +71951,6 @@ id_original,name,id
 388191,Arrowstorm Entertainment,14787
 388191,Camera 40 Productions,52699
 328716,Showbox,3491
-367053,,
 333386,26 Films,2157
 333386,Mandeville Films,10227
 333386,Atomic Entertainment,26767
@@ -72701,8 +72139,6 @@ id_original,name,id
 349441,Pie Films,24662
 349441,Amérique Film,66512
 373479,,
-373922,Milky Way Image Company,5632
-373922,Media Asia Group,11083
 359641,MK2 Production,6274
 359641,Instituto Nacional de Cine y Artes Audiovisuales (INCAA),6458
 357799,,
@@ -72802,7 +72238,6 @@ id_original,name,id
 103396,Divina-Film GmbH & Co. KG (München),11901
 130957,Bosna Film,10617
 130957,VEB DEFA-Studio für Spielfilme,41112
-54893,,
 98644,,
 393834,Arclight Films,2520
 393834,Transmission Pictures,12158
@@ -72823,7 +72258,6 @@ id_original,name,id
 28406,Maxper Producciones Cinematográficas (Maximiliano Pérez Flórez),4797
 362765,Veracity Productions,64898
 368620,,
-50186,Mosfilm,5120
 362876,Mira Filmes,37488
 361249,,
 4279,,
@@ -72835,7 +72269,6 @@ id_original,name,id
 41278,Hepworth,24148
 86320,Mapa Filmes,8565
 86320,Eduardo Coutinho Produções Cinematográficas,84447
-86531,,
 397278,Brainstorm Media,11658
 397278,EchoWolf Productions,70142
 67303,,
@@ -72955,8 +72388,6 @@ id_original,name,id
 282024,Krasnaya Strela,3006
 42498,Priya Films,5582
 257006,,
-367816,,
-126140,,
 347647,Irish Film Board,5267
 347647,Coco Television,57402
 407036,,
@@ -72974,7 +72405,6 @@ id_original,name,id
 356626,Climax Films,9066
 356626,Caviar,23408
 356626,A Team Productions,24519
-253343,,
 247845,,
 332806,Hopscotch Films,13788
 376426,Radical Media,11152
@@ -73112,7 +72542,6 @@ id_original,name,id
 333846,Sein+Hain Film,72116
 340224,,
 288504,,
-405653,,
 403119,Dimension Films,7405
 403119,Tea Shop & Film Company,13161
 403119,The Fyzz Facility,63443
@@ -73164,7 +72593,6 @@ id_original,name,id
 340119,,
 62009,Gaumont,9
 54107,Walt Disney Studios Home Entertainment,3202
-49855,,
 408140,,
 369605,FilmBuff,15722
 378607,,
@@ -73481,7 +72909,6 @@ id_original,name,id
 266400,,
 401123,Mirror Images LTD,77830
 56552,,
-42560,,
 319092,Roast Beef Productions,7266
 319092,Rattapallax,86139
 404117,Zygote Films,78636
@@ -73738,7 +73165,6 @@ id_original,name,id
 409676,,
 139521,Fox Star Studios,12154
 139521,Vishal Bhardwaj Pictures,13678
-411711,,
 245622,Channel Four Films,181
 245622,Mug-Shot,79393
 231020,Kimera Film,17842
@@ -73839,7 +73265,6 @@ id_original,name,id
 381034,Level 5 Films,79988
 381034,Winterland Pictures,79989
 247488,,
-407048,,
 144105,Channel 4 Television Corporation,15276
 287603,New Wave Entertainment Television,21206
 48250,Fandango,2441
@@ -73856,7 +73281,6 @@ id_original,name,id
 46028,Penta Films,6651
 46028,Colorado Film Production,10975
 58773,,
-41583,Columbia Films Productions,1934
 124202,Cinemaster S.r.l.,10519
 73755,Italian International Film,1429
 73755,Ypsilon Cinematografica,84371
@@ -73917,7 +73341,6 @@ id_original,name,id
 55435,Ltd.,6682
 55435,Production I.G.,12657
 55437,,
-55438,,
 225745,Kadokawa Pictures,2073
 225745,Movic,3466
 225745,Frontier Works,5809
@@ -73934,7 +73357,6 @@ id_original,name,id
 357390,Polygon Pictures,20024
 296917,Production I.G.,12657
 412214,Solar Films inc.,6339
-357837,,
 316784,Asgard Entertainment,39246
 316784,Red Pine Studios,43594
 316784,Black Wing Digital,43595
@@ -73948,7 +73370,6 @@ id_original,name,id
 184341,Fuego Films,52065
 184341,Epicentral Studios,52066
 280416,Breakdown Productions,29784
-410576,,
 65755,,
 238204,,
 407965,Lillród Film,79651
@@ -74100,8 +73521,6 @@ id_original,name,id
 22623,GBVI,4126
 36162,Союзмульфильм,7502
 40235,Metro-Goldwyn-Mayer (MGM),8411
-375573,Southern Light Films,55251
-375573,Augusto,79711
 336212,arte Cinéma,11686
 336212,Documentary & Experimental Film Center,61703
 114499,Walt Disney Productions,3166
@@ -74112,7 +73531,6 @@ id_original,name,id
 189888,Filmfair Communications,37441
 278041,,
 381691,OPM Dream Mill Cinemas,77133
-130062,,
 410965,,
 189291,Instituto Cubano del Arte e Industrias Cinematográficos (ICAIC),5175
 189291,Iberoamericana Films Internacional,22533
@@ -74265,7 +73683,6 @@ id_original,name,id
 18825,CALT Productions,22764
 18825,Solo Moi,22767
 18825,Kenavo,22768
-64109,,
 133569,Parabólica Brasil,93197
 133569,Belavista Cinema e Produção,93198
 371449,Park Pictures,13466
@@ -74319,7 +73736,6 @@ id_original,name,id
 77946,Utopia Pictures,5332
 77946,Beagle II Productions,11003
 60085,Drag City,20107
-43422,,
 197725,Walt Disney Pictures,2
 245003,Walt Disney Pictures,2
 105325,Walt Disney Pictures,2
@@ -74454,8 +73870,6 @@ id_original,name,id
 138730,Pathé Frères,21594
 405040,Falcon Pictures,77791
 56109,Muse Entertainment Enterprises,6438
-355066,Anima Istanbul,75408
-355066,Kare Kare Film Yapim,75409
 24007,,
 46149,Nikkatsu,955
 162899,,
@@ -74492,8 +73906,6 @@ id_original,name,id
 394412,3B Productions,7184
 394412,Pupkin Production,7704
 390669,,
-412093,,
-352199,,
 375167,,
 393857,,
 365707,,
@@ -74607,9 +74019,6 @@ id_original,name,id
 170967,Grayscale Films,75342
 413017,,
 399621,,
-339116,JP Entertainment,76809
-339116,Studio 71,80884
-339116,G2,80885
 382511,Mars Films,819
 382511,TF1,22123
 91045,,
@@ -74665,10 +74074,6 @@ id_original,name,id
 325385,Openvizor,87695
 325385,Le Soleil Films,87696
 336776,Asmik Ace Entertainment,3033
-311215,Televisión Federal (Telefe),21915
-311215,Cine.Ar,40840
-311215,Concreto Films,40841
-311215,P&P Endemol Argentina,41309
 250278,Nikkatsu,955
 68972,,
 286313,Sciapode,7850
@@ -74795,13 +74200,11 @@ id_original,name,id
 211029,,
 391486,Pop Art Film Factory,10702
 391486,Conflict Pictures,79755
-345924,,
 292022,Retromedia Entertainment,4681
 321779,Czech Television,487
 321779,Česká televize,5928
 321779,Lucky Man Films,63051
 411009,NetFlix,8858
-295886,,
 253154,Netflix,59811
 402529,Morgan Creek Productions,10210
 159432,SF Film,5674
@@ -74831,7 +74234,6 @@ id_original,name,id
 356189,Newgrange Pictures,16076
 356189,Kennedy Films,95548
 359483,Zeitsprung Pictures,35389
-343227,,
 117592,Pathé-Natan,9000
 162686,,
 413834,ShowTime,6964
@@ -74866,7 +74268,6 @@ id_original,name,id
 322455,Irrintzi Zinema,45302
 382170,Rockwell Eyes,2487
 84195,Globo filmes,10954
-377492,Lionsgate,1632
 411638,La Canica Films,78370
 411638,Agosto la Película,85573
 241639,China Film Co-Production Corporation,2269
@@ -74887,14 +74288,11 @@ id_original,name,id
 390376,Koktebel Film Company,7157
 370203,Fasad,8280
 185564,Larry Levinson Productions,3282
-352917,KMH One,60061
-352917,Budapest Film Produkciós,60062
 402612,Inzert44,78248
 363383,Új Budapest Filmstudió,1655
 29211,,
 412437,Solar Films inc.,6339
 414771,United King Films,16
-410142,,
 395560,Ecaveo Capital Partners,77019
 395560,Hermes Space Industries,77020
 381046,Raving Cyclops Studios,79871
@@ -74997,7 +74395,6 @@ id_original,name,id
 36113,Filmko Pictures,9175
 36113,Ming Productions,74695
 358808,,
-371181,,
 145132,Koch Media,10559
 145132,SEVEN24 Films,22778
 41281,Sunfilm Entertainment,4052
@@ -75160,7 +74557,6 @@ id_original,name,id
 148753,,
 142918,Shôchiku Eiga,5070
 126820,,
-417877,,
 331642,Tornasol Films,7680
 331642,Zeta Audiovisual,9967
 394822,Killer Films,1422
@@ -75300,7 +74696,6 @@ id_original,name,id
 52949,American-International Television (AIP-TV),49734
 52949,Ken Johnson Productions,67881
 285814,,
-42100,,
 159538,,
 97128,,
 369567,Horizonte Films,68428
@@ -75349,7 +74744,6 @@ id_original,name,id
 402298,Shoebox Films,28473
 422127,FND Films,33596
 377448,Fox,5924
-164134,,
 343611,Paramount Pictures,4
 343611,Shanghai Film Group,3407
 343611,TC Productions,21777
@@ -75366,7 +74760,6 @@ id_original,name,id
 421958,Beta Film,1080
 421958,ARD Degeto Film,10947
 421958,Rundfunk Berlin-Brandenburg (RBB),13591
-333072,Kadokawa Pictures,2073
 269057,JoBro Productions & Film Finance,50084
 269057,Scythia Films,61011
 385722,Digiart Productions,4439
@@ -75378,7 +74771,6 @@ id_original,name,id
 87035,Shooting Star Filmcompany BV,1259
 315252,,
 258113,,
-405763,,
 111457,John McCormick Productions,42184
 81420,,
 120055,Front Street Pictures,3958
@@ -75420,7 +74812,6 @@ id_original,name,id
 179057,Columbia Pictures Corporation,441
 282225,,
 218299,RKO Radio Pictures,6
-72394,,
 114471,,
 50699,Extraordinary Films Ltd.,8258
 50699,Young Wolf Productions,8259
@@ -75451,7 +74842,6 @@ id_original,name,id
 57843,Mahagonny Pictures,15680
 79871,,
 204051,,
-278544,,
 336216,Multimedia Est,13020
 336216,Les Films de l'Après-Midi,16584
 336216,Neue Mediopolis Filmproduktion,49622
@@ -75496,7 +74886,6 @@ id_original,name,id
 164827,,
 185111,Thanasis Vengos Tainies Geliou,80198
 296344,Karagiannis-Karatzopoulos,22155
-300321,Twenty Eighteen Seventy-Six,66454
 407799,,
 294409,Filmaster Incorporated,33774
 403450,Rai Cinema,2683
@@ -75569,7 +74958,6 @@ id_original,name,id
 413471,Millenium Films,1020
 413471,Eclectic Pictures,71488
 413471,Ineffable Pictures,81167
-413361,Score G Productions,82320
 355065,ARTE,5766
 355065,Westdeutscher Rundfunk (WDR),7025
 355065,Hessischer Rundfunk (HR),9292
@@ -75684,8 +75072,6 @@ id_original,name,id
 358924,,
 362579,Norberfilms,16238
 362579,Roxbury,63809
-336271,Devonshire Productions,2391
-336271,Prodigy Pictures,3571
 396004,Sandcastle Pictures,82687
 208327,,
 394684,,
@@ -75923,7 +75309,6 @@ id_original,name,id
 387558,Rum Jam Films,78697
 167644,,
 59853,Mario e Vittorio Cecchi Gori - C.E.I.A.D.,22117
-73077,,
 41599,Twentieth Century Fox Film Corporation,306
 41599,Twentieth Century-Fox Productions,11865
 150065,,
@@ -75940,7 +75325,6 @@ id_original,name,id
 401061,Traverse Media,46241
 401061,Blackmrkt Incorporated,60265
 401061,Man of Action,78253
-419289,,
 378064,Kyoto Animation,5438
 262831,,
 364111,A-1 Pictures,13113
@@ -76030,9 +75414,6 @@ id_original,name,id
 41973,,
 276578,Incendo Productions,13404
 27211,Arzu Film,4639
-345470,Aimimage Productions,21629
-345470,Goldfinch Pictures,69010
-345470,A Product of Malitsky,69011
 419471,Margin Films,71972
 419471,Thunder Communications International,82084
 355506,Chiller Films,12671
@@ -76041,8 +75422,6 @@ id_original,name,id
 421313,Voltage pictures,6633
 421313,WWE Studios,10339
 421313,Tea Shop & Film Company,13161
-140491,Film Base,72987
-140491,Shumway Studios,72988
 26370,Silver River Productions,34469
 376866,Fox Searchlight Pictures,43
 376866,Why Not Productions,729
@@ -76169,7 +75548,6 @@ id_original,name,id
 75450,Old Street Films,7857
 25021,,
 74302,Arzu Film,4639
-42496,,
 274870,Columbia Pictures,5
 274870,Village Roadshow Pictures,79
 274870,Original Film,333
@@ -76221,8 +75599,6 @@ id_original,name,id
 408203,Final Cut for Real,29062
 210052,ARTE,5766
 210052,Hessischer Rundfunk (HR),9292
-344039,Anonymous Content,10039
-344039,QVF Inc.,55256
 332979,Younger Than You,1047
 332979,Sikelia Productions,23243
 332979,Verdi Productions,37765
@@ -76291,8 +75667,6 @@ id_original,name,id
 244201,First National Pictures,3245
 244201,Warner Bros.,6194
 412213,Pie Films,24662
-406431,Generation Iron Fitness Network,79289
-406431,"Vladar Company, The",79290
 389044,Agat Films,207
 389044,Ex Nihilo,3307
 389044,Zik Zak Filmworks,28201
@@ -76454,7 +75828,6 @@ id_original,name,id
 411632,Grindstone Entertainment Group,3604
 411632,Lionsgate Home Entertainment,40566
 411632,Actionhouse Pictures,87009
-216550,,
 361340,,
 296288,,
 324263,,
@@ -76598,7 +75971,6 @@ id_original,name,id
 308919,Stargazer Films,62763
 381707,Bemybaby Films,72926
 381707,Ad hoc Studios,84865
-379441,Blue Ribbon Digital Media,72489
 381289,Universal Pictures,33
 381289,Amblin Entertainment,56
 381289,Pariah Entertainment Group,1271
@@ -76610,7 +75982,6 @@ id_original,name,id
 247446,Filmové studio Barrandov,66848
 266558,,
 334890,,
-37376,,
 393521,Black Sheep Film Productions,68453
 360814,Walt Disney Pictures,2
 360814,Aamir Khan Productions,2140
@@ -76845,7 +76216,6 @@ id_original,name,id
 382501,Artémis Productions,11773
 382501,Nord-Ouest Films,57752
 173189,New Wave Entertainment,2953
-134680,,
 375872,Kowalski Films,13287
 375872,Atresmedia Cine,29566
 404791,Nice Flxpictures AB,78848
@@ -77016,7 +76386,6 @@ id_original,name,id
 108177,Comedy Central,1538
 108177,Busboy Productions,8290
 108177,Panamort Television,21219
-45782,,
 102053,Country Music Television (CMT),6547
 102053,Parallel Entertainment Pictures,22895
 38323,Mosfilm,5120
@@ -77082,7 +76451,6 @@ id_original,name,id
 76535,Marvel Studios,420
 427045,Hallmark Entertainment,4056
 420967,Goliath Film and Media Holdings,73129
-421623,Crown Media Productions,53015
 410315,Johnson Production Group,5225
 382207,,
 421626,,
@@ -77100,7 +76468,6 @@ id_original,name,id
 367206,Bona Film Group,30148
 28670,Hammer Film Productions,1314
 242049,,
-48346,,
 61341,Parallel Films,5122
 61341,Syfy,6677
 61341,RHI,6739
@@ -77124,7 +76491,6 @@ id_original,name,id
 116988,Estudios Churubusco Azteca S.A.,11917
 116988,Dasa Films,55271
 116988,Conaciné Avant,62442
-42467,,
 82088,VUFKU,25065
 226236,Viacom Productions,12077
 226236,Dean Hargrove Productions,56689
@@ -77272,8 +76638,6 @@ id_original,name,id
 105352,Edison Company,22518
 179302,,
 105388,,
-295011,Screen Gems,3287
-295011,Vincent Newman Entertainment,17929
 399623,Jules Verne Aventures Expeditions,77448
 399623,Jules Verne Adventures Productions,77449
 399623,Green Flash Pictures,77450
@@ -77364,8 +76728,6 @@ id_original,name,id
 385261,Lotte Entertainment,7819
 178614,,
 44519,,
-380124,Lionsgate,1632
-380124,The Tyler Perry Company,6567
 388235,,
 18955,Légende Films,22997
 72822,ARP Sélection,189
@@ -77444,9 +76806,6 @@ id_original,name,id
 174487,,
 123846,,
 371806,,
-394723,Telefe,8046
-394723,MyS Producción,39257
-394723,DEMENTE CONTENIDOS,76054
 416680,,
 132298,Bueprint Pictures,6342
 132298,Patagonik Film Group,7100
@@ -77850,8 +77209,6 @@ id_original,name,id
 167858,Romania Film,7168
 364379,Phantasmes Video,65769
 89403,Big World Pictures,31342
-388410,Thunderhead Entertainment,18043
-388410,Millman Productions,35613
 359245,WTFilms,22784
 359245,Backup Media,26590
 359245,Random Bench Productions,26700
@@ -77954,22 +77311,16 @@ id_original,name,id
 436339,,
 290930,Eyeworks,6461
 37419,,
-186592,,
 306207,,
 68732,,
 147939,Christopher Films,12188
 59122,,
-440361,,
 429732,Sophie Dulac Productions,1873
 429732,Parada Film,13140
 429732,Augenschein Filmproduktion,20037
 437623,20 Steps Productions,93093
 437623,Inkfilm,93471
 36140,,
-422972,Parkside Pictures,56696
-422972,Tadross Media Group,56697
-422972,Fixer Film Productions,82790
-422972,Benatter/Thomas productions,82791
 362409,Snowfort Pictures,7787
 362409,Circle of Confusion,23921
 32532,Bitter Films,63349
@@ -78252,9 +77603,6 @@ id_original,name,id
 393732,Woods Entertainment,979
 393732,JoBro Productions & Film Finance,50084
 393732,Euclid 431 Pictures,75806
-427451,Periscope Entertainment,4917
-427451,Downtown Community Television Center,59869
-427451,Dynamic Range,83693
 378018,120dB Films,5113
 378018,XYZ Films,12142
 378018,JoBro Productions & Film Finance,50084
@@ -78283,7 +77631,6 @@ id_original,name,id
 47291,,
 173577,,
 433082,,
-42539,P.P. Film Polski,1587
 110001,Frontera Films S.A.,73820
 381009,Rough House Pictures,20848
 381009,How follows what,74110
@@ -78346,10 +77693,6 @@ id_original,name,id
 56947,Leader Cinematografica,23118
 56947,Rai 2,23119
 327231,Nordisk Film,17516
-416166,Redwire Pictures,7579
-416166,Campbell Grobman Films,48738
-416166,Jeff Rice Films,52738
-416166,Dark Rabbit Productions,94617
 352845,LWH77 Productions,60041
 430128,Paris Filmes,53105
 240733,,
@@ -78479,7 +77822,6 @@ id_original,name,id
 126889,Scott Free Productions,1645
 126889,Brandywine Productions,19747
 126889,TSG Entertainment,22213
-419522,Italian International Film,1429
 173631,Telefilm Saar GmbH,27899
 173631,Saarländischer Rundfunk (SR),58231
 154718,Sender Freies Berlin (SFB),7024
@@ -78540,9 +77882,7 @@ id_original,name,id
 255635,Tims Productions,25651
 300490,Mars Dagitim,37123
 300490,TAFF Pictures,37124
-439695,Solar Films inc.,6339
 94065,Jay-Dee-Kay Productions,10599
-366561,,
 371899,Departures Film,24769
 371899,Studio Third Rome,70633
 371899,PCT Cinéma & Télévision S.A.,70634
@@ -78551,7 +77891,6 @@ id_original,name,id
 167618,Coop 99,122
 167618,Novotny & Novotny Filmproduktion GmbH,15040
 167618,Lotus Film,50451
-99343,phi,84219
 351863,,
 126919,Metro-Goldwyn-Mayer (MGM),8411
 126919,Du Maurier-Guinness,15150
@@ -78631,13 +77970,9 @@ id_original,name,id
 1848,Mirage Enterprises,932
 1848,Home Box Office (HBO),3268
 1848,Avnet/Kerner Productions,34998
-412302,Film Science,1976
-412302,Syncopated Films,20311
-412302,Rough House Pictures,20848
 270822,,
 128284,Capi-Holland,51322
 421962,,
-392790,Centerstage Productions,7008
 440767,NetFlix,8858
 27551,Cannon Films,4110
 81472,,
@@ -78807,10 +78142,6 @@ id_original,name,id
 256921,,
 57088,,
 52280,Mack Sennett Comedies,22520
-448290,Bad Robot,11461
-448290,Valve,14253
-448290,Wishbone Films,88800
-448290,Wishbone Films (II),88801
 71266,Helen Gardner Picture Players,83124
 401743,Brownstone Productions,12365
 401743,Netflix,59811
@@ -78860,7 +78191,6 @@ id_original,name,id
 397415,Hannibal Classics,76777
 239395,,
 54911,,
-64403,,
 133964,,
 27969,Twentieth Century Fox Film Corporation,306
 27969,Interscope Communications,10201
@@ -78936,14 +78266,12 @@ id_original,name,id
 429662,Pathé,7981
 66628,Toei Animation,5542
 54970,Odessa Film Studios,13852
-446076,Beijing Enlight Pictures,32696
 289222,Scion Films,7419
 289222,LD Entertainment,10285
 289222,Czech Anglo Productions,20473
 3427,,
 125313,,
 121688,,
-52400,,
 135561,Fábulas Negras,10942
 6107,,
 440777,Cineville,2832
@@ -79079,7 +78407,6 @@ id_original,name,id
 36968,Pacific Motion Pictures,16971
 172445,Fine Arts Film Company,36191
 180093,,
-348375,NAIA Productions,73469
 153272,,
 34057,,
 37049,Walt deFaria,5646
@@ -79148,8 +78475,6 @@ id_original,name,id
 346034,Reencuentro Films,89125
 346034,Greenlight Productions,89126
 346034,Eficine,89127
-426230,Mister Lister Films,50080
-426230,QC Entertainment,72725
 418078,Animal Kingdom,26995
 418078,A24,41077
 424488,LD Entertainment,10285
@@ -79295,7 +78620,6 @@ id_original,name,id
 410212,The Amazing Film Company,80107
 45966,,
 45970,RKO Pathé Pictures,13892
-426224,,
 57837,Home Box Office (HBO),3268
 34506,Cable Stuff Productions,2789
 34506,Home Box Office (HBO),3268
@@ -79316,11 +78640,6 @@ id_original,name,id
 401689,Arrowstorm Entertainment,14787
 156045,"Century Motion Picture & Dist. Co., Ltd.",44435
 220669,,
-271404,Hydraulx,10936
-271404,Infinite Frameworks Pte. Ltd.,17364
-271404,Mirabelle Pictures,39708
-271404,North Hollywood Films,78752
-271404,Beyond The Mothership,87026
 321757,Permut Presentations,455
 321757,Whitewater Films,3095
 321757,Tilted Windmill Productions,45086
@@ -79437,19 +78756,15 @@ id_original,name,id
 64468,,
 296901,Akün Film,34966
 236041,,
-48763,,
 452606,Arzu Film,4639
 65010,Arzu Film,4639
 101217,,
-53206,,
 236053,,
 123592,,
 109671,Arzu Film,4639
 109671,Fida Film,42712
-69319,,
 110029,Arzu Film,4639
 38614,,
-74171,,
 327935,,
 110040,,
 123601,,
@@ -79501,7 +78816,6 @@ id_original,name,id
 291276,Bloom,32554
 291276,SRA Productions,94135
 81391,,
-409926,,
 301372,Zanuck Independent,6716
 301372,Producer Capital Fund,83497
 301372,Code 39 Films,83498
@@ -79526,7 +78840,6 @@ id_original,name,id
 63414,Reliance Pictures,72613
 145051,,
 455363,,
-390396,,
 455368,,
 63958,,
 60068,Krasnaya Strela,3006
@@ -79596,9 +78909,6 @@ id_original,name,id
 441652,National Film Board of Canada,10473
 34325,,
 34521,,
-439998,Leone Film,3920
-439998,Medusa Film,6246
-439998,Lotus Production,19916
 77534,,
 20543,,
 72386,John Magnuson Associates,74617
@@ -79627,7 +78937,6 @@ id_original,name,id
 143883,,
 61672,Pathé Distribution,3012
 227334,,
-44265,,
 430161,,
 315371,Belarusfilm,12617
 21947,Republic Pictures (II),10348
@@ -79805,7 +79114,6 @@ id_original,name,id
 406099,,
 310933,,
 395452,Nord-Ouest Films,57752
-44055,,
 50108,Charlermthai Studio,88982
 54400,Zweites Deutsches Fernsehen (ZDF),4606
 54400,David Blair Productions,18362
@@ -79949,7 +79257,6 @@ id_original,name,id
 49579,Central Partnership,9342
 38332,Stella Studio,19024
 49574,,
-126555,Ceskoslovenská Televize,55633
 78595,,
 57204,TriStar Pictures,559
 57204,Kings Road Entertainment,4255
@@ -79992,7 +79299,6 @@ id_original,name,id
 55734,Michael London Productions,1187
 55734,TNT Originals,25929
 82377,,
-44762,,
 318348,,
 20473,Walt Disney Television,670
 20473,Sharmhill Productions,35514
@@ -80005,7 +79311,6 @@ id_original,name,id
 24881,Pageant Productions,5336
 55694,Motion Picture Corporation of America,2090
 59807,,
-39084,,
 71288,Corrino Media Corporation,7178
 55769,,
 44593,,
@@ -80020,9 +79325,6 @@ id_original,name,id
 393196,Hallmark Entertainment,4056
 41301,ABC Family,5948
 30118,,
-76059,Lafalot,12041
-76059,Artistic Light,12042
-76059,Fonds Film in Vlaanderen,12043
 387999,Hold It Now Films,23431
 26264,Walt Disney Pictures,2
 256109,,
@@ -80142,7 +79444,6 @@ id_original,name,id
 398920,Umedia,19037
 398920,uFund,22127
 398920,NoLITa Cinema,67043
-400796,,
 362844,,
 429107,,
 164144,,
@@ -80182,8 +79483,6 @@ id_original,name,id
 37851,,
 36699,A-1 Kino Video,20500
 53268,,
-62732,Real Dakota,11987
-62732,Interfest,11989
 47812,Леополис,6233
 47812,Квартал-95,6234
 36698,PS TVC Studio,21743
@@ -80210,7 +79509,6 @@ id_original,name,id
 361597,Bulgarian National Film Center,64275
 299001,Minds Meet,12583
 375746,,
-441826,,
 102935,Naked Edge Films,13150
 102935,Racing Horse Productions,79282
 376934,,
@@ -80264,14 +79562,12 @@ id_original,name,id
 40886,Fuji Television Network,3341
 40886,PONY CANYON,15309
 264356,,
-80617,,
 294682,Shochiku,5906
 74535,,
 81213,,
 415132,Gaumont,9
 415132,Cinéfrance 1888,31229
 415132,Albertine Productions,32714
-56147,,
 67742,,
 384371,TF1 Films Production,3823
 384371,Ciné+,10611
@@ -80292,7 +79588,6 @@ id_original,name,id
 203780,Bazelevs Production,1038
 41493,,
 71186,NTV-PROFIT,21578
-452922,,
 62999,,
 41957,,
 71381,Art Pictures Studio,3451
@@ -80325,7 +79620,6 @@ id_original,name,id
 406107,Aristar Entertainment,89103
 29361,,
 56820,Kurier,21243
-71322,,
 57779,Stella Studio,19024
 56759,,
 59290,,
@@ -80345,7 +79639,6 @@ id_original,name,id
 144712,Chesler/Perlmutter Productions,4598
 164502,Enjoy Movies,9340
 39137,,
-340155,,
 53945,,
 61139,CTB Film Company,318
 61139,Pygmalion Production,25924
@@ -80376,9 +79669,6 @@ id_original,name,id
 143005,,
 53086,MB Productions,5950
 53086,Stimul M Production,26520
-62997,Globus Film Studio,15973
-62997,Cinemotion Group,21575
-62731,,
 336484,Наше Кино,51363
 160046,Soyuzmultfilm,14599
 90001,Soyuzmultfilm,14599
@@ -80424,7 +79714,6 @@ id_original,name,id
 19312,Active Entertainment,10345
 19312,Equity Pictures Medienfonds GmbH & Co. KG III,10885
 57207,Paradiz Prodakshnz,18685
-62787,Sataifilm,48860
 51275,Pravoslavnaya Encyclopaedia,16700
 111332,Lightstorm Entertainment,574
 34417,Shadowlight Productions,5460
@@ -80504,7 +79793,6 @@ id_original,name,id
 134732,,
 43241,Malibu Productions,13597
 85854,Malibu Productions,13597
-118155,,
 39402,Lux Film,1679
 39402,Galatea Film,12240
 39402,Urania Film,12242
@@ -80631,7 +79919,6 @@ id_original,name,id
 4820,Canterbury Productions,1845
 4820,Metro-Goldwyn-Mayer (MGM),8411
 319966,,
-456956,,
 329255,,
 40420,Gaumont,9
 450225,,
@@ -80704,7 +79991,6 @@ id_original,name,id
 67840,,
 135787,,
 260666,,
-327253,,
 154727,Tokuma Shoten,1779
 423360,Russian Golden Episodes,84939
 11930,Delux Productions,1472
@@ -80725,9 +80011,6 @@ id_original,name,id
 447236,,
 110131,Hunnia Filmgyár,44089
 41075,,
-37587,Budapest Film,26445
-37587,Hajdu Film,48211
-37587,Pannónia Filmstúdió,48669
 41055,,
 8776,MAFILM Stúdió 1,2501
 41689,,
@@ -80749,7 +80032,6 @@ id_original,name,id
 124505,Nippon Shuppan Hanbai (Nippan) K.K.,3032
 124505,Shogakukan,9149
 133977,,
-39827,,
 277396,Lion International,10705
 49168,Zweites Deutsches Fernsehen (ZDF),4606
 49168,Centre National de la Cinématographie (CNC),18367
@@ -80827,7 +80109,6 @@ id_original,name,id
 76812,Ambi Pictures,27753
 76812,Compadre Entertainment,59663
 76812,Paradox Studios,72810
-430448,50 Eggs,84494
 419601,Mosfilm,5120
 419601,Gaumont International,7961
 419601,Deutsche Film AG,25148
@@ -80974,7 +80255,6 @@ id_original,name,id
 51424,,
 327982,Art Pictures Studio,3451
 327982,Kinoslovo,21179
-453053,Hulu,58423
 176167,Gaumont,9
 176167,Bavaria Film,1704
 176167,Artificial Eye,11895
@@ -81001,7 +80281,6 @@ id_original,name,id
 402919,VPRO,85213
 402919,Filmperspektive GmbH,87995
 413992,,
-412059,,
 436305,Crossing the Line Productions,90490
 181564,Mosfilm,5120
 151652,Kazakhfilm Studios,3623
@@ -81020,15 +80299,9 @@ id_original,name,id
 115788,,
 383526,Araucaria Cine,73385
 383526,5AM Producciones,88833
-367966,,
 408616,Tempo Productions Limited,60622
 408616,Greenroom Entertainment,70773
 419192,General Film Corporation,13742
-44105,Greek Film Center,7254
-44105,Max Productions,18587
-44105,Highway Productions,32194
-44105,Mavi Film,43382
-44105,Inkas Film & T.V. Productions,75419
 142881,Mosfilm,5120
 392794,Wild Bunch,856
 392794,Les Films Du Fleuve,1926
@@ -81053,7 +80326,6 @@ id_original,name,id
 73545,,
 63299,Lenfilm,10845
 109262,First National Pictures,3245
-63584,Gorky Film Studios,21978
 204802,Mosfilm,5120
 195503,Lenfilm,10845
 448879,,
@@ -81185,7 +80457,6 @@ id_original,name,id
 69103,"RKO Radio Pictures, Inc.",61
 69103,Walt Disney Productions,3166
 66878,Walt Disney Pictures,2
-104473,Star-Film,7159
 105980,Killer Films,1422
 105980,Hart-Sharp Entertainment,11351
 22578,M6 Films,1115
@@ -81279,7 +80550,6 @@ id_original,name,id
 196491,,
 36874,Biograph Company,21555
 20650,Biograph Company,21555
-49270,Biograph Company,21555
 174565,,
 176896,BBC,5996
 366860,Producciones Brooks,67229
@@ -81362,7 +80632,6 @@ id_original,name,id
 428612,,
 387929,Williams Street,6760
 387929,AB Video Solutions,41574
-425916,,
 127144,This is It Collective,50104
 255384,Blink Industries,50109
 368051,This is It Collective,50104
@@ -81497,7 +80766,6 @@ id_original,name,id
 91902,Tribeca Film,20670
 91902,Rob Heydon Productions,51188
 332788,BKM Film,15268
-432607,,
 441881,Kabir Khan Films,59293
 441881,Salman Khan Films,59294
 448847,Fiction Films,20783
@@ -81557,19 +80825,14 @@ id_original,name,id
 116336,Warner Bros.,6194
 116336,Jaguar Productions,15606
 446345,Les Meutes Films,87656
-429200,Rhea Films,37504
-429200,A24,41077
-429200,Elara Pictures,94312
 37991,Francoriz Production,1638
 37991,Omnia-Film,5676
 37991,Rizzoli Film,12778
 384669,,
-412758,Evolution Pictures,4061
 331110,Bisojo Media Producciones S.L.,79377
 331110,Stop and Play Europa S.L.,79380
 331110,"Bow, Arrow S.L.",79382
 331110,Chester Media Producciones S.L.,79383
-436882,Farmhouse Film & TV,85770
 184363,Kultkino,75167
 445840,,
 92475,Mezhrabpomfilm,8970
@@ -81600,10 +80863,6 @@ id_original,name,id
 449758,Netflix,59811
 449758,Rock Paper Scissors,61131
 440143,,
-433054,Passion Pictures,11594
-433054,CNN Films,29605
-433054,Prettybird,40797
-433054,Bergen Mabile Productions,92478
 381519,Bandai Visual Company,528
 381519,Production I.G,5781
 381519,Toho,5897
@@ -81669,7 +80928,6 @@ id_original,name,id
 394260,Ad Vitam Production,33279
 394260,IBC Movie,46111
 394260,Kavac Film,63459
-352494,,
 350808,,
 463800,Oats Studio,91393
 26147,Talent House,4463
@@ -81682,7 +80940,6 @@ id_original,name,id
 363925,Globo filmes,10954
 363925,Querosene Filmes,49756
 363925,TC Filmes,50995
-398295,,
 132320,,
 64202,DC Comics,429
 64202,Warner Bros. Family Entertainment,3592
@@ -81740,10 +80997,8 @@ id_original,name,id
 432615,Code Blue Foundation,92456
 432615,EarthSense Foundation,92457
 432615,"Kendeda Fund, The",92458
-433067,YouTube Red,73091
 352387,,
 359749,Exhibit A Pictures,63267
-430834,,
 415086,Spark Media,10081
 433084,,
 422842,The Hallmark Channel,6425
@@ -81752,7 +81007,6 @@ id_original,name,id
 313943,Tea Shop & Film Company,13161
 313943,42 Films,22508
 313943,Movie Power,75895
-455675,,
 345916,Modern Love,56239
 353491,Imagine Entertainment,23
 353491,Weed Road Pictures,433
@@ -81787,7 +81041,6 @@ id_original,name,id
 101538,,
 417489,Item 7,7177
 417489,Jessie Films,68273
-58828,Walt Disney Productions,3166
 460846,Nu Image / Millennium Films,25473
 460846,Nu Boyana Film Studios,74795
 16839,Anvil Films,8833
@@ -81796,7 +81049,6 @@ id_original,name,id
 126314,HvD Productions,76889
 126314,L&G Hungary,76890
 18359,,
-394185,"Chaos, a Film Company",2749
 404733,Kinology,18626
 404733,Umedia,19037
 404733,Setient Pictures,78821
@@ -81843,10 +81095,8 @@ id_original,name,id
 444902,Lionsgate Television,28523
 54988,,
 340856,,
-49492,,
 6029,Mosfilm,5120
 401427,,
-439314,,
 14247,Destination Films,769
 14247,Sandstorm Films,2876
 408755,,
@@ -81854,8 +81104,6 @@ id_original,name,id
 83486,Dovzhenko Film Studios,4581
 314238,,
 298540,,
-355193,Caramel Film,23108
-355193,Mednick Productions,61203
 465044,,
 390747,Topiary Productions,64282
 390747,Green Fuse Films,80147
@@ -81874,7 +81122,6 @@ id_original,name,id
 296779,Westdeutscher Rundfunk (WDR),7025
 296779,Regina Ziegler Filmproduktion,12994
 69841,Mosfilm,5120
-128268,,
 58763,,
 40544,,
 152155,"Yellow, Black & White",42877
@@ -81900,7 +81147,6 @@ id_original,name,id
 21044,Blue Sky Studios,9383
 307649,"Yellow, Black & White",42877
 307649,Patriot Productions,42878
-63568,Mosfilm,5120
 75232,Escandalo Films,7846
 75232,Escándalo Films,7847
 10524,France 3 Cinéma,591
@@ -81953,7 +81199,6 @@ id_original,name,id
 463906,,
 63449,Gorky Film Studios,21978
 68180,,
-438910,,
 440708,,
 67431,,
 57413,,
@@ -81966,7 +81211,6 @@ id_original,name,id
 204821,,
 69560,Hallmark Entertainment,4056
 69560,Von Zerneck Sertner Films,19237
-41811,,
 51078,,
 65662,,
 222383,,
@@ -82034,14 +81278,12 @@ id_original,name,id
 385305,,
 440597,Broad Green Pictures,49389
 440597,Busted Shark Productions,60621
-433711,,
 417870,Universal Pictures,33
 417870,Will Packer Productions,49968
 419459,Magnolia Pictures,1030
 407448,Metro-Goldwyn-Mayer (MGM),8411
 407448,Annapurna Pictures,13184
 407448,First Light Production,20344
-414453,,
 329005,,
 213204,Wisconsin,64806
 117800,Takarazuka Eiga Company Ltd.,3687
@@ -82161,7 +81403,6 @@ id_original,name,id
 59958,Spotlight Films,26555
 432025,Next Film,46346
 36391,,
-87229,Mystery Productions,88966
 383618,Viking Film,44438
 383618,Snowcloud Films,73519
 10819,Telewizja Polska - Agencja Filmowa,15417
@@ -82240,7 +81481,6 @@ id_original,name,id
 435473,BondIt,75357
 269981,,
 183088,,
-335251,,
 430365,M6 Films,1115
 430365,SND,2902
 430365,Canal+,5358
@@ -82344,7 +81584,6 @@ id_original,name,id
 97672,,
 100152,,
 62757,,
-449131,,
 61966,Krasnaya Strela,3006
 63281,Profit,21163
 70965,Staralis Film Company,19791
@@ -82391,7 +81630,6 @@ id_original,name,id
 14008,Walt Disney Television,670
 14008,Disney Channel,3213
 14008,Leider/Shapiro Productions,87552
-44330,,
 49279,Star Film Company,45867
 44333,Star-Film,7159
 49277,Star-Film,7159
@@ -82417,7 +81655,6 @@ id_original,name,id
 30840,Working Title Films,10163
 30840,20th Century Fox Television,16323
 30840,CanWest Global Communications,38978
-439050,,
 111109,Sine Olivia,19653
 67758,American World Pictures,6165
 227506,Yermoliev,88753
