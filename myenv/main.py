@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse
 import pandas as pd
+import numpy as np
 
 df_director= pd.read_csv(r'C:\Users\flori\Desktop\DATA SCIENCE\LABS\Trabajos\Proyecto_Indiv_1_MLO_Henry\ETL\DESANIDANDO\DirectorFUNCION.csv')
 df_reducido= pd.read_csv(r'C:\Users\flori\Desktop\DATA SCIENCE\LABS\Trabajos\Proyecto_Indiv_1_MLO_Henry\FUNCIONES\DuracionFuncion.csv')
@@ -16,7 +17,7 @@ app = FastAPI(title='Trabajo 1 MLO Henry Constanza Florio', description='Funcion
 
 @app.get('/peliculas_idioma/{idioma}')
 def peliculas_idioma(idioma: str):
-    #dfidiomas= pd.read_csv(r'C:\Users\flori\Desktop\DATA SCIENCE\LABS\Trabajos\Proyecto_Indiv_1_MLO_Henry\ETL\DESANIDANDO\LenguageCANTIDAD.csv')
+    dfidiomas= pd.read_csv(r'C:\Users\flori\Desktop\DATA SCIENCE\LABS\Trabajos\Proyecto_Indiv_1_MLO_Henry\ETL\DESANIDANDO\LenguageCANTIDAD.csv')
     # Filtrar el DataFrame para obtener las películas en el idioma dado
     peliculas_en_idioma = dfidiomas[dfidiomas['original_language'] == idioma]
     
@@ -57,7 +58,7 @@ def franquicia(franquicia: str):
     
     # Verificar si se encontraron películas para la franquicia dada
     if peliculas_franquicia.empty:
-        return None  # O un mensaje indicativo de que no se encontraron películas
+        return {"Ese valor no corresponde a ninguna franquicia en nuestros datos"}  # O un mensaje indicativo de que no se encontraron películas
     
     # Obtener la cantidad de peliculas en el idioma dado
     cantidad = peliculas_franquicia['id'].values[0]
@@ -104,7 +105,7 @@ def productoras_exitosas(productora: str):
     
     # Verificar si se encontraron películas para la franquicia dada
     if peliculas_productora.empty:
-        return None  # O un mensaje indicativo de que no se encontraron películas
+        return {'Valor inexistente'}  # O un mensaje indicativo de que no se encontraron películas
     
     # Obtener la cantidad de peliculas en el idioma dado
     cantidad = peliculas_productora['id'].values[0]
@@ -138,7 +139,7 @@ def get_director(nombre_director: str):
     
     # Verificar si el director se encuentra en el DataFrame
     if peliculas_director.empty:
-        return None  # O un mensaje indicativo de que el director no se encontró
+        return {'Valor inexistente'}  # O un mensaje indicativo de que el director no se encontró
     
     # Calcular el éxito del director sumando los retornos individuales de sus películas
     retorno_total_director = peliculas_director['return'].sum()

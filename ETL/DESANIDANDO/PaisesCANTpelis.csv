@@ -1,162 +1,162 @@
 name,id_original
-,6081
-Afghanistan,8
-Albania,5
-Algeria,13
-Angola,3
-Antarctica,1
-Argentina,249
-Armenia,8
-Aruba,6
-Australia,564
-Austria,207
-Azerbaijan,2
-Bahamas,5
-Bangladesh,2
-Barbados,1
-Belarus,9
-Belgium,442
-Bermuda,1
-Bhutan,4
-Bolivia,10
-Bosnia and Herzegovina,34
-Botswana,3
-Brazil,290
-Brunei Darussalam,1
-Bulgaria,56
-Burkina Faso,10
-Cambodia,9
-Cameroon,5
-Canada,1744
-Cayman Islands,1
-Chad,4
-Chile,66
-China,370
-Colombia,34
-Congo,5
-Costa Rica,6
-Cote D'Ivoire,2
-Croatia,77
-Cuba,24
-Cyprus,7
-Czech Republic,208
-Czechoslovakia,4
-Denmark,382
-Dominican Republic,8
-East Germany,6
-Ecuador,10
-Egypt,25
-El Salvador,3
-Estonia,59
-Ethiopia,5
-Finland,380
-France,3900
-French Polynesia,1
-French Southern Territories,1
-Georgia,30
-Germany,2240
-Ghana,4
-Gibraltar,1
-Greece,167
-Guatemala,6
-Guinea,1
-Honduras,1
-Hong Kong,591
-Hungary,168
-Iceland,66
-India,821
-Indonesia,33
-Iran,100
-Iraq,8
-Ireland,224
-Israel,146
-Italy,2146
-Jamaica,4
-Japan,1641
-Jordan,9
-Kazakhstan,21
-Kenya,3
-Kuwait,1
-Kyrgyz Republic,6
-Lao People's Democratic Republic,3
-Latvia,29
-Lebanon,14
-Liberia,3
-Libyan Arab Jamahiriya,3
-Liechtenstein,8
-Lithuania,36
-Luxembourg,88
-Macao,2
-Macedonia,15
-Madagascar,1
-Malaysia,13
-Mali,2
-Malta,9
-Martinique,1
-Mauritania,5
-Mexico,328
-Moldova,1
-Monaco,4
-Mongolia,3
-Montenegro,7
-Morocco,32
-Myanmar,1
-Namibia,3
-Nepal,5
-Netherlands,370
-Netherlands Antilles,1
-New Zealand,122
-Nicaragua,3
-Nigeria,6
-North Korea,3
-Norway,201
-Pakistan,18
-Palestinian Territory,10
-Panama,7
-Papua New Guinea,2
-Paraguay,3
-Peru,30
-Philippines,81
-Poland,314
-Portugal,128
-Puerto Rico,13
-Qatar,14
-Romania,141
-Russia,902
-Rwanda,4
-Samoa,1
-Saudi Arabia,2
-Senegal,14
-Serbia,105
-Serbia and Montenegro,3
-Singapore,40
-Slovakia,30
-Slovenia,31
-Somalia,1
-South Africa,123
-South Korea,494
-Soviet Union,20
-Spain,956
-Sri Lanka,3
-Sweden,586
-Switzerland,251
-Syrian Arab Republic,5
-Taiwan,128
-Tajikistan,3
-Tanzania,2
-Thailand,115
-Trinidad and Tobago,2
-Tunisia,18
-Turkey,158
-Uganda,2
-Ukraine,55
-United Arab Emirates,27
-United Kingdom,4073
-United States Minor Outlying Islands,1
-United States of America,21015
-Uruguay,18
-Uzbekistan,6
-Venezuela,19
-Vietnam,10
-Yugoslavia,4
-Zimbabwe,3
+,6081.0
+Afghanistan,8.0
+Albania,5.0
+Algeria,13.0
+Angola,3.0
+Antarctica,1.0
+Argentina,249.0
+Armenia,8.0
+Aruba,6.0
+Australia,564.0
+Austria,207.0
+Azerbaijan,2.0
+Bahamas,5.0
+Bangladesh,2.0
+Barbados,1.0
+Belarus,9.0
+Belgium,442.0
+Bermuda,1.0
+Bhutan,4.0
+Bolivia,10.0
+Bosnia and Herzegovina,34.0
+Botswana,3.0
+Brazil,290.0
+Brunei Darussalam,1.0
+Bulgaria,56.0
+Burkina Faso,10.0
+Cambodia,9.0
+Cameroon,5.0
+Canada,1744.0
+Cayman Islands,1.0
+Chad,4.0
+Chile,66.0
+China,370.0
+Colombia,34.0
+Congo,5.0
+Costa Rica,6.0
+Cote D'Ivoire,2.0
+Croatia,77.0
+Cuba,24.0
+Cyprus,7.0
+Czech Republic,208.0
+Czechoslovakia,4.0
+Denmark,382.0
+Dominican Republic,8.0
+East Germany,6.0
+Ecuador,10.0
+Egypt,25.0
+El Salvador,3.0
+Estonia,59.0
+Ethiopia,5.0
+Finland,380.0
+France,3900.0
+French Polynesia,1.0
+French Southern Territories,1.0
+Georgia,30.0
+Germany,2240.0
+Ghana,4.0
+Gibraltar,1.0
+Greece,167.0
+Guatemala,6.0
+Guinea,1.0
+Honduras,1.0
+Hong Kong,591.0
+Hungary,168.0
+Iceland,66.0
+India,821.0
+Indonesia,33.0
+Iran,100.0
+Iraq,8.0
+Ireland,224.0
+Israel,146.0
+Italy,2146.0
+Jamaica,4.0
+Japan,1641.0
+Jordan,9.0
+Kazakhstan,21.0
+Kenya,3.0
+Kuwait,1.0
+Kyrgyz Republic,6.0
+Lao People's Democratic Republic,3.0
+Latvia,29.0
+Lebanon,14.0
+Liberia,3.0
+Libyan Arab Jamahiriya,3.0
+Liechtenstein,8.0
+Lithuania,36.0
+Luxembourg,88.0
+Macao,2.0
+Macedonia,15.0
+Madagascar,1.0
+Malaysia,13.0
+Mali,2.0
+Malta,9.0
+Martinique,1.0
+Mauritania,5.0
+Mexico,328.0
+Moldova,1.0
+Monaco,4.0
+Mongolia,3.0
+Montenegro,7.0
+Morocco,32.0
+Myanmar,1.0
+Namibia,3.0
+Nepal,5.0
+Netherlands,370.0
+Netherlands Antilles,1.0
+New Zealand,122.0
+Nicaragua,3.0
+Nigeria,6.0
+North Korea,3.0
+Norway,201.0
+Pakistan,18.0
+Palestinian Territory,10.0
+Panama,7.0
+Papua New Guinea,2.0
+Paraguay,3.0
+Peru,30.0
+Philippines,81.0
+Poland,314.0
+Portugal,128.0
+Puerto Rico,13.0
+Qatar,14.0
+Romania,141.0
+Russia,902.0
+Rwanda,4.0
+Samoa,1.0
+Saudi Arabia,2.0
+Senegal,14.0
+Serbia,105.0
+Serbia and Montenegro,3.0
+Singapore,40.0
+Slovakia,30.0
+Slovenia,31.0
+Somalia,1.0
+South Africa,123.0
+South Korea,494.0
+Soviet Union,20.0
+Spain,956.0
+Sri Lanka,3.0
+Sweden,586.0
+Switzerland,251.0
+Syrian Arab Republic,5.0
+Taiwan,128.0
+Tajikistan,3.0
+Tanzania,2.0
+Thailand,115.0
+Trinidad and Tobago,2.0
+Tunisia,18.0
+Turkey,158.0
+Uganda,2.0
+Ukraine,55.0
+United Arab Emirates,27.0
+United Kingdom,4073.0
+United States Minor Outlying Islands,1.0
+United States of America,21015.0
+Uruguay,18.0
+Uzbekistan,6.0
+Venezuela,19.0
+Vietnam,10.0
+Yugoslavia,4.0
+Zimbabwe,3.0
