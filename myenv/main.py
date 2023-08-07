@@ -1,14 +1,15 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse
+import os
 import pandas as pd
 import numpy as np
 
-df_director= pd.read_csv('DirectorFUNCION.csv')
-df_reducido= pd.read_csv('DuracionFUNCION.csv')
-franquicia2= pd.read_csv('Franquicias.csv')
-dfidiomas= pd.read_csv('LenguageCANTIDAD.csv')
-dfpaises= pd.read_csv('PaisesCANTpelis.csv')
-dfprodu= pd.read_csv('ProductorasFuncion.csv')
+df_director= pd.read_csv('ETL/DESANIDANDO/DirectorFuncion.csv')
+df_reducido= pd.read_csv('FUNCIONES/DuracionFuncion.csv')
+franquicia2= pd.read_csv('ETL/DESANIDANDO/Franquicias.csv')
+dfidiomas= pd.read_csv('ETL/DESANIDANDO/LenguageCANTIDAD.csv')
+dfpaises= pd.read_csv('ETL/DESANIDANDO/PaisesCANTpelis.csv')
+dfprodu= pd.read_csv('ETL/DESANIDANDO/ProductorasFuncion.csv')
 
 
 app = FastAPI(title='Trabajo 1 MLO Henry Constanza Florio', description='Funciones')
@@ -17,7 +18,7 @@ app = FastAPI(title='Trabajo 1 MLO Henry Constanza Florio', description='Funcion
 
 @app.get('/peliculas_idioma/{idioma}')
 def peliculas_idioma(idioma: str):
-    dfidiomas= pd.read_csv(r'C:\Users\flori\Desktop\DATA SCIENCE\LABS\Trabajos\Proyecto_Indiv_1_MLO_Henry\ETL\DESANIDANDO\LenguageCANTIDAD.csv')
+    
     # Filtrar el DataFrame para obtener las películas en el idioma dado
     peliculas_en_idioma = dfidiomas[dfidiomas['original_language'] == idioma]
     
