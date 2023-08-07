@@ -4,12 +4,12 @@ import os
 import pandas as pd
 import numpy as np
 
-df_director= pd.read_csv('ETL/DESANIDANDO/DirectorFuncion.csv')
-df_reducido= pd.read_csv('FUNCIONES/DuracionFuncion.csv')
-franquicia2= pd.read_csv('ETL/DESANIDANDO/Franquicias.csv')
-dfidiomas= pd.read_csv('ETL/DESANIDANDO/LenguageCANTIDAD.csv')
-dfpaises= pd.read_csv('ETL/DESANIDANDO/PaisesCANTpelis.csv')
-dfprodu= pd.read_csv('ETL/DESANIDANDO/ProductorasFuncion.csv')
+df_director= pd.read_csv('DirectorFUNCION.csv')
+df_reducido= pd.read_csv('DuracionFuncion.csv')
+franquicia2= pd.read_csv('Franquicias.csv')
+dfidiomas= pd.read_csv('LenguageCANTIDAD.csv')
+dfpaises= pd.read_csv('PaisesCANTpelis.csv')
+dfprodu= pd.read_csv('ProductorasFuncion.csv')
 
 
 app = FastAPI(title='Trabajo 1 MLO Henry Constanza Florio', description='Funciones')
