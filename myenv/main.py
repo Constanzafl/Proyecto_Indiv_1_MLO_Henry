@@ -3,12 +3,12 @@ from fastapi.responses import HTMLResponse
 import pandas as pd
 import numpy as np
 
-df_director= pd.read_csv('C:/Users/flori/Desktop/DATA SCIENCE/LABS/Trabajos/Proyecto_Indiv_1_MLO_Henry/myenv/DirectorFUNCION.csv')
-df_reducido= pd.read_csv('C:/Users/flori/Desktop/DATA SCIENCE/LABS/Trabajos/Proyecto_Indiv_1_MLO_Henry/myenv/DuracionFuncion.csv')
-franquicia2= pd.read_csv('C:/Users/flori/Desktop/DATA SCIENCE/LABS/Trabajos/Proyecto_Indiv_1_MLO_Henry/myenv/Franquicias.csv')
-dfidiomas= pd.read_csv('C:/Users/flori/Desktop/DATA SCIENCE/LABS/Trabajos/Proyecto_Indiv_1_MLO_Henry/myenv/LenguageCANTIDAD.csv')
-dfpaises= pd.read_csv('C:/Users/flori/Desktop/DATA SCIENCE/LABS/Trabajos/Proyecto_Indiv_1_MLO_Henry/myenv/PaisesCANTpelis.csv')
-dfprodu= pd.read_csv('C:/Users/flori/Desktop/DATA SCIENCE/LABS/Trabajos/Proyecto_Indiv_1_MLO_Henry/yenv/ProductorasFuncion.csv')
+df_director= pd.read_csv('DirectorFUNCION.csv')
+df_reducido= pd.read_csv('DuracionFUNCION.csv')
+franquicia2= pd.read_csv('Franquicias.csv')
+dfidiomas= pd.read_csv('LenguageCANTIDAD.csv')
+dfpaises= pd.read_csv('PaisesCANTpelis.csv')
+dfprodu= pd.read_csv('ProductorasFuncion.csv')
 
 
 app = FastAPI(title='Trabajo 1 MLO Henry Constanza Florio', description='Funciones')
