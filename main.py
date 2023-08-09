@@ -16,9 +16,6 @@ franquicia2= pd.read_csv('Franquicias.csv')
 dfidiomas= pd.read_csv('LenguageCANTIDAD.csv')
 dfpaises= pd.read_csv('PaisesCANTpelis.csv')
 dfprodu= pd.read_csv('ProductorasFuncion.csv')
-df_top_5=pd.read_csv('Top15kpelis.csv')
-filters=pd.read_csv('filters.csv')
-df_concat3=pd.read_csv('FuncionML.csv')
 
 app = FastAPI(title='Trabajo 1 MLO Henry Constanza Florio', description='Sistema de Recomendacion')
 
@@ -183,36 +180,49 @@ def get_director(nombre_director: str):
     return respuesta
 
 
-filters.fillna('', inplace=True)
-filters= filters.reset_index()
-indices=pd.Series(filters.index, index=filters['title'])
+filters2= pd.read_csv('filters2.csv')
+df_top_4=pd.read_csv('Funcion4milpelis.csv')
+indices=pd.Series(filters2.index, index=filters2['title'])
 
 @app.get('/recomendacion/{title}')
-def recomendacion_peli(title):
-    '''Ingresas un nombre de pelicula y te recomienda las similares en una lista'''
- 
-    count= CountVectorizer(stop_words='english')
-    count_matrix= count.fit_transform(filters['metadatos'])
-    cosine_sim2= cosine_similarity(count_matrix, count_matrix)
+def recomendacion(title):
+    '''Ingresa un nombre de película y devuelve una lista de películas similares basadas en sus resúmenes'''
     
-    title=title.replace(' ','').lower() 
-    if title not in indices:
-        return {'Mensaje': 'Valor inexistente'}
+    # instancia de CountVectorizer para convertir los textos en vectores numéricos 
+    count = CountVectorizer(stop_words='english') # palabras vacias o comunes en el idioma indicado como english .
+    count_matrix = count.fit_transform(filters2['metadatos']) # utilizamos la columna overviwe de nuestro dataframe df_top_5., y matriziamos el conteo de cada palabra
     
-    idx= indices[title]
+    # # Calcularemos la similitud del coseno entre los vectores que representan los overview de las películas en df_top_5.
+    cosine_sim = cosine_similarity(count_matrix, count_matrix)
     
-    sim_scores = list(enumerate(cosine_sim2[idx]))
+    # Convertir el título a minúsculas y eliminar espacios en blanco
+    title = title.replace(' ', '').lower() 
     
-    sim_scores= sorted(sim_scores, key=lambda x: x[1], reverse=True)
+    # índice de la película en el df_top_5
+    if title not in indices: # esto verifica si el nombre ingresado se encuentra en la columna title
+        return {'Mensaje': 'Película no encontrada'} # si no la encuentra sale este mensaje
     
-    sim_scores= sim_scores[1:6]
+    idx = df_top_4[df_top_4['title'].str.replace(' ', '').str.lower() == title].index[0] #  busca el índice correspondiente de la película en el DataFrame df_top_5
     
-    movie_indices= [i[0] for i in sim_scores]
-    
-    lista= df_concat3['title'].iloc[movie_indices]
-    lista2= lista.to_list()
-    
-    return lista2
+    # nos indica los puntajes de similitud y los ordena.
+    sim_scores = list(enumerate(cosine_sim[idx])) # aqui esta obteniendo los puntajes de similitud
+    sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True) # posteriomente los estamos ordenando. El lambda usa como entrada (x) y devuelve el valor de similitud (x[1])
+    # ponemo el reverse true porque ordena en orden descendente según el valor de similitud, valga la redundancia.
 
+
+
+    #Para que devuelva solamente las pelis unicamente que indiquemos, si elimino esta linea devuelve una lista mucho mayor de peliculas similares.
+    sim_scores = sim_scores[1:6] #[1:6] para que devuelva solamente 5
+    
+    # índices de las películas similares (excluyendo la película consultada)
+    similar_movie_indices = [i[0] for i in sim_scores if i[0] != idx]
+    # Tomaremos cada elemento 'i' en la lista 'sim_scores'.
+    # extrae los indices creados en sim_scores y crea una lista de índices (i[0]) solamente si el índice no es igual al índice de la película consultada (idx). 
+    # Esto excluye el índice de la película consultada de la lista de índices de películas similares, != idx] esto indica eso, es decir que no es igual al indice de la peli indicada.
+    
+    # Obtener la lista de títulos de películas similares
+    similar_movie_titles = df_top_4['title'].iloc[similar_movie_indices].tolist()
+    
+    return similar_movie_titles 
 
 
