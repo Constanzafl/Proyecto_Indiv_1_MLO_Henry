@@ -183,29 +183,25 @@ def get_director(nombre_director: str):
     return respuesta
 
 
-
+filters.fillna('', inplace=True)
 filters= filters.reset_index()
 indices=pd.Series(filters.index, index=filters['title'])
 
 @app.get('/recomendacion/{title}')
 def recomendacion_peli(title):
     '''Ingresas un nombre de pelicula y te recomienda las similares en una lista'''
-    tfidf= TfidfVectorizer(stop_words='english')
-    df_top_5['overview'].fillna('', inplace=True)
-    tfidf_matrix = tfidf.fit_transform(df_top_5['overview'])
-    cosine_sim= linear_kernel(tfidf_matrix, tfidf_matrix)
-
+ 
     count= CountVectorizer(stop_words='english')
     count_matrix= count.fit_transform(filters['metadatos'])
     cosine_sim2= cosine_similarity(count_matrix, count_matrix)
     
-    cosine_sim=cosine_sim2
-
     title=title.replace(' ','').lower() 
+    if title not in indices:
+        return {'Mensaje': 'Valor inexistente'}
     
     idx= indices[title]
     
-    sim_scores= list(enumerate(cosine_sim[idx]))
+    sim_scores = list(enumerate(cosine_sim2[idx]))
     
     sim_scores= sorted(sim_scores, key=lambda x: x[1], reverse=True)
     
