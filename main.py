@@ -27,6 +27,8 @@ app = FastAPI(title='Trabajo 1 MLO Henry Constanza Florio', description='Sistema
 @app.get('/peliculas_idioma/{idioma}')
 def peliculas_idioma(idioma: str):
     '''Ingresas el idioma, retornando la cantidad de peliculas producidas en el mismo'''
+    idioma=idioma.replace(' ','').lower()
+    
     # Filtrar el DataFrame para obtener las películas en el idioma dado
     peliculas_en_idioma = dfidiomas[dfidiomas['original_language'] == idioma]
     
@@ -51,7 +53,7 @@ def peliculas_duracion(pelicula: str):
     
     # Verificar si se encontró la película en el DataFrame
     if pelicula_info.empty:
-        return None  # O un mensaje indicativo de que no se encontró la película
+        return {'Valor inexistente'}  # O un mensaje indicativo de que no se encontró la película
     
     # Obtener la duración y el año de la película
     duracion = pelicula_info['runtime'].values[0]
@@ -181,21 +183,24 @@ def get_director(nombre_director: str):
     return respuesta
 
 
-tfidf= TfidfVectorizer(stop_words='english')
-df_top_5['overview'].fillna('', inplace=True)
-tfidf_matrix = tfidf.fit_transform(df_top_5['overview'])
-cosine_sim= linear_kernel(tfidf_matrix, tfidf_matrix)
 
-count= CountVectorizer(stop_words='english')
-count_matrix= count.fit_transform(filters['metadatos'])
-cosine_sim2= cosine_similarity(count_matrix, count_matrix)
 filters= filters.reset_index()
 indices=pd.Series(filters.index, index=filters['title'])
 
 @app.get('/recomendacion/{title}')
-def recomendacion_peli(title:str, cosine_sim=cosine_sim2.all()):
+def recomendacion_peli(title):
     '''Ingresas un nombre de pelicula y te recomienda las similares en una lista'''
+    tfidf= TfidfVectorizer(stop_words='english')
+    df_top_5['overview'].fillna('', inplace=True)
+    tfidf_matrix = tfidf.fit_transform(df_top_5['overview'])
+    cosine_sim= linear_kernel(tfidf_matrix, tfidf_matrix)
+
+    count= CountVectorizer(stop_words='english')
+    count_matrix= count.fit_transform(filters['metadatos'])
+    cosine_sim2= cosine_similarity(count_matrix, count_matrix)
     
+    cosine_sim=cosine_sim2
+
     title=title.replace(' ','').lower() 
     
     idx= indices[title]
