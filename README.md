@@ -31,10 +31,10 @@
 1. Luego para disponibilizar los datos, usamos el framework FastAPI de forma local y para que estos datos esten de manera virtual levantamos un deploy en Render.
 
 ## Datos 
-# Los data sets originales están en el siguiente link: 
-# Movies: 
+Los data sets originales están en el siguiente link: 
+- Movies: 
 https://drive.google.com/file/d/1DbiA12FkEJtCJPcgpRyfeX3nb_EaX3ni/view?usp=drive_link
-# Credits:
+- Credits:
 https://drive.google.com/file/d/1dGMg_oC9glYpXvrhNKZZSbneX6w25jlh/view?usp=drive_link
 
 # Trabaje en VSC utilizando Python y cree carpetas y nuevos data sets:
@@ -51,9 +51,9 @@ https://drive.google.com/file/d/1dGMg_oC9glYpXvrhNKZZSbneX6w25jlh/view?usp=drive
 * Por fuera de estas carpetas y en la carpeta principal, quedaron los archivos requirements.txt, main.py y el readme. Además, todos los data sets finales que utilizo en el archivo main con las funciones. Tuve que poner los data sets en el mismo lugar que el main, en la carpeta principal para que en Render corriera sin errores. 
 
 ## Links de referencia
-# 1.	Render: 
+1.	Render: 
 https://tt-pp34.onrender.com/docs
-# 2.	Video: 
+1.	Video: 
 https://drive.google.com/file/d/1RUdnHzmtKkoy0iYVNptMjuBO9V0s-dBX/view?usp=drive_link
 
 ## Autora del proyecto
