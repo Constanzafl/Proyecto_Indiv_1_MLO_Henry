@@ -4,7 +4,6 @@
 ![.](https://github.com/Constanzafl/Proyecto_Indiv_1_MLO_Henry/assets/121994442/a3f9a312-e16a-4f38-95a0-acb96e292ed2)
 
 Este proyecto se trata de simular un entorno laboral, en el cual hay que crear un modelo de ML para un sistema de recomendacion de peliculas en una plataforma de streaming. 
-https://drive.google.com/file/d/1DbiA12FkEJtCJPcgpRyfeX3nb_EaX3ni/view?usp=drive_link
 
 Los pasos que realice para lograr este modelo, fueron:
 
