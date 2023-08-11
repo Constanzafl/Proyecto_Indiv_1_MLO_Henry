@@ -50,7 +50,7 @@ https://drive.google.com/file/d/1dGMg_oC9glYpXvrhNKZZSbneX6w25jlh/view?usp=drive
 * Myenv: es el medio virtual
 * Por fuera de estas carpetas y en la carpeta principal, quedaron los archivos requirements.txt, main.py y el readme. Además, todos los data sets finales que utilizo en el archivo main con las funciones. Tuve que poner los data sets en el mismo lugar que el main, en la carpeta principal para que en Render corriera sin errores. 
 
-## Links de referencia
+## Links de referencia:
 1.	Render: 
 https://tt-pp34.onrender.com/docs
 1.	Video: 
