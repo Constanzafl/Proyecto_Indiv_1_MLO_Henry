@@ -129,9 +129,9 @@ def productoras_exitosas(productora: str):
     
     # Crear el diccionario de respuesta
     respuesta = {
-        'franquicia': productora,
-        'cantidad': cantidad,
-        'ganancia_total': ganancia_total
+        'Productora': productora,
+        'Cantidad': cantidad,
+        'Ganancia_total': ganancia_total
         
     }
     
@@ -160,11 +160,11 @@ def get_director(nombre_director: str):
     peliculas = []
     for index, row in peliculas_director.iterrows():
         pelicula_info = {
-            'nombre': row['title'],
-            'anio': row['release_date'],
-            'retorno_pelicula': row['return'],
-            'budget_pelicula': row['budget'],
-            'revenue_pelicula': row['revenue']
+            'Nombre': row['title'],
+            'Fecha': row['release_date'],
+            'Retorno_pelicula': row['return'],
+            'Budget_pelicula': row['budget'],
+            'Revenue_pelicula': row['revenue']
         }
         peliculas.append(pelicula_info)
     
