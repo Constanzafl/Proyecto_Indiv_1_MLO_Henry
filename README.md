@@ -3,15 +3,15 @@
 
 ![.](https://github.com/Constanzafl/Proyecto_Indiv_1_MLO_Henry/assets/121994442/a3f9a312-e16a-4f38-95a0-acb96e292ed2)
 
-###Indice
-##Resumen
-##Stack tecnológico utilizado
-##Descripcion del Proyecto
-##Datos
-##Links de referencia
-##Autora del proyecto
+### Indice
+## Resumen
+## Stack tecnológico utilizado
+## Descripcion del Proyecto
+## Datos
+## Links de referencia
+## Autora del proyecto
 
-##Resumen
+## Resumen
 Este proyecto se trata de simular un entorno laboral, en el cual hay que crear un modelo de ML para un sistema de recomendación de peliculas en una plataforma de streaming.
 Se utilizan dos data sets iniciales que contienen información relacionada con las películas. Y un diccionario de datos que define la información que encontramos en cada columna.
 Se nos dan determinadas consignas básicas para realizar en la limpieza de datos, dejando a libre elección el resto de las transformaciones y se nos solicita crear 7 funciones, que devuelven cierto dato solicitado de las películas, actores y directores. Y una última función que involucra el sistema de recomendación.
@@ -20,13 +20,13 @@ Se nos dan determinadas consignas básicas para realizar en la limpieza de datos
 •	FastApi
 •	Uvicorn
 •	Render
-##Descripcion del Proyecto
+## Descripcion del Proyecto
 Los pasos que realice para lograr este modelo fueron:
 1. Primero realizar un ETL (Extract Transform Load) partiendo de dos data sets iniciales que se nos dieron, sacando nulos, duplicados, outliers y generando nuevos data sets más pequeños más fáciles de manipular. 
 2. Además realizar un EDA (Exploratory Data Analisis) como para visualizar y graficar las variables de los data sets, y las relaciones entre ellas. A partir de esto podemos sacar algunas conclusiones que pueden servirnos para el análisis de los datos. 
 3.Despues de estos dos procesos, utilicé los datos que obtuve para crear las funciones solicitadas.
 4. Luego para disponibilizar los datos, usamos el framework FastAPI de forma local y para que estos datos esten de manera virtual levantamos un deploy en Render.
-##Datos 
+## Datos 
 Los data sets originales están en el siguiente link: 
 Movies: https://drive.google.com/file/d/1DbiA12FkEJtCJPcgpRyfeX3nb_EaX3ni/view?usp=drive_link
 Credits:
@@ -43,11 +43,11 @@ o	DESANIDANDO: creo distintos archivos ipynb para desanidar cada uno de los data
 •	Myenv: es el medio virtual
 •	Por fuera de estas carpetas y en la carpeta principal, quedaron los archivos requirements.txt, main.py y el readme. Además, todos los data sets finales que utilizo en el archivo main con las funciones. Tuve que poner los data sets en el mismo lugar que el main, en la carpeta principal para que en Render corriera sin errores. 
 
-##Links de referencia
+## Links de referencia
 1.	Render: https://tt-pp34.onrender.com/docs
 2.	Video: https://drive.google.com/file/d/1RUdnHzmtKkoy0iYVNptMjuBO9V0s-dBX/view?usp=drive_link
 
-##Autora del proyecto
+## Autora del proyecto
 Maria Constanza Florio
 https://www.linkedin.com/in/mar%C3%ADa-constanza-florio-1926b5158/
 
