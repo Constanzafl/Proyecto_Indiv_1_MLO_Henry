@@ -12,9 +12,9 @@
 ## Autora del proyecto
 
 ## Resumen
-*Este proyecto se trata de simular un entorno laboral, en el cual hay que crear un modelo de ML para un sistema de recomendación de peliculas en una plataforma de streaming.
-*Se utilizan dos data sets iniciales que contienen información relacionada con las películas. Y un diccionario de datos que define la información que encontramos en cada columna.
-*Se nos dan determinadas consignas básicas para realizar en la limpieza de datos, dejando a libre elección el resto de las transformaciones y se nos solicita crear 7 funciones, que devuelven cierto dato solicitado de las películas, actores y directores. Y una última función que involucra el sistema de recomendación.
+* Este proyecto se trata de simular un entorno laboral, en el cual hay que crear un modelo de ML para un sistema de recomendación de peliculas en una plataforma de streaming.
+* Se utilizan dos data sets iniciales que contienen información relacionada con las películas. Y un diccionario de datos que define la información que encontramos en cada columna.
+* Se nos dan determinadas consignas básicas para realizar en la limpieza de datos, dejando a libre elección el resto de las transformaciones y se nos solicita crear 7 funciones, que devuelven cierto dato solicitado de las películas, actores y directores. Y una última función que involucra el sistema de recomendación.
 
 ## Stack tecnológico utilizado:
 -	Python: librerías dentro de Python como, Numpy, Pandas, Scikit-Learn, Matplotlib, WordCloud, Seaborn, nltk.
