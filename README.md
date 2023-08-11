@@ -40,15 +40,15 @@ https://drive.google.com/file/d/1dGMg_oC9glYpXvrhNKZZSbneX6w25jlh/view?usp=drive
 # Trabaje en VSC utilizando Python y cree carpetas y nuevos data sets:
 # Carpetas:
 
-*EDA: se encuentran dos archivos con los gráficos y analisis correspondiente llamados ANALISIS-UNIVARIADO Y ANALISIS-BIVARIADO. Este lo realizo con los data sets que hice yo luego de las transformaciones. 
-*ETL: tiene a su vez 3 carpetas adentro:
-*A-ETLconsignas: se encuentra un archivo llamado ETL_consignas, en donde aplico las consignas iniciales solicitadas en el instructivo del trabajo. Excepto la de desanidar columnas que la realizo en otra carpeta aparte. Allí creo dos datasets mas pequeños: uno que se llama MoviesSMALL.csv y Movies1.csv.
-*CSVNUEVOS: en el archivo creandocsv utilizo el data set Movies1.csv para realizar distintos data set en función a cada columna que quiero desanidar. Por ejemplo, separo la columna belong_to_colecction con el id, para luego desanidar las franquicias en otro archivo aparte. Lo mismo con géneros, productoras y países. Y creo un data set que contiene solo los lenguajes.
-*DESANIDANDO: creo distintos archivos ipynb para desanidar cada uno de los data sets creados en la carpeta anterior. Luego de desanidarlos creo nuevo data sets que me van a servir para cada función solicitada. Además de desanidar las columnas necesarias, en base a lo que me pedía cada función fui uniendo los distintos data sets que cree.
-*FUNCIONES: luego hice las funciones que se nos solicitaron en las consignas. Para cada función me traje el data set que armé en la carpeta anterior, que tenía las columnas de los datos solicitados en cada una. 
-*ML-FUNCION: archivos de como arme las funciones y los data sets creados para esa función. Achique la cantidad de películas, ya que el modelo sino demoraba mucho.
-*Myenv: es el medio virtual
-*Por fuera de estas carpetas y en la carpeta principal, quedaron los archivos requirements.txt, main.py y el readme. Además, todos los data sets finales que utilizo en el archivo main con las funciones. Tuve que poner los data sets en el mismo lugar que el main, en la carpeta principal para que en Render corriera sin errores. 
+* EDA: se encuentran dos archivos con los gráficos y analisis correspondiente llamados ANALISIS-UNIVARIADO Y ANALISIS-BIVARIADO. Este lo realizo con los data sets que hice yo luego de las transformaciones. 
+* ETL: tiene a su vez 3 carpetas adentro:
+* A-ETLconsignas: se encuentra un archivo llamado ETL_consignas, en donde aplico las consignas iniciales solicitadas en el instructivo del trabajo. Excepto la de desanidar columnas que la realizo en otra carpeta aparte. Allí creo dos datasets mas pequeños: uno que se llama MoviesSMALL.csv y Movies1.csv.
+* CSVNUEVOS: en el archivo creandocsv utilizo el data set Movies1.csv para realizar distintos data set en función a cada columna que quiero desanidar. Por ejemplo, separo la columna belong_to_colecction con el id, para luego desanidar las franquicias en otro archivo aparte. Lo mismo con géneros, productoras y países. Y creo un data set que contiene solo los lenguajes.
+* DESANIDANDO: creo distintos archivos ipynb para desanidar cada uno de los data sets creados en la carpeta anterior. Luego de desanidarlos creo nuevo data sets que me van a servir para cada función solicitada. Además de desanidar las columnas necesarias, en base a lo que me pedía cada función fui uniendo los distintos data sets que cree.
+* FUNCIONES: luego hice las funciones que se nos solicitaron en las consignas. Para cada función me traje el data set que armé en la carpeta anterior, que tenía las columnas de los datos solicitados en cada una. 
+* ML-FUNCION: archivos de como arme las funciones y los data sets creados para esa función. Achique la cantidad de películas, ya que el modelo sino demoraba mucho.
+* Myenv: es el medio virtual
+* Por fuera de estas carpetas y en la carpeta principal, quedaron los archivos requirements.txt, main.py y el readme. Además, todos los data sets finales que utilizo en el archivo main con las funciones. Tuve que poner los data sets en el mismo lugar que el main, en la carpeta principal para que en Render corriera sin errores. 
 
 ## Links de referencia
 # 1.	Render: 
