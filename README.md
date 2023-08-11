@@ -1,7 +1,7 @@
 <h1 align="center"> Primer Proyecto Individual Machien Learning Operations (Bootcamp Henry / Data Science) </h1>
 <h1 align="center"> Sistema de Recomendacion de peliculas </h1>
 
-![](https://github.com/Constanzafl/Proyecto_Indiv_1_MLO_Henry/assets/121994442/8e125d89-5235-4eee-8411-04b7bfe8a838)
+<p align="center"><![](https://github.com/Constanzafl/Proyecto_Indiv_1_MLO_Henry/assets/121994442/8e125d89-5235-4eee-8411-04b7bfe8a838)/> </p>
 
 Este proyecto se trata de simular un entorno laboral, en el cual hay que crear un modelo de ML para un sistema de recomendacion de peliculas en una plataforma de streaming. 
 
