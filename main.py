@@ -112,17 +112,17 @@ def peliculas_pais(pais: str):
 def productoras_exitosas(productora: str):
     '''Ingresas la productora, entregandote el revunue total y la cantidad de peliculas que realizo '''
     
-    # Filtrar el DataFrame para obtener las películas de la franquicia dada
+    # Filtrar el DataFrame para obtener las películas de la productora dada
     peliculas_productora = dfprodu[dfprodu['name'] == productora]
     
-    # Verificar si se encontraron películas para la franquicia dada
+    # Verificar si se encontraron películas para la productora dada
     if peliculas_productora.empty:
         return {'Valor inexistente'}  # O un mensaje indicativo de que no se encontraron películas
     
     # Obtener la cantidad de peliculas en el idioma dado
     cantidad = peliculas_productora['id'].values[0]
     
-    # Obtener la ganancia total de la franquicia
+    # Obtener la ganancia total de la productora
     ganancia_total = peliculas_productora['revenue'].values[0]
     
 
